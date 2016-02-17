@@ -1,0 +1,16 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":2, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":3, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":4, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":5, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":7, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":8, "name":"ALFA", "longname":"Allianz für Fortschritt und Aufbruch"},
+  {"id":9, "name":"Tierschutzallianz", "longname":"Allianz für Menschenrechte, Tier- und Naturschutz"},
+  {"id":10, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":11, "name":"DIE RECHTE", "longname":"DIE RECHTE"},
+  {"id":12, "name":"FBM", "longname":"Freie Bürger Mitteldeutschland"},
+  {"id":13, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"}
+]
