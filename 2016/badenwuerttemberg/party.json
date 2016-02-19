@@ -1,0 +1,22 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":2, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":5, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":6, "name":"REP", "longname":"DIE REPUBLIKANER"},
+  {"id":7, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":8, "name":"ÖDP", "longname":"Ökologisch - Demokratische Partei / Familie und Umwelt"},
+  {"id":9, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":10, "name":"BüSo", "longname":"Bürgerrechtsbewegung Solidarität"},
+  {"id":11, "name":"DKP", "longname":"Deutsche Kommunistische Partei"},
+  {"id":12, "name":"ALFA", "longname":"Allianz für Fortschritt und Aufbruch"},
+  {"id":13, "name":"Tierschutzallianz", "longname":"Allianz für Menschenrechte, Tier- und Naturschutz"},
+  {"id":14, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":15, "name":"Bündnis C", "longname":"Bündnis C - Christen für Deutschland - AUF&PBC"},
+  {"id":16, "name":"DIE RECHTE", "longname":"DIE RECHTE"},
+  {"id":17, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":18, "name":"MENSCHLICHE WELT", "longname":"Menschliche Welt für das Wohl und Glücklich-Sein aller"},
+  {"id":19, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"}
+]
