@@ -1,0 +1,5 @@
+# ignore pdf and zip files (download content)
+
+*.pdf
+*.zip
+
