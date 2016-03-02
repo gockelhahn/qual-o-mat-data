@@ -1,0 +1,7 @@
+[
+  {"id":0, "name":"CDU", "longname":"CDU"},
+  {"id":1, "name":"SPD", "longname":"SPD"},
+  {"id":2, "name":"Die Grünen", "longname":"Bündnis 90 / Die Grünen"},
+  {"id":3, "name":"FDP", "longname":"FDP"},
+  {"id":4, "name":"SSW", "longname":"SSW"}
+]

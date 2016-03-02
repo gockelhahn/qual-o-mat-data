@@ -1,0 +1,5 @@
+[
+  {"id":0, "message":"Stimme zu"},
+  {"id":1, "message":"Stimme nicht zu"},
+  {"id":2, "message":"Neutral"}
+]

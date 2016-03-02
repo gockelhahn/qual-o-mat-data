@@ -1,0 +1,7 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CSU", "longname":"Christlich Soziale Union"},
+  {"id":2, "name":"Freie Wähler Bayern", "longname":"Freie Wähler Bayern"},
+  {"id":3, "name":"Bündnis 90/Die Grünen", "longname":"Bündnis 90/Die Grünen"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"}
+]

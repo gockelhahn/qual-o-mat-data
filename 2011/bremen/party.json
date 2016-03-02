@@ -1,0 +1,18 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"BIW", "longname":"Bürger in Wut"},
+  {"id":6, "name":"BBL", "longname":"Bremer & Bremerhavener Bürger Liste"},
+  {"id":7, "name":"Dialog Grundeinkommen", "longname":"Bremer Dialog - Freiheit, Gleichheit, Grundeinkommen"},
+  {"id":8, "name":"B+B", "longname":"Bremer und Bremerhavener Wählergemeinschaft"},
+  {"id":9, "name":"BIP", "longname":"Bremische Integrations-Partei Deutschlands"},
+  {"id":10, "name":"FREIE WÄHLER BREMEN", "longname":"FREIE WÄHLER BREMEN"},
+  {"id":11, "name":"Für Bremerhaven", "longname":"Für Bremerhaven"},
+  {"id":12, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":13, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":14, "name":"PdB", "longname":"Protest der Bürger"},
+  {"id":15, "name":"RRP", "longname":"Rentnerinnen und Rentner Partei"}
+]

@@ -1,0 +1,17 @@
+[
+  {"id":0, "name":"CSU", "longname":"Christlich-Soziale Union in Bayern e.V."},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Bayern"},
+  {"id":3, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":6, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":7, "name":"REP", "longname":"DIE REPUBLIKANER"},
+  {"id":8, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":9, "name":"BP", "longname":"Bayernpartei"},
+  {"id":10, "name":"BüSo", "longname":"Bürgerrechtsbewegung Solidarität"},
+  {"id":11, "name":"DIE FREIHEIT", "longname":"Bürgerrechtspartei für mehr Freiheit und Demokratie - DIE FREIHEIT"},
+  {"id":12, "name":"FRAUENLISTE", "longname":"FRAUENLISTE Bayern e.V."},
+  {"id":13, "name":"DIE FRANKEN", "longname":"Partei für Franken"},
+  {"id":14, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"}
+]

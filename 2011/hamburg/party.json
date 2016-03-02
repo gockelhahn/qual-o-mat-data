@@ -1,0 +1,14 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"GRÜNE/GAL", "longname":"BÜNDNIS 90/DIE GRÜNEN, Landesverband Hamburg, Grün-Alternative-Liste"},
+  {"id":3, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":6, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":7, "name":"ÖDP", "longname":"ÖKOLOGISCH-DEMOKRATISCHE PARTEI - Die grüne Alternative"},
+  {"id":8, "name":"Bü-Mi", "longname":"Bürgerliche Mitte"},
+  {"id":9, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Hamburg"},
+  {"id":10, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":11, "name":"RENTNER", "longname":"Rentner Partei Deutschland"}
+]

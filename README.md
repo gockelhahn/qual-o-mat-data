@@ -1,6 +1,6 @@
 # qual-o-mat-data
 
-Dieses Repository enthält Daten, welche aus den öffentlich zugänglichen PDF-Dokumenten des [Wahl-O-Mats](https://www.wahl-o-mat.de/) der [Bundeszentrale für politische Bildung](https://www.bpb.de/politik/wahlen/wahl-o-mat/) erstellt wurden.
+Dieses Repository enthält Daten, welche aus den öffentlich zugänglichen Offline-Versionen und PDF-Dokumenten des [Wahl-O-Mat](https://www.wahl-o-mat.de/) der [Bundeszentrale für politische Bildung](https://www.bpb.de/politik/wahlen/wahl-o-mat/) erstellt wurden.
 
 ## Intention
 
@@ -13,11 +13,11 @@ Der angesprochene Wahl-O-Mat ist eine serverseitige Webanwendung, die dem Wähle
 - Nichtverwertung der Antworten (zu statistischen Zwecken)
 
 **Hinweis:**
-Bis zum Jahr 2015 stehen auch Offline-Versionen zum Download bereit (z.B. [Europawahl 2014](https://www.wahl-o-mat.de/europawahl2014/wahlomat.zip)). Nichtsdestotrotz sind die mitgelieferten Daten weder strukturiert noch vom Programmcode getrennt gehalten.
+Leider stehen nur bis zum Jahr 2015 Offline-Versionen zum Download bereit (z.B. [Europawahl 2014](https://www.wahl-o-mat.de/europawahl2014/wahlomat.zip)). Nichtsdestotrotz sind die mitgelieferten Daten weder strukturiert noch so aufbereitet, dass man sie ohne weiteres als Input benutzen könnte.
 
 Desweiteren wird nach Beantwortung und Gewichtung aller Aussagen ein Ergebnis als Gegenüberstellung von maximal acht Parteien erlaubt. Dies ist nicht nur umständlich, sondern grenzt auch Parteien vom Meinungsbild aus, welche aufgrund dieser Restriktion von vornherein durch den Benutzer ausgeschlossen werden müssen.
 
-**Abhilfe:**
+**Abhilfe** (nur in der Offline-Version):
 *main_app.html*
 ```javascript
 var CONST_PARTEIENAUSWAHL_MAX = 99;
@@ -29,7 +29,7 @@ Für die Zukunft ist ein freier und offline-fähiger "Wahlomat" als [Open-Source
 
 ## Richtigkeit der Daten
 
-Da das Konvertieren der PDF-Dokumente zurzeit noch nicht automatisiert ist, kann es trotz aller Vorsichtsmaßnahmen und Prüfungen zu Übertragungsfehlern kommen.
+Da das Konvertieren der PDF-Dokumente nur für Daten bis zum Jahr 2015 automatisiert werden konnte, kann es trotz aller Vorsichtsmaßnahmen und Prüfungen zu Übertragungsfehlern kommen.
 
 ## Disclaimer
 

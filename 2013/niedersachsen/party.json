@@ -1,0 +1,13 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands in Niedersachsen"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":3, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":4, "name":"DIE LINKE.", "longname":"DIE LINKE. Niedersachsen"},
+  {"id":5, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Niedersachsen"},
+  {"id":7, "name":"PBC", "longname":"Partei Bibeltreuer Christen"},
+  {"id":8, "name":"Bündnis 21/RRP", "longname":"Bündnis 21/RRP"},
+  {"id":9, "name":"DIE FREIHEIT Niedersachsen", "longname":"DIE FREIHEIT - Bürgerrechtspartei für mehr Freiheit und Demokratie"},
+  {"id":10, "name":"PIRATEN", "longname":"Piratenpartei Niedersachsen"}
+]

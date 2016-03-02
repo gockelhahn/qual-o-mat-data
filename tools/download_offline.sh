@@ -26,7 +26,7 @@ wget $WGET_OPTS "https://www.wahl-o-mat.de/europa2004/wahlomat.zip" -O "Wahlomat
 wget $WGET_OPTS "https://www.bpb.de/system/files/datei/wahlomat-eu2009.zip" -O "WahlomatOfflineEuropawahl2009.zip"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/europawahl2014/wahlomat.zip" -O "WahlomatOfflineEuropawahl2014.zip"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/hamburg2008/wahlomat.zip" -O "WahlomatOfflineHamburg2008.zip"
-wget $WGET_OPTS "https://www.bpb.de/system/files/datei/wahlomat_0.zip" -O "WahlomatOfflineHamburg2001.zip"
+wget $WGET_OPTS "https://www.bpb.de/system/files/datei/wahlomat_0.zip" -O "WahlomatOfflineHamburg2011.zip"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/hamburg2015/wahlomat.zip" -O "WahlomatOfflineHamburg2015.zip"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/niedersachsen2008/wahlomat.zip" -O "WahlomatOfflineNiedersachsen2008.zip"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/niedersachsen2013/wahlomat.zip" -O "WahlomatOfflineNiedersachsen2013.zip"

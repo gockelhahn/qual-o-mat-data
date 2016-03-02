@@ -1,0 +1,19 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":5, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":6, "name":"pro NRW", "longname":"Bürgerbewegung pro Nordrhein-Westfalen"},
+  {"id":7, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":8, "name":"Die Tierschutzpartei", "longname":"Mensch Umwelt Tierschutz"},
+  {"id":9, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands"},
+  {"id":10, "name":"BIG", "longname":"Bündnis für Innovation & Gerechtigkeit"},
+  {"id":11, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":12, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":13, "name":"FBI/Freie Wähler", "longname":"Freie Bürger-Initiative/Freie Wähler"},
+  {"id":14, "name":"AUF", "longname":"AUF - Partei für Arbeit, Umwelt und Familie - Christen für Deutschland"},
+  {"id":15, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER  Nordrhein-Westfalen"},
+  {"id":16, "name":"Partei der Vernunft", "longname":"Partei der Vernunft"}
+]

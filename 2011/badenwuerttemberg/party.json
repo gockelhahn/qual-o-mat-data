@@ -1,0 +1,21 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":5, "name":"REP", "longname":"DIE REPUBLIKANER"},
+  {"id":6, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":7, "name":"PBC", "longname":"Partei Bibeltreuer Christen"},
+  {"id":8, "name":"ödp", "longname":"Ökologisch-Demokratische Partei / Familie und Umwelt"},
+  {"id":9, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":10, "name":"RSB", "longname":"Revolutionär Sozialistischer Bund / Vierte Internationale"},
+  {"id":11, "name":"AUF", "longname":"AUF - Partei für Arbeit, Umwelt und Familie, Christen für Deutschland"},
+  {"id":12, "name":"BIG", "longname":"Bündnis für Innovation und Gerechtigkeit"},
+  {"id":13, "name":"BüSo", "longname":"Bürgerrechtsbewegung Solidarität"},
+  {"id":14, "name":"DIE VIOLETTEN", "longname":"Die Violetten - für spirituelle Politik"},
+  {"id":15, "name":"DKP", "longname":"Deutsche Kommunistische Partei"},
+  {"id":16, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands"},
+  {"id":17, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":18, "name":"Volksabstimmung", "longname":"Ab jetzt... Bündnis für Deutschland, für Demokratie durch Volksabstimmung"}
+]
