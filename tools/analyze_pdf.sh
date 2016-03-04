@@ -12,5 +12,7 @@
 SCRIPT_DIR="$(cd "`dirname "$0"`" && pwd)"
 [ -z "$SCRIPT_DIR" ] && echo "ERROR: Script directory could not be detected. Abort!" >&2 && exit 1
 
+( ! which gocr &>/dev/null) && echo "ERROR: Command \"gocr\" not available. Abort!" >&2 && exit 1
+
 # execute final command
 gocr -d 0 -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 40 -u 2 -i "$1" | grep -v ^$ | tr -d " \t"

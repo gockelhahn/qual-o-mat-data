@@ -8,6 +8,8 @@ WGET_OPTS="--no-verbose --no-clobber"
 SCRIPT_DIR="$(cd "`dirname "$0"`" && pwd)"
 [ -z "$SCRIPT_DIR" ] && echo "ERROR: Script directory could not be detected. Abort!" >&2 && exit 1
 
+( ! which wget &>/dev/null) && echo "ERROR: Command \"wget\" not available. Abort!" >&2 && exit 1
+
 # download
 cd "$SCRIPT_DIR/offline"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bw2006/wahlomat.zip" -O "WahlomatOfflineBadenWuerttemberg2006.zip"
