@@ -32,7 +32,7 @@ Für den Moment wurde bereits ein schlanker, clientseitiger und offline-fähiger
 
 ## Richtigkeit der Daten
 
-Da das Konvertieren der PDF-Dokumente nur für Daten bis zum Jahr 2015 automatisiert werden konnte, kann es trotz aller Vorsichtsmaßnahmen und Prüfungen zu Übertragungsfehlern kommen.
+Da das Extrahieren der Daten aus den Offline-Versionen (mit Hilfe von Scripten unter ["tools"](tools)) nur bis zum Jahr 2015 automatisiert werden konnte, kann es trotz aller Vorsichtsmaßnahmen und Prüfungen zu Übertragungsfehlern kommen.
 
 ## Disclaimer
 
