@@ -16,6 +16,7 @@ wget $WGET_OPTS "https://www.wahl-o-mat.de/bw2011/PositionsvergleichBadenWuertte
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bw2016/PositionsvergleichBadenWuerttemberg2016.pdf" -O "PositionsvergleichBadenWuerttemberg2016.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bayern2013/PositionsvergleichBayern2013.pdf" -O "PositionsvergleichBayern2013.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/berlin2011/PositionsvergleichBerlin2011.pdf" -O "PositionsvergleichBerlin2011.pdf"
+wget $WGET_OPTS "https://www.wahl-o-mat.de/berlin2016/PositionsvergleichBerlin2016.pdf" -O "PositionsvergleichBerlin2016.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/brandenburg2014/PositionsvergleichBrandenburg2014.pdf" -O "PositionsvergleichBrandenburg2014.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bremen2011/PositionsvergleichBremen2011.pdf" -O "PositionsvergleichBremen2011.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bremen2015/PositionsvergleichBremen2015.pdf" -O "PositionsvergleichBremen2015.pdf"

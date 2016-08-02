@@ -1,0 +1,23 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"Bündnis 90/DIE GRÜNEN"},
+  {"id":3, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":4, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":5, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":6, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":7, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":8, "name":"pro Deutschland", "longname":"Bürgerbewegung pro Deutschland"},
+  {"id":9, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":10, "name":"DKP", "longname":"Deutsche Kommunistische Partei"},
+  {"id":11, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":12, "name":"PSG", "longname":"Partei für Soziale Gleichheit, Sektion der Vierten Internationale"},
+  {"id":13, "name":"BüSo", "longname":"Bürgerrechtsbewegung Solidarität"},
+  {"id":14, "name":"B", "longname":"Bergpartei, die \"ÜberPartei\""},
+  {"id":15, "name":"ALFA", "longname":"Allianz für Fortschritt und Aufbruch"},
+  {"id":16, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":17, "name":"DIE VIOLETTEN", "longname":"Die Violetten - für spirituelle Politik"},
+  {"id":18, "name":"Graue Panther", "longname":"Graue Panther"},
+  {"id":19, "name":"MENSCHLICHE WELT", "longname":"Menschliche Welt - für das Wohl und Glücklich-Sein aller"},
+  {"id":20, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"}
+]
