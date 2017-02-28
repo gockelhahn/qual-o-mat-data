@@ -12,7 +12,6 @@ Der angesprochene Wahl-O-Mat ist eine serverseitige Webanwendung, die dem Wähle
 - anonyme Nutzung des Dienstes
 - Nichtverwertung der vom Benutzer gegebenen Antworten (z.B zu statistischen Zwecken)
 
-**Hinweis:**
 Leider stehen nur bis zum Jahr 2015 Offline-Versionen zum Download bereit (z.B. [Europawahl 2014](https://www.wahl-o-mat.de/europawahl2014/wahlomat.zip)). Nichtsdestotrotz sind die mitgelieferten Daten weder strukturiert noch so aufbereitet, dass man sie ohne Anpassungen für andere Projekte wiederverwenden könnte.
 
 Des Weiteren wird nach Beantwortung und Gewichtung aller Aussagen ein Ergebnis als Gegenüberstellung von maximal acht Parteien erlaubt. Dies ist nicht nur umständlich, sondern grenzt auch Parteien vom Meinungsbild aus, welche aufgrund dieser Restriktion von vornherein durch den Benutzer ausgeschlossen werden müssen.
@@ -25,7 +24,7 @@ var CONST_PARTEIENAUSWAHL_MAX = 99;
 ## Vision
 
 Für den Moment wurde bereits ein schlanker, clientseitiger und offline-fähiger ["Qual-O-Mat"](https://github.com/gockelhahn/qual-o-mat-kiss) als [Open-Source Software](https://de.wikipedia.org/wiki/Open_Source) veröffentlicht. Für die Zukunft wäre es jedoch erstrebenswert, wenn auch andere Projekte diese Datenbasis für z.B. folgende Ideen nutzen würden:
-- Welche Parteien teilen die gleiche Meinung zu bestimmten Themen?
+- Welche Parteien teilen die gleiche Meinung zu bestimmten Themen? (siehe ["Koal-O-Mat"](https://github.com/gockelhahn/koal-o-mat-kiss) und ["Konsens-O-Mat"](https://github.com/gockelhahn/konsens-o-mat-kiss))
 - Wo findet ein Meinungswechsel einer Partei von Wahl zur Wahl statt?
 - Grafische und statistische Aufbereitung der Daten
 - ...
