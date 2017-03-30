@@ -25,6 +25,33 @@ TEMPLATE_DIR="$(cd "$SCRIPT_DIR"/../template && pwd)"
 ( ! which gocr &>/dev/null) && echo "ERROR: Command \"gocr\" not available. Abort!" >&2 && exit 1
 ( ! which sed &>/dev/null) && echo "ERROR: Command \"sed\" not available. Abort!" >&2 && exit 1
 
+function is_legacy() {
+    case "$1" in
+        "PositionsvergleichHamburg2011")
+            ;&
+        "PositionsvergleichBadenWuerttemberg2011")
+            ;&
+        "PositionsvergleichRheinlandPfalz2011")
+            ;&
+        "PositionsvergleichBremen2011")
+            ;&
+        "PositionsvergleichNiedersachsen2013")
+            ;&
+        "PositionsvergleichNordrheinWestfalen2012")
+            ;&
+        "PositionsvergleichSaarland2012")
+            ;&
+        "PositionsvergleichSchleswigHolstein2012")
+            ;&
+        "PositionsvergleichBerlin2011")
+            return 0
+            ;;
+        *)
+            return 1
+            ;;
+    esac
+}
+
 # loop over all found zip files (offline versions)
 for pdffilename in `ls -1v "$PDF_DIR"/*"$PDF_EXT"`
 do
@@ -37,64 +64,81 @@ do
     # create folder for each pdf and convert into html + images
     mkdir -p "$filebase_dir"
     cd "$filebase_dir"
-    pdf2htmlEX --embed-image 0 "$pdffilename" tmp.html
+    pdf2htmlEX --embed-image 0 "$pdffilename" tmp.html &>/dev/null
     
     # write json header
     echo "[" > "$result_opinion"
     images="`ls -1v bg*.png`"
     inum="`echo "$images" | wc -l`"
-    for image in $images
-    do
-        # chop image top/left/bottom to just show opinions
-        convert "$image" -chop 600x77 +repage "$image"
-        convert "$image" -gravity South -chop 0x57 +repage "$image"
-        # exception for hamburg as dimensions slightly moved
-        if `pwd | grep -q "Hamburg2015"` && [ "$image" == bg5.png ]
-        then
-            convert "$image" -chop 0x11 +repage "$image"
-        fi
-    done
-    
-    split=false
-    for ((i=1; i <= $inum; i++ ))
-    do
-        # assemble image name
-        image1="`echo "$images" | sed -n ${i}p`"
-        image2="`echo "$images" | sed -n $(( $i + 1 ))p`"
-        
-        # set variable if the pdf opinions are one one page or split
-        if [ $i -eq 1 ]
-        then
-            # scan image and count lines (statements)
-            lines="`gocr -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 50 -u 2 -i "$image1" | grep -v ^$ | tr -d " \t" | tail -n +2 | wc -l`"
-            if [ "$lines" -lt "$STATEMENTS" ]
+    if is_legacy "$filebase"
+    then
+        for ((i=1; i < $inum; i++ ))
+        do
+            # assemble image name
+            image="`echo "$images" | sed -n ${i}p`"
+            # chop image top/left/bottom to just show opinions
+            convert "$image" -chop 700x310 +repage "$image"
+            convert "$image" -gravity South -chop 0x65 +repage "vertical$i.png"
+        done
+    else
+        for image in $images
+        do
+            # chop image top/left/bottom to just show opinions
+            convert "$image" -chop 600x77 +repage "$image"
+            convert "$image" -gravity South -chop 0x57 +repage "$image"
+            # exception for hamburg as dimensions slightly moved
+            if `pwd | grep -q "Hamburg2015"` && [ "$image" == bg5.png ]
             then
-                split=true
+                convert "$image" -chop 0x11 +repage "$image"
+            fi
+        done
+    fi
+    
+    if ! is_legacy "$filebase"
+    then
+        split=false
+        for ((i=1; i <= $inum; i++ ))
+        do
+            # assemble image name
+            image1="`echo "$images" | sed -n ${i}p`"
+            image2="`echo "$images" | sed -n $(( $i + 1 ))p`"
+            
+            # set variable if the pdf opinions are one one page or split
+            if [ $i -eq 1 ]
+            then
+                # scan image and count lines (statements)
+                lines="`gocr -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 50 -u 2 -i "$image1" | grep -v ^$ | tr -d " \t" | tail -n +2 | wc -l`"
+                if [ "$lines" -lt "$STATEMENTS" ]
+                then
+                    split=true
+                else
+                    split=false
+                fi
+            fi
+            
+            if $split
+            then
+                if [ $(( $i % 2 )) -eq 1 ] && [ $i -ne $inum ]
+                then
+                    # if page is split, merge two of them vertically
+                    final="vertical$(( $i / 2 )).png"
+                    convert -append "$image1" "$image2" "$final"
+                fi
             else
-                split=false
+                # if all on one page, just copy
+                final="vertical$i.png"
+                cp -f "$image1" "$final"
             fi
-        fi
-        
-        if $split
-        then
-            if [ $(( $i % 2 )) -eq 1 ] && [ $i -ne $inum ]
-            then
-                # if page is split, merge two of them vertically
-                final="vertical$(( $i / 2 )).png"
-                convert -append "$image1" "$image2" "$final"
-            fi
-        else
-            # if all on one page, just copy
-            final="vertical$i.png"
-            cp -f "$image1" "$final"
-        fi
-        
-    done
-    
+        done
+    fi
     # merge all vertical pages horizontally
     convert +append vertical*.png horizontal.png
     # scan image and save opinions
-    opinions="`gocr -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 50 -u 2 -i horizontal.png | grep -v ^$ | tr -d " \t" | tail -n +2`"
+    opinions="`gocr -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 50 -u 2 -i horizontal.png | grep -v ^$ | tr -d " \t"`"
+    if ! is_legacy "$filebase"
+    then
+        opinions="`echo "$opinions" | tail -n +2`"
+    fi
     lines="`echo "$opinions" | wc -l`"
     parties="`echo "$opinions" | wc -L`"
     pcounter=0
