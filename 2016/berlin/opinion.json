@@ -758,7 +758,7 @@
   {"id":756, "party":19, "statement":34, "answer":2},
   {"id":757, "party":19, "statement":35, "answer":2},
   {"id":758, "party":19, "statement":36, "answer":2},
-  {"id":759, "party":19, "statement":37, "answer":0},
+  {"id":759, "party":19, "statement":37, "answer":1},
   {"id":760, "party":20, "statement":0, "answer":2},
   {"id":761, "party":20, "statement":1, "answer":2},
   {"id":762, "party":20, "statement":2, "answer":2},

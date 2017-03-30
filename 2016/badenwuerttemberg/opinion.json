@@ -303,7 +303,7 @@
   {"id":301, "party":7, "statement":35, "answer":1},
   {"id":302, "party":7, "statement":36, "answer":1},
   {"id":303, "party":7, "statement":37, "answer":1},
-  {"id":304, "party":8, "statement":0, "answer":0},
+  {"id":304, "party":8, "statement":0, "answer":1},
   {"id":305, "party":8, "statement":1, "answer":1},
   {"id":306, "party":8, "statement":2, "answer":2},
   {"id":307, "party":8, "statement":3, "answer":1},

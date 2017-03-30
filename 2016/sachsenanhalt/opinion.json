@@ -35,7 +35,7 @@
   {"id":33, "party":0, "statement":33, "answer":1},
   {"id":34, "party":0, "statement":34, "answer":0},
   {"id":35, "party":0, "statement":35, "answer":1},
-  {"id":36, "party":0, "statement":36, "answer":0},
+  {"id":36, "party":0, "statement":36, "answer":2},
   {"id":37, "party":0, "statement":37, "answer":1},
   {"id":38, "party":1, "statement":0, "answer":0},
   {"id":39, "party":1, "statement":1, "answer":0},
