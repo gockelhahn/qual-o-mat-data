@@ -8,8 +8,12 @@
 
 ###
 # hint: gocr has an issue when one line
-# completely consists of unrecognized chars ("2")
-# it will skip/remove it
+# starts/consists of unrecognized chars ("2") for the most part
+# it will skip/remove it from the result
+# (e.g. PositionsvergleichSchleswigHolstein2017)
+#
+# run the "gocr" command manually, insert missing line, save as txt,
+# change the script that the file is read instead and execute again
 ###
 
 PDF_EXT=".pdf"
@@ -44,6 +48,7 @@ function is_legacy() {
         "PositionsvergleichSchleswigHolstein2012")
             ;&
         "PositionsvergleichBerlin2011")
+            echo "Use legacy design"
             return 0
             ;;
         *)
