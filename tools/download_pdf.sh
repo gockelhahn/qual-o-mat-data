@@ -33,6 +33,7 @@ wget $WGET_OPTS "https://www.wahl-o-mat.de/saarland2017/PositionsvergleichSaarla
 wget $WGET_OPTS "https://www.wahl-o-mat.de/sachsen2014/PositionsvergleichSachsen2014.pdf" -O "PositionsvergleichSachsen2014.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/sachsenanhalt2016/PositionsvergleichSachsenAnhalt2016.pdf" -O "PositionsvergleichSachsenAnhalt2016.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/schleswigholstein2012/PositionsvergleichSchleswigHolstein2012.pdf" -O "PositionsvergleichSchleswigHolstein2012.pdf"
+wget $WGET_OPTS "https://www.wahl-o-mat.de/schleswigholstein2017/PositionsvergleichSchleswigHolstein2017.pdf" -O "PositionsvergleichSchleswigHolstein2017.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/thueringen2014/PositionsvergleichThueringen2014.pdf" -O "PositionsvergleichThueringen2014.pdf"
 
 # check if downloaded files have correct hash (have not been changed)

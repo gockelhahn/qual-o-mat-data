@@ -1,0 +1,15 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":5, "name":"SSW", "longname":"Südschleswigscher Wählerverband"},
+  {"id":6, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":7, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands"},
+  {"id":8, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":9, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":10, "name":"LKR", "longname":"Liberal-Konservative Reformer"},
+  {"id":11, "name":"DIE PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":12, "name":"Z.SH", "longname":"Zukunft. Schleswig-Holstein"}
+]
