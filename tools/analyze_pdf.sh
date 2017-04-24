@@ -70,6 +70,12 @@ do
     mkdir -p "$filebase_dir"
     cd "$filebase_dir"
     pdf2htmlEX --embed-image 0 "$pdffilename" tmp.html &>/dev/null
+    # fix for nrw2017
+    if [ "$filebase" == PositionsvergleichNordrheinWestfalen2017 ]
+    then
+        mv bg10.png bgg.png
+        rm -f bg11.png
+    fi
     
     # write json header
     echo "[" > "$result_opinion"
