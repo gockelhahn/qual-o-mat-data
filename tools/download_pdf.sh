@@ -21,6 +21,7 @@ wget $WGET_OPTS "https://www.wahl-o-mat.de/brandenburg2014/PositionsvergleichBra
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bremen2011/PositionsvergleichBremen2011.pdf" -O "PositionsvergleichBremen2011.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bremen2015/PositionsvergleichBremen2015.pdf" -O "PositionsvergleichBremen2015.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/bundestagswahl2013/PositionsvergleichBundestagswahl2013.pdf" -O "PositionsvergleichBundestagswahl2013.pdf"
+wget $WGET_OPTS "https://www.wahl-o-mat.de/bundestagswahl2017/PositionsvergleichBundestagswahl2017.pdf" -O "PositionsvergleichBundestagswahl2017.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/europawahl2014/PositionsvergleichEuropawahl2014.pdf" -O "PositionsvergleichEuropawahl2014.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/hamburg2011/PositionsvergleichHamburg2011.pdf" -O "PositionsvergleichHamburg2011.pdf"
 wget $WGET_OPTS "https://www.wahl-o-mat.de/hamburg2015/PositionsvergleichHamburg2015.pdf" -O "PositionsvergleichHamburg2015.pdf"

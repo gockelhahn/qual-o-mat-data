@@ -76,6 +76,10 @@ do
         mv bg10.png bgg.png
         rm -f bg11.png
     fi
+    if [ "$filebase" == PositionsvergleichBundestagswahl2017 ]
+    then
+        rm -f bg9.png bga.png
+    fi
     
     # write json header
     echo "[" > "$result_opinion"
@@ -146,7 +150,7 @@ do
     convert +append vertical*.png horizontal.png
     # scan image and save opinions
     opinions="`gocr -l 200 -p "$SCRIPT_DIR/db/" -m 258 -a 50 -u 2 -i horizontal.png | grep -v ^$ | tr -d " \t"`"
-    if ! is_legacy "$filebase"
+    if ! is_legacy "$filebase" && [ "$filebase" != PositionsvergleichBundestagswahl2017 ]
     then
         opinions="`echo "$opinions" | tail -n +2`"
     fi
