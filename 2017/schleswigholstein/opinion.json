@@ -222,7 +222,7 @@
   {"id":220, "party":5, "statement":30, "answer":0},
   {"id":221, "party":5, "statement":31, "answer":1},
   {"id":222, "party":5, "statement":32, "answer":0},
-  {"id":223, "party":5, "statement":33, "answer":1},
+  {"id":223, "party":5, "statement":33, "answer":0},
   {"id":224, "party":5, "statement":34, "answer":0},
   {"id":225, "party":5, "statement":35, "answer":2},
   {"id":226, "party":5, "statement":36, "answer":0},
