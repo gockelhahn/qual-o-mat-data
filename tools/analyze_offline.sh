@@ -14,6 +14,7 @@
 
 OFFLINE_EXT=".zip"
 ORIG_DEF="module_definition.js"
+ORIG_DEF_COMMENTS="module_definition_statements.js"
 
 SCRIPT_DIR="$(cd "`dirname "$0"`" && pwd)"
 [ -z "$SCRIPT_DIR" ] && echo "ERROR: Script directory could not be detected. Abort!" >&2 && exit 1
@@ -33,9 +34,11 @@ do
     filebase_dir="$OFFLINE_DIR/$filebase"
     tmpfilename="$filebase_dir/offline.tmp"
     jsfilename="$filebase_dir/offline.js"
+    jsfilename_offline="$filebase_dir/offline_statements.js"
     result_party="$filebase_dir/party.json"
     result_statement="$filebase_dir/statement.json"
     result_opinion="$filebase_dir/opinion.json"
+    result_comment="$filebase_dir/comment.json"
     
     # create folder for each zip and unpack javascript definitions
     mkdir -p "$filebase_dir"
@@ -52,7 +55,24 @@ do
     rm -f "$tmpfilename"
     
     # convert html characters to normal UTF-8
-    sed -i 's|\&auml\;|\ä|g;s|\&Auml\;|\Ä|g;s|\&ouml\;|\ö|g;s|\&Ouml\;|\Ö|g;s|\&uuml\;|\ü|g;s|\&Uuml\;|\Ü|g;s|\&szlig\;|\ß|g' "$jsfilename"
+    sed -i 's|\&auml\;|\ä|g;s|\&Auml\;|\Ä|g;s|\&ouml\;|\ö|g;s|\&Ouml\;|\Ö|g;s|\&uuml\;|\ü|g;s|\&Uuml\;|\Ü|g;s|\&szlig\;|\ß|g;s|\&amp\;|\&|g' "$jsfilename"
+    
+    cd "$OFFLINE_DIR"
+    unzip -qq -aa -p "$zipfilename" **/"$ORIG_DEF_COMMENTS" > "$tmpfilename" 2>/dev/null
+    cd "$filebase_dir"
+    
+    # fix text encoding by converting all files to UTF-8
+    if `file "$tmpfilename" | grep -q ISO-8859`
+    then
+        iconv -f ISO-8859-1 -t UTF-8 "$tmpfilename" > "$jsfilename_offline"
+    else
+        iconv -f UTF-8 -t UTF-8//IGNORE "$tmpfilename" > "$jsfilename_offline"
+    fi
+    rm -f "$tmpfilename"
+    
+    # convert html characters to normal UTF-8
+    sed -i 's|\&auml\;|\ä|g;s|\&Auml\;|\Ä|g;s|\&ouml\;|\ö|g;s|\&Ouml\;|\Ö|g;s|\&uuml\;|\ü|g;s|\&Uuml\;|\Ü|g;s|\&szlig\;|\ß|g;s|\&amp\;|\&|g' "$jsfilename_offline"
+    file "$jsfilename_offline" | grep -qo empty && rm "$jsfilename_offline"
     
     # loop over all parties
     pcounter=0
@@ -125,8 +145,18 @@ do
     ocounter=0
     # write json header
     echo "[" > "$result_opinion"
+    echo "[" > "$result_comment"
     # pipe javascript definition into mozillas java script interpreter and print opinions
     opinions="`echo 'print(WOMT_aThesenParteien.join("\n"))' | js24 --shell "$jsfilename" | sed '1d;$d'`"
+    # use correct data file for comments
+    if [ -e "$jsfilename_offline" ]
+    then
+        use_file="$jsfilename_offline"
+    else
+        use_file="$jsfilename"
+    fi
+    # pipe javascript definition into mozillas java script interpreter and print comments
+    comments="`echo 'for (var i=0, s=WOMT_aThesenParteienText.length; i<s; i++){for (var j=0, p=WOMT_aThesenParteienText[i].length; j<p; j++){ lang=WOMT_aThesenParteienText[i][j].length; for (var k=1; k<lang; k++){WOMT_aThesenParteienText[i][j].splice(1, 1)}}; print(WOMT_aThesenParteienText[i].join("|"))}' | js24 --shell "$use_file" | sed '1d;$d'`"
     max_statements="`echo "$opinions" | wc -l`"
     # count commata as delimiter and calculate parties (+1)
     max_parties="`echo "$opinions" | head -1 | grep -o ',' | wc -l`"
@@ -138,6 +168,7 @@ do
         if [ "$ocounter" -ne 0 ]
         then
             echo "," >> "$result_opinion"
+            echo "," >> "$result_comment"
         fi
         
         # loop over all statements
@@ -146,6 +177,7 @@ do
             if [ "$scounter" -ne 0 ]
             then
                 echo "," >> "$result_opinion"
+                echo "," >> "$result_comment"
             fi
             
             # extract opinion and convert offline vs. json
@@ -160,6 +192,26 @@ do
                 opinion=1
             fi
             
+            # extract comments
+            comment="`echo "$comments"| cut -d'|' -f$((pcounter+1)) | sed -n "$((scounter+1))p"`"
+            if [ -z "$comment" ]
+            then
+                # different "placeholder" for old versions if no party comment set
+                if [ "$filebase" == "WahlomatOfflineBayern2003" ] ||\
+                        [ "$filebase" == "WahlomatOfflineSaarland2004" ] ||\
+                        [ "$filebase" == "WahlomatOfflineSachsen2004" ] ||\
+                        [ "$filebase" == "WahlomatOfflineSachsen2004" ] ||\
+                        [ "$filebase" == "WahlomatOfflineEuropawahl2004" ]
+                then
+                    comment="Die Begründung der Partei zu ihrem Abstimmverhalten wird nachgereicht, da noch nicht alle Begründungen vorliegen."
+                else
+                    comment="Zu dieser These hat die Partei keine Begründung vorgelegt."
+                fi
+            else
+                # quote the comment and remove html line breaks + multiple whitespaces + trim
+                comment="\\\\\"`echo $comment | sed "s|\\\"|'|g" | sed 's|&|\\\\\\&|g' | sed 's|<br>| |g' | sed 's|<br/>| |g' | tr -s " " | sed 's/^ *//;s/ *$//'`\\\\\""
+            fi
+            
             # replace tempate placeholder with extracted data and write json file
             echo -n "  " >> "$result_opinion"
             cat "$TEMPLATE_DIR/opinion.json" |\
@@ -170,9 +222,18 @@ do
             tr -d '\n' \
             >> "$result_opinion"
             
+            # replace tempate placeholder with extracted data and write json file
+            echo -n "  " >> "$result_opinion"
+            cat "$TEMPLATE_DIR/comment.json" |\
+            sed "s|T_OCOUNTER|$ocounter|g" |\
+            sed "s|T_COMMENT|$comment|g" |\
+            tr -d '\n' \
+            >> "$result_comment"
+            
             let ocounter++
         done
     done
     # write json footer
     echo -e "\n]" >> "$result_opinion"
+    echo -e "\n]" >> "$result_comment"
 done
