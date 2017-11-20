@@ -1,0 +1,11 @@
+[
+  {"id":0, "label":"Verkehr / Infrastruktur"},
+  {"id":1, "label":"Arbeitsmarkt"},
+  {"id":2, "label":"Jugend"},
+  {"id":3, "label":"Schule / Hochschule"},
+  {"id":4, "label":"Gesundheit / Soziales"},
+  {"id":5, "label":"Innere Sicherheit"},
+  {"id":6, "label":"Haushalt / Wirtschaft / Finanzen"},
+  {"id":7, "label":"Demokratie / Föderalismus"},
+  {"id":8, "label":"Integration / Gender / Minderheiten"}
+]

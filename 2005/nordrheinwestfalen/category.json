@@ -1,0 +1,9 @@
+[
+  {"id":0, "label":"Umwelt, Energie, Verkehr"},
+  {"id":1, "label":"Arbeit, Wirtschaft, Finanzen"},
+  {"id":2, "label":"Soziales, Familie und Jugend"},
+  {"id":3, "label":"Schule und Hochschule"},
+  {"id":4, "label":"Gesundheit"},
+  {"id":5, "label":"Kultur und Integration"},
+  {"id":6, "label":"Sicherheit, Inneres und politische Beteiligung"}
+]

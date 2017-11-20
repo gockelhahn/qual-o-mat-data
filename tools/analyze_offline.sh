@@ -39,6 +39,7 @@ do
     result_statement="$filebase_dir/statement.json"
     result_opinion="$filebase_dir/opinion.json"
     result_comment="$filebase_dir/comment.json"
+    result_category="$filebase_dir/category.json"
     
     # create folder for each zip and unpack javascript definitions
     mkdir -p "$filebase_dir"
@@ -88,16 +89,19 @@ do
             echo "," >> "$result_party"
         fi
         
-        # extract party name/long name and escape ampersand and quote
+        # extract party name/long name and escape ampersand and quote, multiple whitespaces and trim
         pname="`echo "$line"| cut -d'|' -f2 |\
           sed 's|"|\\\\\\\\"|g' |\
-          sed 's|&|\\\\\\&|g'`"
+          sed 's|&|\\\\\\&|g' |\
+          tr -s " " |\
+          sed 's/^ *//;s/ *$//'`"
         plongname="`echo "$line"| cut -d'|' -f1 |\
           sed 's|"|\\\\\\\\"|g' |\
-          sed 's|&|\\\\\\&|g'`"
+          sed 's|&|\\\\\\&|g' |\
+          tr -s " " |\
+          sed 's/^ *//;s/ *$//'`"
         
         # replace tempate placeholder with extracted data and write json file
-        echo -n "  " >> "$result_party"
         cat "$TEMPLATE_DIR/party.json" |\
           sed "s|T_PCOUNTER|$pcounter|g" |\
           sed "s|T_PNAME|$pname|g" |\
@@ -109,6 +113,44 @@ do
     done
     # write json footer
     echo -e "\n]" >> "$result_party"
+    
+    # loop over all categories
+    ccounter=0
+    # pipe javascript definition into mozillas java script interpreter and get categories
+    ccount="`echo 'print(WOMT_nThemen)' | js24 --shell "$jsfilename" | sed '1d;$d' | egrep -o '[0-9]'`"
+    if [ "$ccount" -gt 1 ]
+    then
+        # write json header
+        echo "[" > "$result_category"
+        # pipe javascript definition into mozillas javascript interpreter and print statements
+        echo 'for (var i=0, l=WOMT_aThemen.length; i<l; i++){WOMT_aThemen[i][0] = WOMT_aThemen[i][0]; lang=WOMT_aThemen[i].length; for (var j=1; j<lang; j++){WOMT_aThemen[i].splice(1, 1)}; print(WOMT_aThemen[i].join("\n"))}' |\
+        js24 --shell "$jsfilename" | sed '1d;$d' |\
+        while read line
+        do
+            if [ "$ccounter" -ne 0 ]
+            then
+                echo "," >> "$result_category"
+            fi
+            
+            # extract category label and escape ampersand, quote, multiple whitespaces and trim
+            clabel="`echo "$line"| cut -d'|' -f1 |\
+              sed 's|"|\\\\\\\\"|g' |\
+              sed 's|&|\\\\\\&|g' |\
+              tr -s " " |\
+              sed 's/^ *//;s/ *$//'`"
+            
+            # replace tempate placeholder with extracted data and write json file
+            cat "$TEMPLATE_DIR/category.json" |\
+            sed "s|T_CCOUNTER|$ccounter|g" |\
+            sed "s|T_CLABEL|$clabel|g" |\
+            tr -d '\n' \
+            >> "$result_category"
+            
+            let ccounter++
+        done
+        # write json footer
+        echo -e "\n]" >> "$result_category"
+    fi
     
     # loop over all statements
     scounter=0
@@ -124,15 +166,35 @@ do
             echo "," >> "$result_statement"
         fi
         
-        # extract statement text and escape ampersand and quote
+        if [ "$ccount" -gt 1 ]
+        then
+            scategory="`echo 'print(WOMT_aThesenThema['$scounter'])' | js24 --shell "$jsfilename" | sed '1d;$d' | egrep -o '[0-9]'`"
+        else
+            scategory="null"
+        fi
+        
+        # extract statement text and escape ampersand and quote, multiple whitespaces and trim
         stext="`echo "$line"| cut -d'|' -f2 |\
           sed 's|"|\\\\\\\\"|g' |\
-          sed 's|&|\\\\\\&|g'`"
+          sed 's|&|\\\\\\&|g' |\
+          tr -s " " |\
+          sed 's/^ *//;s/ *$//'`"
+        
+        # extract statement label and escape ampersand and quote, multiple whitespaces and trim
+        # also remove (BS)LZ character conversion artifacts
+        slabel="`echo "$line"| cut -d'|' -f1 |\
+          sed 's|"|\\\\\\\\"|g' |\
+          sed 's|&|\\\\\\&|g' |\
+          sed 's|\[BSLZ\]||g' |\
+          sed 's|\[LZ\]||g' |\
+          tr -s " " |\
+          sed 's/^ *//;s/ *$//'`"
         
         # replace tempate placeholder with extracted data and write json file
-        echo -n "  " >> "$result_statement"
         cat "$TEMPLATE_DIR/statement.json" |\
           sed "s|T_SCOUNTER|$scounter|g" |\
+          sed "s|T_SCATEGORY|$scategory|g" |\
+          sed "s|T_SLABEL|$slabel|g" |\
           sed "s|T_STEXT|$stext|g" |\
           tr -d '\n' \
           >> "$result_statement"
@@ -208,12 +270,13 @@ do
                     comment="Zu dieser These hat die Partei keine Begründung vorgelegt."
                 fi
             else
-                # quote the comment and remove html line breaks + multiple whitespaces + trim
-                comment="\\\\\"`echo $comment | sed "s|\\\"|'|g" | sed 's|&|\\\\\\&|g' | sed 's|<br>| |g' | sed 's|<br/>| |g' | tr -s " " | sed 's/^ *//;s/ *$//'`\\\\\""
+                # remove static html string with its representation
+                comment="`echo $comment | sed 's|<a href=.*_blank>||g' | sed 's|</a>||g'`"
+                # quote the comment and remove html line breaks / paragraphs / special chars + multiple whitespaces + trim
+                comment="\\\\\"`echo $comment | sed "s|\\\"|'|g" | sed 's|&|\\\\\\&|g' | sed 's|<br>| |g' | sed 's|<p>| |g' | sed 's/\xc2\x92/’/g' | sed 's|<br/>| |g' | tr -s " " | sed 's/^ *//;s/ *$//'`\\\\\""
             fi
             
             # replace tempate placeholder with extracted data and write json file
-            echo -n "  " >> "$result_opinion"
             cat "$TEMPLATE_DIR/opinion.json" |\
             sed "s|T_OCOUNTER|$ocounter|g" |\
             sed "s|T_PARTY|$pcounter|g" |\
@@ -223,7 +286,6 @@ do
             >> "$result_opinion"
             
             # replace tempate placeholder with extracted data and write json file
-            echo -n "  " >> "$result_opinion"
             cat "$TEMPLATE_DIR/comment.json" |\
             sed "s|T_OCOUNTER|$ocounter|g" |\
             sed "s|T_COMMENT|$comment|g" |\

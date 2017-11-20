@@ -1,0 +1,10 @@
+[
+  {"id":0, "label":"Erweiterung, Verfassung und Struktur der EU"},
+  {"id":1, "label":"Inneres und Justiz"},
+  {"id":2, "label":"Sicherheits- und Außen(handels)politik"},
+  {"id":3, "label":"Wirtschaft und Finanzen"},
+  {"id":4, "label":"Soziales und Arbeitsmarkt"},
+  {"id":5, "label":"Umwelt, Energie und Verkehr"},
+  {"id":6, "label":"Bildung, Forschung und Wissenschaft"},
+  {"id":7, "label":"Kultur und Gesellschaft"}
+]

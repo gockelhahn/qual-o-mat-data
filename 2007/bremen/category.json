@@ -1,0 +1,8 @@
+[
+  {"id":0, "label":"Verkehr und Infrastruktur"},
+  {"id":1, "label":"Umwelt und Energie"},
+  {"id":2, "label":"Schule und Hochschule"},
+  {"id":3, "label":"Familie, Jugend, Kultur"},
+  {"id":4, "label":"Inneres, Justiz und Demokratie"},
+  {"id":5, "label":"Arbeit, Wirtschaft, Soziales"}
+]

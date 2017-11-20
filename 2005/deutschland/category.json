@@ -1,0 +1,8 @@
+[
+  {"id":0, "label":"Umwelt, Energie und Verkehr"},
+  {"id":1, "label":"Finanzen, Wirtschaft und Arbeit"},
+  {"id":2, "label":"Außenpolitik und Europa"},
+  {"id":3, "label":"Familie, Soziales und Gesundheit"},
+  {"id":4, "label":"Innenpolitik, Staat und Gesellschaft"},
+  {"id":5, "label":"Bildung und Forschung"}
+]
