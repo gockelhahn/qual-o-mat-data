@@ -7,9 +7,9 @@
   {"id":5, "name":"SSW", "longname":"Südschleswigscher Wählerverband"},
   {"id":6, "name":"DIE LINKE", "longname":"DIE LINKE"},
   {"id":7, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands"},
-  {"id":8, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":8, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Schleswig-Holstein"},
   {"id":9, "name":"AfD", "longname":"Alternative für Deutschland"},
   {"id":10, "name":"LKR", "longname":"Liberal-Konservative Reformer"},
-  {"id":11, "name":"DIE PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":11, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
   {"id":12, "name":"Z.SH", "longname":"Zukunft. Schleswig-Holstein"}
 ]

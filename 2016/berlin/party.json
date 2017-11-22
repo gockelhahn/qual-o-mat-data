@@ -1,7 +1,7 @@
 [
   {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
   {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
-  {"id":2, "name":"GRÜNE", "longname":"Bündnis 90/DIE GRÜNEN"},
+  {"id":2, "name":"GRÜNE", "longname":"Bündnis 90/Die GRÜNEN"},
   {"id":3, "name":"DIE LINKE", "longname":"DIE LINKE"},
   {"id":4, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
   {"id":5, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
