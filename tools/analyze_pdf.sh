@@ -22,7 +22,7 @@ STATEMENTS="38"
 SCRIPT_DIR="$(cd "`dirname "$0"`" && pwd)"
 [ -z "$SCRIPT_DIR" ] && echo "ERROR: Script directory could not be detected. Abort!" >&2 && exit 1
 PDF_DIR="$SCRIPT_DIR/pdf"
-TEMPLATE_DIR="$(cd "$SCRIPT_DIR"/../template && pwd)"
+TEMPLATE_DIR="$(cd "$SCRIPT_DIR"/template && pwd)"
 
 ( ! which pdf2htmlEX &>/dev/null) && echo "ERROR: Command \"pdf2htmlEX\" not available. Abort!" >&2 && exit 1
 ( ! which convert &>/dev/null) && echo "ERROR: Command \"convert\" not available. Abort!" >&2 && exit 1

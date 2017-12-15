@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Category list",
+  "description": "All categories, the statements have been sorted in",
+  "type": "array",
+  "items": {
+    "description": "Category",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "Unique identifier",
+        "type": "integer",
+        "minimum": 0
+      },
+      "label": {
+        "description": "Category text",
+        "type": "string"
+      }
+    },
+    "required": ["id", "label"]
+  },
+  "uniqueItems": true
+}

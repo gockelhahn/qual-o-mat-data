@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Statement list",
+  "description": "All inquired statements",
+  "type": "array",
+  "items": {
+    "description": "Statement",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "Unique identifier",
+        "type": "integer",
+        "minimum": 0
+      },
+      "category": {
+        "description": "ID representing the statement category",
+        "type": [ "integer", "null" ],
+        "minimum": 0
+      },
+      "label": {
+        "description": "Short statement text",
+        "type": "string"
+      },
+      "text": {
+        "description": "Full statement text",
+        "type": "string"
+      }
+    },
+    "required": ["id", "category", "label", "text"]
+  },
+  "uniqueItems": true
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Election list",
+  "description": "This json is deprecated. Please use >election.json< instead",
+  "type": "array",
+  "items": {
+    "description": "The path to the data directory of an election",
+    "type": "string",
+    "pattern": "^data/[0-9]{4}/[a-z]*$",
+    "$comment": "Current path: data/[YEAR]/location"
+  },
+  "uniqueItems": true
+}

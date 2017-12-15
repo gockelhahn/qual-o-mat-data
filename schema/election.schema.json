@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Election list",
+  "description": "All available elections",
+  "type": "array",
+  "items": {
+    "description": "Election",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "Unique identifier",
+        "type": "integer",
+        "minimum": 0
+      },
+      "name": {
+        "description": "Election name",
+        "type": "string"
+      },
+      "date": {
+        "description": "Date the election held place on",
+        "type": "string",
+        "format": "date"
+      },
+      "path": {
+        "description": "The path to the data directory of an election",
+        "type": "string",
+        "pattern": "^data/[0-9]{4}/[a-z]*$",
+        "$comment": "Current path: data/[YEAR]/location"
+      }
+    },
+    "required": ["id", "name", "date", "path"]
+  },
+  "uniqueItems": true
+}

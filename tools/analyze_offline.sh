@@ -19,7 +19,7 @@ ORIG_DEF_COMMENTS="module_definition_statements.js"
 SCRIPT_DIR="$(cd "`dirname "$0"`" && pwd)"
 [ -z "$SCRIPT_DIR" ] && echo "ERROR: Script directory could not be detected. Abort!" >&2 && exit 1
 OFFLINE_DIR="$SCRIPT_DIR/offline"
-TEMPLATE_DIR="$(cd "$SCRIPT_DIR"/../template && pwd)"
+TEMPLATE_DIR="$(cd "$SCRIPT_DIR"/template && pwd)"
 
 ( ! which unzip &>/dev/null) && echo "ERROR: Command \"unzip\" not available. Abort!" >&2 && exit 1
 ( ! which js24 &>/dev/null) && echo "ERROR: Command \"js24\" not available. Abort!" >&2 && exit 1

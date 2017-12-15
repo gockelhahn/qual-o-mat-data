@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Election overview",
+  "description": "Overview and info of an election",
+  "type": "object",
+  "properties": {
+    "title": {
+      "description": "Election name",
+      "type": "string"
+    },
+    "date": {
+      "description": "Date the election held place on",
+      "type": "string",
+      "format": "date"
+    },
+    "info": {
+      "description": "URL to the Wikipedia page of the election",
+      "type": "string",
+      "format": "uri"
+    },
+    "data_source": {
+      "description": "URL to the source of the election data",
+      "type": "string",
+      "format": "uri"
+    }
+  },
+  "required": ["title", "date", "info", "data_source"]
+}

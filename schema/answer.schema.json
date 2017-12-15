@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Answer list",
+  "description": "All possible answers to statements",
+  "type": "array",
+  "items": {
+    "description": "Answer",
+    "type": "object",
+    "properties": {
+      "id": {
+        "description": "Unique identifier",
+        "type": "integer",
+        "minimum": 0
+      },
+      "message": {
+        "description": "Answer text",
+        "type": "string"
+      }
+    },
+    "required": ["id", "message"]
+  },
+  "uniqueItems": true
+}
