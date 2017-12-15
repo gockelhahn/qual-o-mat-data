@@ -1,8 +1,0 @@
-
-# ignore pdf/zip/js/tmp files (download/processing content)
-
-*.pdf
-*.zip
-*.js
-*.tmp
-*.log
