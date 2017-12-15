@@ -1,6 +1,6 @@
 # qual-o-mat-data
 
-Dieses Repository enthält (von [qual-o-mat-tools"](https://github.com/gockelhahn/qual-o-mat-tools)) umgewandelte Daten des [Wahl-O-Mats](https://www.wahl-o-mat.de/) der [Bundeszentrale für politische Bildung](https://www.bpb.de/politik/wahlen/wahl-o-mat/).
+Dieses Repository enthält (von [qual-o-mat-tools](https://github.com/gockelhahn/qual-o-mat-tools)) umgewandelte Daten des [Wahl-O-Mats](https://www.wahl-o-mat.de/) der [Bundeszentrale für politische Bildung](https://www.bpb.de/politik/wahlen/wahl-o-mat/).
 
 ## Intention
 
