@@ -1,0 +1,20 @@
+[
+  {"id":0, "name":"CSU", "longname":"Christlich-Soziale Union in Bayern e.V."},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Bayern"},
+  {"id":3, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":6, "name":"BP", "longname":"Bayernpartei"},
+  {"id":7, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":8, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":9, "name":"DIE FRANKEN", "longname":"Partei für Franken"},
+  {"id":10, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":11, "name":"LKR", "longname":"Liberal-Konservative Reformer - Die EURO-Kritiker"},
+  {"id":12, "name":"mut", "longname":"mut"},
+  {"id":13, "name":"Die Humanisten", "longname":"Partei der Humanisten"},
+  {"id":14, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":15, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"},
+  {"id":16, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":17, "name":"V-Partei³", "longname":"V-Partei³ - Partei für Veränderung, Vegetarier und Veganer"}
+]
