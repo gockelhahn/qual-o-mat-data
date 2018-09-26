@@ -42,5 +42,6 @@
   {"id": 40, "name":"Landtagswahl Schleswig-Holstein", "date":"2017-05-07", "path":"data/2017/schleswigholstein"},
   {"id": 41, "name":"Landtagswahl Nordrhein-Westfalen", "date":"2017-05-14", "path":"data/2017/nordrheinwestfalen"},
   {"id": 42, "name":"Bundestagswahl", "date":"2017-09-24", "path":"data/2017/deutschland"},
-  {"id": 43, "name":"Landtagswahl Bayern", "date":"2018-10-14", "path":"data/2018/bayern"}
+  {"id": 43, "name":"Landtagswahl Bayern", "date":"2018-10-14", "path":"data/2018/bayern"},
+  {"id": 44, "name":"Landtagswahl Hessen", "date":"2018-10-28", "path":"data/2018/hessen"}
 ]
