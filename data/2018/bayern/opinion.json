@@ -474,7 +474,7 @@
   {"id":472, "party":12, "statement":16, "answer":0, "comment":472},
   {"id":473, "party":12, "statement":17, "answer":1, "comment":473},
   {"id":474, "party":12, "statement":18, "answer":0, "comment":474},
-  {"id":475, "party":12, "statement":19, "answer":1, "comment":475},
+  {"id":475, "party":12, "statement":19, "answer":0, "comment":475},
   {"id":476, "party":12, "statement":20, "answer":0, "comment":476},
   {"id":477, "party":12, "statement":21, "answer":0, "comment":477},
   {"id":478, "party":12, "statement":22, "answer":0, "comment":478},
