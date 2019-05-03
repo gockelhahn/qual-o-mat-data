@@ -44,5 +44,6 @@
   {"id": 42, "name":"Bundestagswahl", "date":"2017-09-24", "path":"data/2017/deutschland"},
   {"id": 43, "name":"Landtagswahl Bayern", "date":"2018-10-14", "path":"data/2018/bayern"},
   {"id": 44, "name":"Landtagswahl Hessen", "date":"2018-10-28", "path":"data/2018/hessen"},
-  {"id": 45, "name":"Bürgerschaftswahl Bremen", "date":"2019-05-26", "path":"data/2019/bremen"}
+  {"id": 45, "name":"Bürgerschaftswahl Bremen", "date":"2019-05-26", "path":"data/2019/bremen"},
+  {"id": 46, "name":"Europawahl", "date":"2019-05-26", "path":"data/2019/europa"},
 ]
