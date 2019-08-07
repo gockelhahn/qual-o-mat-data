@@ -403,7 +403,7 @@
   {"id":401, "party":10, "statement":21, "answer":1, "comment":401},
   {"id":402, "party":10, "statement":22, "answer":0, "comment":402},
   {"id":403, "party":10, "statement":23, "answer":1, "comment":403},
-  {"id":404, "party":10, "statement":24, "answer":1, "comment":404},
+  {"id":404, "party":10, "statement":24, "answer":0, "comment":404},
   {"id":405, "party":10, "statement":25, "answer":1, "comment":405},
   {"id":406, "party":10, "statement":26, "answer":1, "comment":406},
   {"id":407, "party":10, "statement":27, "answer":0, "comment":407},
