@@ -1,0 +1,20 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":2, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":3, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":6, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":7, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":8, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":9, "name":"KPD", "longname":"Kommunistische Partei Deutschlands"},
+  {"id":10, "name":"TIERSCHUTZ hier!", "longname":"Aktion Partei für Tierschutz - DAS ORIGINAL"},
+  {"id":11, "name":"BGE", "longname":"Bündnis Grundeinkommen - Die Grundeinkommenspartei"},
+  {"id":12, "name":"DIE DIREKTE!", "longname":"Demokratie DIREKT! Thüringen"},
+  {"id":13, "name":"Blaue #TeamPetry Thüringen", "longname":"Die blaue Partei Thüringen"},
+  {"id":14, "name":"Graue Panther", "longname":"Graue Panther"},
+  {"id":15, "name":"MLPD", "longname":"Marxistisch-Leninistische Partei Deutschlands"},
+  {"id":16, "name":"ÖDP / Familie ..", "longname":"Ökologisch-Demokratische Partei / Familie, Gerechtigkeit, Umwelt"},
+  {"id":17, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"}
+]

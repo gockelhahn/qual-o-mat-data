@@ -47,5 +47,6 @@
   {"id": 45, "name":"Bürgerschaftswahl Bremen", "date":"2019-05-26", "path":"data/2019/bremen"},
   {"id": 46, "name":"Europawahl", "date":"2019-05-26", "path":"data/2019/europa"},
   {"id": 47, "name":"Landtagswahl Brandenburg", "date":"2019-09-01", "path":"data/2019/brandenburg"},
-  {"id": 48, "name":"Landtagswahl Sachsen", "date":"2019-09-01", "path":"data/2019/sachsen"}
+  {"id": 48, "name":"Landtagswahl Sachsen", "date":"2019-09-01", "path":"data/2019/sachsen"},
+  {"id": 49, "name":"Landtagswahl Thüringen", "date":"2019-10-27", "path":"data/2019/thueringen"}
 ]
