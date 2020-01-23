@@ -1,0 +1,17 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":2, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":6, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":7, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":8, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":9, "name":"Volt Hamburg", "longname":"Volt Deutschland Landesverband Hamburg"},
+  {"id":10, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":11, "name":"TIERSCHUTZ hier! Hamburg", "longname":"Aktion Partei für TIERSCHUTZ - DAS ORIGINAL"},
+  {"id":12, "name":"Die Humanisten", "longname":"Partei der Humanisten"},
+  {"id":13, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"},
+  {"id":14, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"}
+]
