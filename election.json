@@ -49,5 +49,7 @@
   {"id": 47, "name":"Landtagswahl Brandenburg", "date":"2019-09-01", "path":"data/2019/brandenburg"},
   {"id": 48, "name":"Landtagswahl Sachsen", "date":"2019-09-01", "path":"data/2019/sachsen"},
   {"id": 49, "name":"Landtagswahl Thüringen", "date":"2019-10-27", "path":"data/2019/thueringen"},
-  {"id": 50, "name":"Bürgerschaftswahl Hamburg", "date":"2020-02-23", "path":"data/2020/hamburg"}
+  {"id": 50, "name":"Bürgerschaftswahl Hamburg", "date":"2020-02-23", "path":"data/2020/hamburg"},
+  {"id": 51, "name":"Landtagswahl Baden-Württemberg", "date":"2021-03-14", "path":"data/2021/badenwuerttemberg"},
+  {"id": 52, "name":"Landtagswahl Rheinland-Pfalz", "date":"2021-03-14", "path":"data/2021/rheinlandpfalz"}
 ]

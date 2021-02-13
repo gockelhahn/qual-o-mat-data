@@ -1,0 +1,15 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands  "},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands "},
+  {"id":2, "name":"AfD", "longname":"Alternative für Deutschland "},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei  "},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN  "},
+  {"id":5, "name":"DIE LINKE", "longname":"DIE LINKE "},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Rheinland-Pfalz "},
+  {"id":7, "name":"PIRATEN", "longname":"Piratenpartei Deutschland "},
+  {"id":8, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei "},
+  {"id":9, "name":"Klimaliste RLP e. V.", "longname":"Klimaliste RLP e. V."},
+  {"id":10, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative "},
+  {"id":11, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ "},
+  {"id":12, "name":"Volt", "longname":"Volt Deutschland"}
+]
