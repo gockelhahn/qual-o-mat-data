@@ -2,5 +2,6 @@
   "title":"Landtagswahl Rheinland-Pfalz",
   "date":"2016-03-13",
   "info":"https://de.wikipedia.org/wiki/Landtagswahl_in_Rheinland-Pfalz_2016",
+  "slug": "rlp2016",
   "data_source":"https://www.wahl-o-mat.de/rlp2016/PositionsvergleichRheinlandPfalz2016.pdf"
 }

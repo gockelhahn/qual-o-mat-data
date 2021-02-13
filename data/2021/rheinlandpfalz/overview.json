@@ -2,5 +2,6 @@
   "title":"Landtagswahl Rheinland-Pfalz",
   "date":"2021-03-14",
   "info":"https://de.wikipedia.org/wiki/Landtagswahl_in_Rheinland-Pfalz_2021",
+  "slug": "rlp2021",
   "data_source":"https://www.wahl-o-mat.de/rlp2021/PositionsVergleichRheinlandPfalz2021.pdf"
 }

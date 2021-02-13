@@ -2,5 +2,6 @@
   "title":"Bundestagswahl",
   "date":"2005-09-18",
   "info":"https://de.wikipedia.org/wiki/Bundestagswahl_2005",
+  "slug": "bundestagswahl2005",
   "data_source":"https://www.wahl-o-mat.de/bundestagswahl2005/wahlomat.zip"
 }
