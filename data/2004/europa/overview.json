@@ -2,5 +2,6 @@
   "title":"Europawahl",
   "date":"2004-06-13",
   "info":"https://de.wikipedia.org/wiki/Europawahl_in_Deutschland_2004",
+  "slug": "europa2004",
   "data_source":"https://www.wahl-o-mat.de/europa2004/wahlomat.zip"
 }

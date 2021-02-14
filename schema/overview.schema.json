@@ -18,11 +18,16 @@
       "type": "string",
       "format": "uri"
     },
+    "slug": {
+      "description": "Context path / slug of the original Wahl-o-Mat",
+      "type": "string",
+      "format": "uri"
+    },
     "data_source": {
       "description": "URL to the source of the election data",
       "type": "string",
       "format": "uri"
     }
   },
-  "required": ["title", "date", "info", "data_source"]
+  "required": ["title", "date", "info", "slug", "data_source"]
 }
