@@ -73,7 +73,7 @@
   {"id":71, "party":1, "statement":33, "answer":0, "comment":71},
   {"id":72, "party":1, "statement":34, "answer":0, "comment":72},
   {"id":73, "party":1, "statement":35, "answer":1, "comment":73},
-  {"id":74, "party":1, "statement":36, "answer":2, "comment":74},
+  {"id":74, "party":1, "statement":36, "answer":0, "comment":74},
   {"id":75, "party":1, "statement":37, "answer":1, "comment":75},
   {"id":76, "party":2, "statement":0, "answer":0, "comment":76},
   {"id":77, "party":2, "statement":1, "answer":1, "comment":77},
