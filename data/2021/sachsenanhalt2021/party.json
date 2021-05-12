@@ -1,0 +1,23 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":2, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":3, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":7, "name":"NPD", "longname":"Nationaldemokratische Partei Deutschlands"},
+  {"id":8, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":9, "name":"Tierschutzallianz", "longname":"Allianz für Menschenrechte, Tier- und Naturschutz"},
+  {"id":10, "name":"LKR", "longname":"Liberal-Konservative Reformer"},
+  {"id":11, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":12, "name":"FBM", "longname":"Freie Bürger Mitteldeutschland"},
+  {"id":13, "name":"TIERSCHUTZ hier!", "longname":"Aktion Partei für Tierschutz – TIERSCHUTZ hier!"},
+  {"id":14, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland"},
+  {"id":15, "name":"Klimaliste ST", "longname":"Klimaliste Sachsen-Anhalt"},
+  {"id":16, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":17, "name":"Die Humanisten", "longname":"Partei der Humanisten"},
+  {"id":18, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"},
+  {"id":19, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":20, "name":"WiR2020", "longname":"WiR2020"}
+]
