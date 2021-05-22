@@ -531,7 +531,7 @@
   {"id":529, "party":13, "statement":35, "answer":0, "comment":529},
   {"id":530, "party":13, "statement":36, "answer":0, "comment":530},
   {"id":531, "party":13, "statement":37, "answer":1, "comment":531},
-  {"id":532, "party":14, "statement":0, "answer":1, "comment":532},
+  {"id":532, "party":14, "statement":0, "answer":0, "comment":532},
   {"id":533, "party":14, "statement":1, "answer":0, "comment":533},
   {"id":534, "party":14, "statement":2, "answer":1, "comment":534},
   {"id":535, "party":14, "statement":3, "answer":1, "comment":535},
