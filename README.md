@@ -6,6 +6,11 @@ Dieses Repository enthält (von [qual-o-mat-tools](https://github.com/gockelhahn
 
 Nach dem Prinzip von [Open Data](https://de.wikipedia.org/wiki/Open_Data) sollten alle öffentlichen Daten möglichst [maschinenlesbar](https://en.wikipedia.org/wiki/Machine-readable_data) zur Verfügung gestellt werden, damit man sie filtern, verknüpfen oder anderweitig verarbeiten kann.
 
+Seit Mitte 2021 stellt die BPB für neue Wahl-O-Mate einen Datensatz, bestehend aus einer Excel-Datei, zum Download bereit.
+Leider ist dieser Datensatz weder für alte Wahl-O-Mate vorhanden, noch liegt er in einem geeigneten und strukturierten Format vor.
+
+Daraus ergibt sich weiterhin die Notwendigkeit dieses Repositorys zur zentralen Sammlung der Daten unter Verwendung eines seit mehreren Jahren stabilen [Datenschemas](schema).
+
 ## Vision
 
 Für den Moment wurde bereits ein schlanker, clientseitiger und offline-fähiger ["Qual-O-Mat"](https://github.com/gockelhahn/qual-o-mat-kiss) als [Open-Source Software](https://de.wikipedia.org/wiki/Open_Source) veröffentlicht. Für die Zukunft wäre es jedoch erstrebenswert, wenn auch andere Projekte diese Datenbasis für z.B. folgende Ideen nutzen würden:
@@ -17,6 +22,9 @@ Für den Moment wurde bereits ein schlanker, clientseitiger und offline-fähiger
 ## Richtigkeit der Daten
 
 Trotz aller Vorsichtsmaßnahmen und Prüfungen, kann es zu Übertragungsfehlern kommen.
+
+Leider kommt es öfter vor, dass Parteien nach der initialen Veröffentlichung des Wahl-O-Mats ihre Positionen nachträglich ändern lassen.
+Mittlerweile trackt die BPB etwaige Änderungen auch in dem von ihr bereitgestellten Datensatz.
 
 ## Disclaimer
 
