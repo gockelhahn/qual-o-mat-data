@@ -950,7 +950,7 @@
   {"id":948, "party":24, "statement":36, "answer":1, "comment":948},
   {"id":949, "party":24, "statement":37, "answer":1, "comment":949},
   {"id":950, "party":25, "statement":0, "answer":2, "comment":950},
-  {"id":951, "party":25, "statement":1, "answer":0, "comment":951},
+  {"id":951, "party":25, "statement":1, "answer":1, "comment":951},
   {"id":952, "party":25, "statement":2, "answer":1, "comment":952},
   {"id":953, "party":25, "statement":3, "answer":2, "comment":953},
   {"id":954, "party":25, "statement":4, "answer":0, "comment":954},
