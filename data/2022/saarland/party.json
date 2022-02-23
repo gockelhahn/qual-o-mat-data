@@ -1,0 +1,20 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":3, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":6, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands"},
+  {"id":7, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":8, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":9, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland"},
+  {"id":10, "name":"bunt.saar", "longname":"bunt.saar – sozial-ökologische liste"},
+  {"id":11, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":12, "name":"Die Humanisten", "longname":"Partei der Humanisten"},
+  {"id":13, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":14, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"},
+  {"id":15, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":16, "name":"SGV", "longname":"SGV – Solidarität, Gerechtigkeit, Veränderung –"},
+  {"id":17, "name":"Volt", "longname":"Volt Deutschland"}
+]

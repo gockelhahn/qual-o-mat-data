@@ -55,5 +55,6 @@
   {"id": 53, "name":"Landtagswahl Sachsen-Anhalt", "date":"2021-06-06", "path":"data/2021/sachsenanhalt"},
   {"id": 54, "name":"Abgeordnetenhauswahl Berlin", "date":"2021-09-26", "path":"data/2021/berlin"},
   {"id": 55, "name":"Landtagswahl Mecklenburg-Vorpommern", "date":"2021-09-26", "path":"data/2021/mecklenburgvorpommern"},
-  {"id": 56, "name":"Bundestagswahl", "date":"2021-09-26", "path":"data/2021/deutschland"}
+  {"id": 56, "name":"Bundestagswahl", "date":"2021-09-26", "path":"data/2021/deutschland"},
+  {"id": 57, "name":"Landtagswahl Saarland", "date":"2022-03-27", "path":"data/2022/saarland"}
 ]
