@@ -1,0 +1,4 @@
+# ignore IDE and virtual envs
+venv
+.idea
+.vscode
