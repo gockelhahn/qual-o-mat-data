@@ -952,7 +952,7 @@
   {"id":950, "party":25, "statement":0, "answer":1, "comment":950},
   {"id":951, "party":25, "statement":1, "answer":0, "comment":951},
   {"id":952, "party":25, "statement":2, "answer":0, "comment":952},
-  {"id":953, "party":25, "statement":3, "answer":1, "comment":953},
+  {"id":953, "party":25, "statement":3, "answer":0, "comment":953},
   {"id":954, "party":25, "statement":4, "answer":0, "comment":954},
   {"id":955, "party":25, "statement":5, "answer":1, "comment":955},
   {"id":956, "party":25, "statement":6, "answer":0, "comment":956},
