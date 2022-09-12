@@ -1,0 +1,16 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands in Niedersachsen"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":4, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":5, "name":"DIE LINKE.", "longname":"DIE LINKE. Niedersachsen"},
+  {"id":6, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland Landesverband Niedersachsen"},
+  {"id":7, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Niedersachsen"},
+  {"id":8, "name":"Die Humanisten Niedersachsen", "longname":"Partei der Humanisten Niedersachsen"},
+  {"id":9, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":10, "name":"Gesundheitsforschung", "longname":"Partei für Gesundheitsforschung"},
+  {"id":11, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ Landesverband Niedersachsen"},
+  {"id":12, "name":"PIRATEN", "longname":"Piratenpartei Niedersachsen"},
+  {"id":13, "name":"Volt", "longname":"Volt Deutschland Landesverband Niedersachsen"}
+]
