@@ -59,5 +59,6 @@
   {"id": 57, "name":"Landtagswahl Saarland", "date":"2022-03-27", "path":"data/2022/saarland"},
   {"id": 58, "name":"Landtagswahl Schleswig-Holstein", "date":"2022-05-08", "path":"data/2022/schleswigholstein"},
   {"id": 59, "name":"Landtagswahl Nordrhein-Westfalen", "date":"2022-05-15", "path":"data/2022/nordrheinwestfalen"},
-  {"id": 60, "name":"Landtagswahl Niedersachsen", "date":"2022-10-09", "path":"data/2022/niedersachsen"}
+  {"id": 60, "name":"Landtagswahl Niedersachsen", "date":"2022-10-09", "path":"data/2022/niedersachsen"},
+  {"id": 61, "name":"Abgeordnetenhauswahl Berlin", "date":"2023-02-12", "path":"data/2023/berlin"}
 ]
