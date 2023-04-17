@@ -1,0 +1,18 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"BIW", "longname":"BÜRGER IN WUT"},
+  {"id":6, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokrati­sche Initiative"},
+  {"id":7, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":8, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland"},
+  {"id":9, "name":"GFA", "longname":"Grundeinkommen für Alle"},
+  {"id":10, "name":"MLPD", "longname":"Marxistisch-Leninistische Partei Deutschlands"},
+  {"id":11, "name":"MERA25", "longname":"MERA25"},
+  {"id":12, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":13, "name":"Partei für schulmedizinische Verjüngungsforschung", "longname":"Partei für schulmedizinische Verjüngungsforschung"},
+  {"id":14, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":15, "name":"Volt", "longname":"Volt Deutschland"}
+]
