@@ -1,0 +1,23 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":2, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":3, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":7, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":8, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":9, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":10, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":11, "name":"Partei für schulmedizinische Verjüngungsforschung", "longname":"Partei für schulmedizinische Verjüngungsforschung"},
+  {"id":12, "name":"V-Partei³", "longname":"V-Partei³ - Partei für Veränderung, Vegetarier und Veganer"},
+  {"id":13, "name":"PdH", "longname":"Partei der Humanisten"},
+  {"id":14, "name":"ABG", "longname":"Aktion Bürger für Gerechtigkeit"},
+  {"id":15, "name":"APPD", "longname":"Anarchistische Pogo-Partei Deutschlands"},
+  {"id":16, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland "},
+  {"id":17, "name":"DKP", "longname":"Deutsche Kommunistische Partei"},
+  {"id":18, "name":"DIE NEUE MITTE", "longname":"DIE NEUE MITTE"},
+  {"id":19, "name":"Volt", "longname":"Volt Deutschland"},
+  {"id":20, "name":"KLIMALISTE WÄHLERLISTE", "longname":"Wählerliste Klimaliste Hessen"}
+]
