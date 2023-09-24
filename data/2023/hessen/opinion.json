@@ -657,7 +657,7 @@
   {"id":655, "party":17, "statement":9, "answer":0, "comment":655},
   {"id":656, "party":17, "statement":10, "answer":0, "comment":656},
   {"id":657, "party":17, "statement":11, "answer":1, "comment":657},
-  {"id":658, "party":17, "statement":12, "answer":1, "comment":658},
+  {"id":658, "party":17, "statement":12, "answer":0, "comment":658},
   {"id":659, "party":17, "statement":13, "answer":0, "comment":659},
   {"id":660, "party":17, "statement":14, "answer":1, "comment":660},
   {"id":661, "party":17, "statement":15, "answer":1, "comment":661},
