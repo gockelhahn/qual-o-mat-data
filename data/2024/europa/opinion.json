@@ -1,0 +1,9046 @@
+[
+ {
+  "id": 0,
+  "answer": 1,
+  "statement": 0,
+  "party": 0,
+  "comment": 0
+ },
+ {
+  "id": 1,
+  "answer": 0,
+  "statement": 1,
+  "party": 0,
+  "comment": 1
+ },
+ {
+  "id": 2,
+  "answer": 1,
+  "statement": 2,
+  "party": 0,
+  "comment": 2
+ },
+ {
+  "id": 3,
+  "answer": 0,
+  "statement": 3,
+  "party": 0,
+  "comment": 3
+ },
+ {
+  "id": 4,
+  "answer": 1,
+  "statement": 4,
+  "party": 0,
+  "comment": 4
+ },
+ {
+  "id": 5,
+  "answer": 1,
+  "statement": 5,
+  "party": 0,
+  "comment": 5
+ },
+ {
+  "id": 6,
+  "answer": 1,
+  "statement": 6,
+  "party": 0,
+  "comment": 6
+ },
+ {
+  "id": 7,
+  "answer": 0,
+  "statement": 7,
+  "party": 0,
+  "comment": 7
+ },
+ {
+  "id": 8,
+  "answer": 1,
+  "statement": 8,
+  "party": 0,
+  "comment": 8
+ },
+ {
+  "id": 9,
+  "answer": 0,
+  "statement": 9,
+  "party": 0,
+  "comment": 9
+ },
+ {
+  "id": 10,
+  "answer": 0,
+  "statement": 10,
+  "party": 0,
+  "comment": 10
+ },
+ {
+  "id": 11,
+  "answer": 0,
+  "statement": 11,
+  "party": 0,
+  "comment": 11
+ },
+ {
+  "id": 12,
+  "answer": 1,
+  "statement": 12,
+  "party": 0,
+  "comment": 12
+ },
+ {
+  "id": 13,
+  "answer": 1,
+  "statement": 13,
+  "party": 0,
+  "comment": 13
+ },
+ {
+  "id": 14,
+  "answer": 0,
+  "statement": 14,
+  "party": 0,
+  "comment": 14
+ },
+ {
+  "id": 15,
+  "answer": 1,
+  "statement": 15,
+  "party": 0,
+  "comment": 15
+ },
+ {
+  "id": 16,
+  "answer": 1,
+  "statement": 16,
+  "party": 0,
+  "comment": 16
+ },
+ {
+  "id": 17,
+  "answer": 2,
+  "statement": 17,
+  "party": 0,
+  "comment": 17
+ },
+ {
+  "id": 18,
+  "answer": 0,
+  "statement": 18,
+  "party": 0,
+  "comment": 18
+ },
+ {
+  "id": 19,
+  "answer": 0,
+  "statement": 19,
+  "party": 0,
+  "comment": 19
+ },
+ {
+  "id": 20,
+  "answer": 1,
+  "statement": 20,
+  "party": 0,
+  "comment": 20
+ },
+ {
+  "id": 21,
+  "answer": 0,
+  "statement": 21,
+  "party": 0,
+  "comment": 21
+ },
+ {
+  "id": 22,
+  "answer": 1,
+  "statement": 22,
+  "party": 0,
+  "comment": 22
+ },
+ {
+  "id": 23,
+  "answer": 0,
+  "statement": 23,
+  "party": 0,
+  "comment": 23
+ },
+ {
+  "id": 24,
+  "answer": 1,
+  "statement": 24,
+  "party": 0,
+  "comment": 24
+ },
+ {
+  "id": 25,
+  "answer": 2,
+  "statement": 25,
+  "party": 0,
+  "comment": 25
+ },
+ {
+  "id": 26,
+  "answer": 0,
+  "statement": 26,
+  "party": 0,
+  "comment": 26
+ },
+ {
+  "id": 27,
+  "answer": 1,
+  "statement": 27,
+  "party": 0,
+  "comment": 27
+ },
+ {
+  "id": 28,
+  "answer": 1,
+  "statement": 28,
+  "party": 0,
+  "comment": 28
+ },
+ {
+  "id": 29,
+  "answer": 0,
+  "statement": 29,
+  "party": 0,
+  "comment": 29
+ },
+ {
+  "id": 30,
+  "answer": 0,
+  "statement": 30,
+  "party": 0,
+  "comment": 30
+ },
+ {
+  "id": 31,
+  "answer": 0,
+  "statement": 31,
+  "party": 0,
+  "comment": 31
+ },
+ {
+  "id": 32,
+  "answer": 0,
+  "statement": 32,
+  "party": 0,
+  "comment": 32
+ },
+ {
+  "id": 33,
+  "answer": 1,
+  "statement": 33,
+  "party": 0,
+  "comment": 33
+ },
+ {
+  "id": 34,
+  "answer": 0,
+  "statement": 34,
+  "party": 0,
+  "comment": 34
+ },
+ {
+  "id": 35,
+  "answer": 0,
+  "statement": 35,
+  "party": 0,
+  "comment": 35
+ },
+ {
+  "id": 36,
+  "answer": 0,
+  "statement": 36,
+  "party": 0,
+  "comment": 36
+ },
+ {
+  "id": 37,
+  "answer": 0,
+  "statement": 37,
+  "party": 0,
+  "comment": 37
+ },
+ {
+  "id": 38,
+  "answer": 0,
+  "statement": 0,
+  "party": 1,
+  "comment": 38
+ },
+ {
+  "id": 39,
+  "answer": 1,
+  "statement": 1,
+  "party": 1,
+  "comment": 39
+ },
+ {
+  "id": 40,
+  "answer": 0,
+  "statement": 2,
+  "party": 1,
+  "comment": 40
+ },
+ {
+  "id": 41,
+  "answer": 0,
+  "statement": 3,
+  "party": 1,
+  "comment": 41
+ },
+ {
+  "id": 42,
+  "answer": 0,
+  "statement": 4,
+  "party": 1,
+  "comment": 42
+ },
+ {
+  "id": 43,
+  "answer": 1,
+  "statement": 5,
+  "party": 1,
+  "comment": 43
+ },
+ {
+  "id": 44,
+  "answer": 0,
+  "statement": 6,
+  "party": 1,
+  "comment": 44
+ },
+ {
+  "id": 45,
+  "answer": 1,
+  "statement": 7,
+  "party": 1,
+  "comment": 45
+ },
+ {
+  "id": 46,
+  "answer": 0,
+  "statement": 8,
+  "party": 1,
+  "comment": 46
+ },
+ {
+  "id": 47,
+  "answer": 0,
+  "statement": 9,
+  "party": 1,
+  "comment": 47
+ },
+ {
+  "id": 48,
+  "answer": 1,
+  "statement": 10,
+  "party": 1,
+  "comment": 48
+ },
+ {
+  "id": 49,
+  "answer": 0,
+  "statement": 11,
+  "party": 1,
+  "comment": 49
+ },
+ {
+  "id": 50,
+  "answer": 0,
+  "statement": 12,
+  "party": 1,
+  "comment": 50
+ },
+ {
+  "id": 51,
+  "answer": 1,
+  "statement": 13,
+  "party": 1,
+  "comment": 51
+ },
+ {
+  "id": 52,
+  "answer": 1,
+  "statement": 14,
+  "party": 1,
+  "comment": 52
+ },
+ {
+  "id": 53,
+  "answer": 0,
+  "statement": 15,
+  "party": 1,
+  "comment": 53
+ },
+ {
+  "id": 54,
+  "answer": 1,
+  "statement": 16,
+  "party": 1,
+  "comment": 54
+ },
+ {
+  "id": 55,
+  "answer": 0,
+  "statement": 17,
+  "party": 1,
+  "comment": 55
+ },
+ {
+  "id": 56,
+  "answer": 0,
+  "statement": 18,
+  "party": 1,
+  "comment": 56
+ },
+ {
+  "id": 57,
+  "answer": 0,
+  "statement": 19,
+  "party": 1,
+  "comment": 57
+ },
+ {
+  "id": 58,
+  "answer": 0,
+  "statement": 20,
+  "party": 1,
+  "comment": 58
+ },
+ {
+  "id": 59,
+  "answer": 1,
+  "statement": 21,
+  "party": 1,
+  "comment": 59
+ },
+ {
+  "id": 60,
+  "answer": 0,
+  "statement": 22,
+  "party": 1,
+  "comment": 60
+ },
+ {
+  "id": 61,
+  "answer": 1,
+  "statement": 23,
+  "party": 1,
+  "comment": 61
+ },
+ {
+  "id": 62,
+  "answer": 1,
+  "statement": 24,
+  "party": 1,
+  "comment": 62
+ },
+ {
+  "id": 63,
+  "answer": 1,
+  "statement": 25,
+  "party": 1,
+  "comment": 63
+ },
+ {
+  "id": 64,
+  "answer": 0,
+  "statement": 26,
+  "party": 1,
+  "comment": 64
+ },
+ {
+  "id": 65,
+  "answer": 2,
+  "statement": 27,
+  "party": 1,
+  "comment": 65
+ },
+ {
+  "id": 66,
+  "answer": 1,
+  "statement": 28,
+  "party": 1,
+  "comment": 66
+ },
+ {
+  "id": 67,
+  "answer": 0,
+  "statement": 29,
+  "party": 1,
+  "comment": 67
+ },
+ {
+  "id": 68,
+  "answer": 1,
+  "statement": 30,
+  "party": 1,
+  "comment": 68
+ },
+ {
+  "id": 69,
+  "answer": 0,
+  "statement": 31,
+  "party": 1,
+  "comment": 69
+ },
+ {
+  "id": 70,
+  "answer": 0,
+  "statement": 32,
+  "party": 1,
+  "comment": 70
+ },
+ {
+  "id": 71,
+  "answer": 1,
+  "statement": 33,
+  "party": 1,
+  "comment": 71
+ },
+ {
+  "id": 72,
+  "answer": 0,
+  "statement": 34,
+  "party": 1,
+  "comment": 72
+ },
+ {
+  "id": 73,
+  "answer": 1,
+  "statement": 35,
+  "party": 1,
+  "comment": 73
+ },
+ {
+  "id": 74,
+  "answer": 0,
+  "statement": 36,
+  "party": 1,
+  "comment": 74
+ },
+ {
+  "id": 75,
+  "answer": 0,
+  "statement": 37,
+  "party": 1,
+  "comment": 75
+ },
+ {
+  "id": 76,
+  "answer": 1,
+  "statement": 0,
+  "party": 2,
+  "comment": 76
+ },
+ {
+  "id": 77,
+  "answer": 1,
+  "statement": 1,
+  "party": 2,
+  "comment": 77
+ },
+ {
+  "id": 78,
+  "answer": 0,
+  "statement": 2,
+  "party": 2,
+  "comment": 78
+ },
+ {
+  "id": 79,
+  "answer": 0,
+  "statement": 3,
+  "party": 2,
+  "comment": 79
+ },
+ {
+  "id": 80,
+  "answer": 1,
+  "statement": 4,
+  "party": 2,
+  "comment": 80
+ },
+ {
+  "id": 81,
+  "answer": 1,
+  "statement": 5,
+  "party": 2,
+  "comment": 81
+ },
+ {
+  "id": 82,
+  "answer": 0,
+  "statement": 6,
+  "party": 2,
+  "comment": 82
+ },
+ {
+  "id": 83,
+  "answer": 2,
+  "statement": 7,
+  "party": 2,
+  "comment": 83
+ },
+ {
+  "id": 84,
+  "answer": 1,
+  "statement": 8,
+  "party": 2,
+  "comment": 84
+ },
+ {
+  "id": 85,
+  "answer": 0,
+  "statement": 9,
+  "party": 2,
+  "comment": 85
+ },
+ {
+  "id": 86,
+  "answer": 1,
+  "statement": 10,
+  "party": 2,
+  "comment": 86
+ },
+ {
+  "id": 87,
+  "answer": 0,
+  "statement": 11,
+  "party": 2,
+  "comment": 87
+ },
+ {
+  "id": 88,
+  "answer": 1,
+  "statement": 12,
+  "party": 2,
+  "comment": 88
+ },
+ {
+  "id": 89,
+  "answer": 1,
+  "statement": 13,
+  "party": 2,
+  "comment": 89
+ },
+ {
+  "id": 90,
+  "answer": 1,
+  "statement": 14,
+  "party": 2,
+  "comment": 90
+ },
+ {
+  "id": 91,
+  "answer": 0,
+  "statement": 15,
+  "party": 2,
+  "comment": 91
+ },
+ {
+  "id": 92,
+  "answer": 1,
+  "statement": 16,
+  "party": 2,
+  "comment": 92
+ },
+ {
+  "id": 93,
+  "answer": 0,
+  "statement": 17,
+  "party": 2,
+  "comment": 93
+ },
+ {
+  "id": 94,
+  "answer": 0,
+  "statement": 18,
+  "party": 2,
+  "comment": 94
+ },
+ {
+  "id": 95,
+  "answer": 0,
+  "statement": 19,
+  "party": 2,
+  "comment": 95
+ },
+ {
+  "id": 96,
+  "answer": 0,
+  "statement": 20,
+  "party": 2,
+  "comment": 96
+ },
+ {
+  "id": 97,
+  "answer": 0,
+  "statement": 21,
+  "party": 2,
+  "comment": 97
+ },
+ {
+  "id": 98,
+  "answer": 0,
+  "statement": 22,
+  "party": 2,
+  "comment": 98
+ },
+ {
+  "id": 99,
+  "answer": 1,
+  "statement": 23,
+  "party": 2,
+  "comment": 99
+ },
+ {
+  "id": 100,
+  "answer": 1,
+  "statement": 24,
+  "party": 2,
+  "comment": 100
+ },
+ {
+  "id": 101,
+  "answer": 0,
+  "statement": 25,
+  "party": 2,
+  "comment": 101
+ },
+ {
+  "id": 102,
+  "answer": 0,
+  "statement": 26,
+  "party": 2,
+  "comment": 102
+ },
+ {
+  "id": 103,
+  "answer": 0,
+  "statement": 27,
+  "party": 2,
+  "comment": 103
+ },
+ {
+  "id": 104,
+  "answer": 1,
+  "statement": 28,
+  "party": 2,
+  "comment": 104
+ },
+ {
+  "id": 105,
+  "answer": 0,
+  "statement": 29,
+  "party": 2,
+  "comment": 105
+ },
+ {
+  "id": 106,
+  "answer": 1,
+  "statement": 30,
+  "party": 2,
+  "comment": 106
+ },
+ {
+  "id": 107,
+  "answer": 0,
+  "statement": 31,
+  "party": 2,
+  "comment": 107
+ },
+ {
+  "id": 108,
+  "answer": 0,
+  "statement": 32,
+  "party": 2,
+  "comment": 108
+ },
+ {
+  "id": 109,
+  "answer": 1,
+  "statement": 33,
+  "party": 2,
+  "comment": 109
+ },
+ {
+  "id": 110,
+  "answer": 0,
+  "statement": 34,
+  "party": 2,
+  "comment": 110
+ },
+ {
+  "id": 111,
+  "answer": 0,
+  "statement": 35,
+  "party": 2,
+  "comment": 111
+ },
+ {
+  "id": 112,
+  "answer": 0,
+  "statement": 36,
+  "party": 2,
+  "comment": 112
+ },
+ {
+  "id": 113,
+  "answer": 0,
+  "statement": 37,
+  "party": 2,
+  "comment": 113
+ },
+ {
+  "id": 114,
+  "answer": 1,
+  "statement": 0,
+  "party": 3,
+  "comment": 114
+ },
+ {
+  "id": 115,
+  "answer": 0,
+  "statement": 1,
+  "party": 3,
+  "comment": 115
+ },
+ {
+  "id": 116,
+  "answer": 1,
+  "statement": 2,
+  "party": 3,
+  "comment": 116
+ },
+ {
+  "id": 117,
+  "answer": 1,
+  "statement": 3,
+  "party": 3,
+  "comment": 117
+ },
+ {
+  "id": 118,
+  "answer": 1,
+  "statement": 4,
+  "party": 3,
+  "comment": 118
+ },
+ {
+  "id": 119,
+  "answer": 0,
+  "statement": 5,
+  "party": 3,
+  "comment": 119
+ },
+ {
+  "id": 120,
+  "answer": 1,
+  "statement": 6,
+  "party": 3,
+  "comment": 120
+ },
+ {
+  "id": 121,
+  "answer": 0,
+  "statement": 7,
+  "party": 3,
+  "comment": 121
+ },
+ {
+  "id": 122,
+  "answer": 1,
+  "statement": 8,
+  "party": 3,
+  "comment": 122
+ },
+ {
+  "id": 123,
+  "answer": 1,
+  "statement": 9,
+  "party": 3,
+  "comment": 123
+ },
+ {
+  "id": 124,
+  "answer": 0,
+  "statement": 10,
+  "party": 3,
+  "comment": 124
+ },
+ {
+  "id": 125,
+  "answer": 1,
+  "statement": 11,
+  "party": 3,
+  "comment": 125
+ },
+ {
+  "id": 126,
+  "answer": 1,
+  "statement": 12,
+  "party": 3,
+  "comment": 126
+ },
+ {
+  "id": 127,
+  "answer": 0,
+  "statement": 13,
+  "party": 3,
+  "comment": 127
+ },
+ {
+  "id": 128,
+  "answer": 0,
+  "statement": 14,
+  "party": 3,
+  "comment": 128
+ },
+ {
+  "id": 129,
+  "answer": 1,
+  "statement": 15,
+  "party": 3,
+  "comment": 129
+ },
+ {
+  "id": 130,
+  "answer": 0,
+  "statement": 16,
+  "party": 3,
+  "comment": 130
+ },
+ {
+  "id": 131,
+  "answer": 1,
+  "statement": 17,
+  "party": 3,
+  "comment": 131
+ },
+ {
+  "id": 132,
+  "answer": 1,
+  "statement": 18,
+  "party": 3,
+  "comment": 132
+ },
+ {
+  "id": 133,
+  "answer": 1,
+  "statement": 19,
+  "party": 3,
+  "comment": 133
+ },
+ {
+  "id": 134,
+  "answer": 1,
+  "statement": 20,
+  "party": 3,
+  "comment": 134
+ },
+ {
+  "id": 135,
+  "answer": 1,
+  "statement": 21,
+  "party": 3,
+  "comment": 135
+ },
+ {
+  "id": 136,
+  "answer": 1,
+  "statement": 22,
+  "party": 3,
+  "comment": 136
+ },
+ {
+  "id": 137,
+  "answer": 0,
+  "statement": 23,
+  "party": 3,
+  "comment": 137
+ },
+ {
+  "id": 138,
+  "answer": 0,
+  "statement": 24,
+  "party": 3,
+  "comment": 138
+ },
+ {
+  "id": 139,
+  "answer": 1,
+  "statement": 25,
+  "party": 3,
+  "comment": 139
+ },
+ {
+  "id": 140,
+  "answer": 1,
+  "statement": 26,
+  "party": 3,
+  "comment": 140
+ },
+ {
+  "id": 141,
+  "answer": 2,
+  "statement": 27,
+  "party": 3,
+  "comment": 141
+ },
+ {
+  "id": 142,
+  "answer": 0,
+  "statement": 28,
+  "party": 3,
+  "comment": 142
+ },
+ {
+  "id": 143,
+  "answer": 2,
+  "statement": 29,
+  "party": 3,
+  "comment": 143
+ },
+ {
+  "id": 144,
+  "answer": 0,
+  "statement": 30,
+  "party": 3,
+  "comment": 144
+ },
+ {
+  "id": 145,
+  "answer": 1,
+  "statement": 31,
+  "party": 3,
+  "comment": 145
+ },
+ {
+  "id": 146,
+  "answer": 0,
+  "statement": 32,
+  "party": 3,
+  "comment": 146
+ },
+ {
+  "id": 147,
+  "answer": 0,
+  "statement": 33,
+  "party": 3,
+  "comment": 147
+ },
+ {
+  "id": 148,
+  "answer": 1,
+  "statement": 34,
+  "party": 3,
+  "comment": 148
+ },
+ {
+  "id": 149,
+  "answer": 0,
+  "statement": 35,
+  "party": 3,
+  "comment": 149
+ },
+ {
+  "id": 150,
+  "answer": 1,
+  "statement": 36,
+  "party": 3,
+  "comment": 150
+ },
+ {
+  "id": 151,
+  "answer": 1,
+  "statement": 37,
+  "party": 3,
+  "comment": 151
+ },
+ {
+  "id": 152,
+  "answer": 0,
+  "statement": 0,
+  "party": 4,
+  "comment": 152
+ },
+ {
+  "id": 153,
+  "answer": 1,
+  "statement": 1,
+  "party": 4,
+  "comment": 153
+ },
+ {
+  "id": 154,
+  "answer": 0,
+  "statement": 2,
+  "party": 4,
+  "comment": 154
+ },
+ {
+  "id": 155,
+  "answer": 1,
+  "statement": 3,
+  "party": 4,
+  "comment": 155
+ },
+ {
+  "id": 156,
+  "answer": 0,
+  "statement": 4,
+  "party": 4,
+  "comment": 156
+ },
+ {
+  "id": 157,
+  "answer": 1,
+  "statement": 5,
+  "party": 4,
+  "comment": 157
+ },
+ {
+  "id": 158,
+  "answer": 0,
+  "statement": 6,
+  "party": 4,
+  "comment": 158
+ },
+ {
+  "id": 159,
+  "answer": 1,
+  "statement": 7,
+  "party": 4,
+  "comment": 159
+ },
+ {
+  "id": 160,
+  "answer": 0,
+  "statement": 8,
+  "party": 4,
+  "comment": 160
+ },
+ {
+  "id": 161,
+  "answer": 1,
+  "statement": 9,
+  "party": 4,
+  "comment": 161
+ },
+ {
+  "id": 162,
+  "answer": 1,
+  "statement": 10,
+  "party": 4,
+  "comment": 162
+ },
+ {
+  "id": 163,
+  "answer": 1,
+  "statement": 11,
+  "party": 4,
+  "comment": 163
+ },
+ {
+  "id": 164,
+  "answer": 0,
+  "statement": 12,
+  "party": 4,
+  "comment": 164
+ },
+ {
+  "id": 165,
+  "answer": 1,
+  "statement": 13,
+  "party": 4,
+  "comment": 165
+ },
+ {
+  "id": 166,
+  "answer": 1,
+  "statement": 14,
+  "party": 4,
+  "comment": 166
+ },
+ {
+  "id": 167,
+  "answer": 0,
+  "statement": 15,
+  "party": 4,
+  "comment": 167
+ },
+ {
+  "id": 168,
+  "answer": 1,
+  "statement": 16,
+  "party": 4,
+  "comment": 168
+ },
+ {
+  "id": 169,
+  "answer": 0,
+  "statement": 17,
+  "party": 4,
+  "comment": 169
+ },
+ {
+  "id": 170,
+  "answer": 0,
+  "statement": 18,
+  "party": 4,
+  "comment": 170
+ },
+ {
+  "id": 171,
+  "answer": 1,
+  "statement": 19,
+  "party": 4,
+  "comment": 171
+ },
+ {
+  "id": 172,
+  "answer": 0,
+  "statement": 20,
+  "party": 4,
+  "comment": 172
+ },
+ {
+  "id": 173,
+  "answer": 1,
+  "statement": 21,
+  "party": 4,
+  "comment": 173
+ },
+ {
+  "id": 174,
+  "answer": 0,
+  "statement": 22,
+  "party": 4,
+  "comment": 174
+ },
+ {
+  "id": 175,
+  "answer": 1,
+  "statement": 23,
+  "party": 4,
+  "comment": 175
+ },
+ {
+  "id": 176,
+  "answer": 0,
+  "statement": 24,
+  "party": 4,
+  "comment": 176
+ },
+ {
+  "id": 177,
+  "answer": 1,
+  "statement": 25,
+  "party": 4,
+  "comment": 177
+ },
+ {
+  "id": 178,
+  "answer": 0,
+  "statement": 26,
+  "party": 4,
+  "comment": 178
+ },
+ {
+  "id": 179,
+  "answer": 0,
+  "statement": 27,
+  "party": 4,
+  "comment": 179
+ },
+ {
+  "id": 180,
+  "answer": 1,
+  "statement": 28,
+  "party": 4,
+  "comment": 180
+ },
+ {
+  "id": 181,
+  "answer": 0,
+  "statement": 29,
+  "party": 4,
+  "comment": 181
+ },
+ {
+  "id": 182,
+  "answer": 1,
+  "statement": 30,
+  "party": 4,
+  "comment": 182
+ },
+ {
+  "id": 183,
+  "answer": 0,
+  "statement": 31,
+  "party": 4,
+  "comment": 183
+ },
+ {
+  "id": 184,
+  "answer": 0,
+  "statement": 32,
+  "party": 4,
+  "comment": 184
+ },
+ {
+  "id": 185,
+  "answer": 0,
+  "statement": 33,
+  "party": 4,
+  "comment": 185
+ },
+ {
+  "id": 186,
+  "answer": 0,
+  "statement": 34,
+  "party": 4,
+  "comment": 186
+ },
+ {
+  "id": 187,
+  "answer": 1,
+  "statement": 35,
+  "party": 4,
+  "comment": 187
+ },
+ {
+  "id": 188,
+  "answer": 1,
+  "statement": 36,
+  "party": 4,
+  "comment": 188
+ },
+ {
+  "id": 189,
+  "answer": 0,
+  "statement": 37,
+  "party": 4,
+  "comment": 189
+ },
+ {
+  "id": 190,
+  "answer": 1,
+  "statement": 0,
+  "party": 5,
+  "comment": 190
+ },
+ {
+  "id": 191,
+  "answer": 0,
+  "statement": 1,
+  "party": 5,
+  "comment": 191
+ },
+ {
+  "id": 192,
+  "answer": 0,
+  "statement": 2,
+  "party": 5,
+  "comment": 192
+ },
+ {
+  "id": 193,
+  "answer": 0,
+  "statement": 3,
+  "party": 5,
+  "comment": 193
+ },
+ {
+  "id": 194,
+  "answer": 1,
+  "statement": 4,
+  "party": 5,
+  "comment": 194
+ },
+ {
+  "id": 195,
+  "answer": 1,
+  "statement": 5,
+  "party": 5,
+  "comment": 195
+ },
+ {
+  "id": 196,
+  "answer": 0,
+  "statement": 6,
+  "party": 5,
+  "comment": 196
+ },
+ {
+  "id": 197,
+  "answer": 0,
+  "statement": 7,
+  "party": 5,
+  "comment": 197
+ },
+ {
+  "id": 198,
+  "answer": 1,
+  "statement": 8,
+  "party": 5,
+  "comment": 198
+ },
+ {
+  "id": 199,
+  "answer": 0,
+  "statement": 9,
+  "party": 5,
+  "comment": 199
+ },
+ {
+  "id": 200,
+  "answer": 0,
+  "statement": 10,
+  "party": 5,
+  "comment": 200
+ },
+ {
+  "id": 201,
+  "answer": 0,
+  "statement": 11,
+  "party": 5,
+  "comment": 201
+ },
+ {
+  "id": 202,
+  "answer": 1,
+  "statement": 12,
+  "party": 5,
+  "comment": 202
+ },
+ {
+  "id": 203,
+  "answer": 1,
+  "statement": 13,
+  "party": 5,
+  "comment": 203
+ },
+ {
+  "id": 204,
+  "answer": 0,
+  "statement": 14,
+  "party": 5,
+  "comment": 204
+ },
+ {
+  "id": 205,
+  "answer": 1,
+  "statement": 15,
+  "party": 5,
+  "comment": 205
+ },
+ {
+  "id": 206,
+  "answer": 1,
+  "statement": 16,
+  "party": 5,
+  "comment": 206
+ },
+ {
+  "id": 207,
+  "answer": 1,
+  "statement": 17,
+  "party": 5,
+  "comment": 207
+ },
+ {
+  "id": 208,
+  "answer": 0,
+  "statement": 18,
+  "party": 5,
+  "comment": 208
+ },
+ {
+  "id": 209,
+  "answer": 0,
+  "statement": 19,
+  "party": 5,
+  "comment": 209
+ },
+ {
+  "id": 210,
+  "answer": 1,
+  "statement": 20,
+  "party": 5,
+  "comment": 210
+ },
+ {
+  "id": 211,
+  "answer": 1,
+  "statement": 21,
+  "party": 5,
+  "comment": 211
+ },
+ {
+  "id": 212,
+  "answer": 0,
+  "statement": 22,
+  "party": 5,
+  "comment": 212
+ },
+ {
+  "id": 213,
+  "answer": 1,
+  "statement": 23,
+  "party": 5,
+  "comment": 213
+ },
+ {
+  "id": 214,
+  "answer": 1,
+  "statement": 24,
+  "party": 5,
+  "comment": 214
+ },
+ {
+  "id": 215,
+  "answer": 0,
+  "statement": 25,
+  "party": 5,
+  "comment": 215
+ },
+ {
+  "id": 216,
+  "answer": 0,
+  "statement": 26,
+  "party": 5,
+  "comment": 216
+ },
+ {
+  "id": 217,
+  "answer": 2,
+  "statement": 27,
+  "party": 5,
+  "comment": 217
+ },
+ {
+  "id": 218,
+  "answer": 1,
+  "statement": 28,
+  "party": 5,
+  "comment": 218
+ },
+ {
+  "id": 219,
+  "answer": 0,
+  "statement": 29,
+  "party": 5,
+  "comment": 219
+ },
+ {
+  "id": 220,
+  "answer": 0,
+  "statement": 30,
+  "party": 5,
+  "comment": 220
+ },
+ {
+  "id": 221,
+  "answer": 0,
+  "statement": 31,
+  "party": 5,
+  "comment": 221
+ },
+ {
+  "id": 222,
+  "answer": 0,
+  "statement": 32,
+  "party": 5,
+  "comment": 222
+ },
+ {
+  "id": 223,
+  "answer": 1,
+  "statement": 33,
+  "party": 5,
+  "comment": 223
+ },
+ {
+  "id": 224,
+  "answer": 2,
+  "statement": 34,
+  "party": 5,
+  "comment": 224
+ },
+ {
+  "id": 225,
+  "answer": 0,
+  "statement": 35,
+  "party": 5,
+  "comment": 225
+ },
+ {
+  "id": 226,
+  "answer": 0,
+  "statement": 36,
+  "party": 5,
+  "comment": 226
+ },
+ {
+  "id": 227,
+  "answer": 0,
+  "statement": 37,
+  "party": 5,
+  "comment": 227
+ },
+ {
+  "id": 228,
+  "answer": 1,
+  "statement": 0,
+  "party": 6,
+  "comment": 228
+ },
+ {
+  "id": 229,
+  "answer": 1,
+  "statement": 1,
+  "party": 6,
+  "comment": 229
+ },
+ {
+  "id": 230,
+  "answer": 0,
+  "statement": 2,
+  "party": 6,
+  "comment": 230
+ },
+ {
+  "id": 231,
+  "answer": 2,
+  "statement": 3,
+  "party": 6,
+  "comment": 231
+ },
+ {
+  "id": 232,
+  "answer": 0,
+  "statement": 4,
+  "party": 6,
+  "comment": 232
+ },
+ {
+  "id": 233,
+  "answer": 1,
+  "statement": 5,
+  "party": 6,
+  "comment": 233
+ },
+ {
+  "id": 234,
+  "answer": 0,
+  "statement": 6,
+  "party": 6,
+  "comment": 234
+ },
+ {
+  "id": 235,
+  "answer": 1,
+  "statement": 7,
+  "party": 6,
+  "comment": 235
+ },
+ {
+  "id": 236,
+  "answer": 0,
+  "statement": 8,
+  "party": 6,
+  "comment": 236
+ },
+ {
+  "id": 237,
+  "answer": 0,
+  "statement": 9,
+  "party": 6,
+  "comment": 237
+ },
+ {
+  "id": 238,
+  "answer": 1,
+  "statement": 10,
+  "party": 6,
+  "comment": 238
+ },
+ {
+  "id": 239,
+  "answer": 1,
+  "statement": 11,
+  "party": 6,
+  "comment": 239
+ },
+ {
+  "id": 240,
+  "answer": 0,
+  "statement": 12,
+  "party": 6,
+  "comment": 240
+ },
+ {
+  "id": 241,
+  "answer": 1,
+  "statement": 13,
+  "party": 6,
+  "comment": 241
+ },
+ {
+  "id": 242,
+  "answer": 0,
+  "statement": 14,
+  "party": 6,
+  "comment": 242
+ },
+ {
+  "id": 243,
+  "answer": 0,
+  "statement": 15,
+  "party": 6,
+  "comment": 243
+ },
+ {
+  "id": 244,
+  "answer": 0,
+  "statement": 16,
+  "party": 6,
+  "comment": 244
+ },
+ {
+  "id": 245,
+  "answer": 0,
+  "statement": 17,
+  "party": 6,
+  "comment": 245
+ },
+ {
+  "id": 246,
+  "answer": 0,
+  "statement": 18,
+  "party": 6,
+  "comment": 246
+ },
+ {
+  "id": 247,
+  "answer": 2,
+  "statement": 19,
+  "party": 6,
+  "comment": 247
+ },
+ {
+  "id": 248,
+  "answer": 0,
+  "statement": 20,
+  "party": 6,
+  "comment": 248
+ },
+ {
+  "id": 249,
+  "answer": 0,
+  "statement": 21,
+  "party": 6,
+  "comment": 249
+ },
+ {
+  "id": 250,
+  "answer": 0,
+  "statement": 22,
+  "party": 6,
+  "comment": 250
+ },
+ {
+  "id": 251,
+  "answer": 1,
+  "statement": 23,
+  "party": 6,
+  "comment": 251
+ },
+ {
+  "id": 252,
+  "answer": 0,
+  "statement": 24,
+  "party": 6,
+  "comment": 252
+ },
+ {
+  "id": 253,
+  "answer": 1,
+  "statement": 25,
+  "party": 6,
+  "comment": 253
+ },
+ {
+  "id": 254,
+  "answer": 0,
+  "statement": 26,
+  "party": 6,
+  "comment": 254
+ },
+ {
+  "id": 255,
+  "answer": 0,
+  "statement": 27,
+  "party": 6,
+  "comment": 255
+ },
+ {
+  "id": 256,
+  "answer": 1,
+  "statement": 28,
+  "party": 6,
+  "comment": 256
+ },
+ {
+  "id": 257,
+  "answer": 0,
+  "statement": 29,
+  "party": 6,
+  "comment": 257
+ },
+ {
+  "id": 258,
+  "answer": 1,
+  "statement": 30,
+  "party": 6,
+  "comment": 258
+ },
+ {
+  "id": 259,
+  "answer": 0,
+  "statement": 31,
+  "party": 6,
+  "comment": 259
+ },
+ {
+  "id": 260,
+  "answer": 0,
+  "statement": 32,
+  "party": 6,
+  "comment": 260
+ },
+ {
+  "id": 261,
+  "answer": 0,
+  "statement": 33,
+  "party": 6,
+  "comment": 261
+ },
+ {
+  "id": 262,
+  "answer": 0,
+  "statement": 34,
+  "party": 6,
+  "comment": 262
+ },
+ {
+  "id": 263,
+  "answer": 1,
+  "statement": 35,
+  "party": 6,
+  "comment": 263
+ },
+ {
+  "id": 264,
+  "answer": 1,
+  "statement": 36,
+  "party": 6,
+  "comment": 264
+ },
+ {
+  "id": 265,
+  "answer": 0,
+  "statement": 37,
+  "party": 6,
+  "comment": 265
+ },
+ {
+  "id": 266,
+  "answer": 0,
+  "statement": 0,
+  "party": 7,
+  "comment": 266
+ },
+ {
+  "id": 267,
+  "answer": 0,
+  "statement": 1,
+  "party": 7,
+  "comment": 267
+ },
+ {
+  "id": 268,
+  "answer": 0,
+  "statement": 2,
+  "party": 7,
+  "comment": 268
+ },
+ {
+  "id": 269,
+  "answer": 0,
+  "statement": 3,
+  "party": 7,
+  "comment": 269
+ },
+ {
+  "id": 270,
+  "answer": 2,
+  "statement": 4,
+  "party": 7,
+  "comment": 270
+ },
+ {
+  "id": 271,
+  "answer": 1,
+  "statement": 5,
+  "party": 7,
+  "comment": 271
+ },
+ {
+  "id": 272,
+  "answer": 0,
+  "statement": 6,
+  "party": 7,
+  "comment": 272
+ },
+ {
+  "id": 273,
+  "answer": 0,
+  "statement": 7,
+  "party": 7,
+  "comment": 273
+ },
+ {
+  "id": 274,
+  "answer": 1,
+  "statement": 8,
+  "party": 7,
+  "comment": 274
+ },
+ {
+  "id": 275,
+  "answer": 0,
+  "statement": 9,
+  "party": 7,
+  "comment": 275
+ },
+ {
+  "id": 276,
+  "answer": 1,
+  "statement": 10,
+  "party": 7,
+  "comment": 276
+ },
+ {
+  "id": 277,
+  "answer": 0,
+  "statement": 11,
+  "party": 7,
+  "comment": 277
+ },
+ {
+  "id": 278,
+  "answer": 0,
+  "statement": 12,
+  "party": 7,
+  "comment": 278
+ },
+ {
+  "id": 279,
+  "answer": 1,
+  "statement": 13,
+  "party": 7,
+  "comment": 279
+ },
+ {
+  "id": 280,
+  "answer": 0,
+  "statement": 14,
+  "party": 7,
+  "comment": 280
+ },
+ {
+  "id": 281,
+  "answer": 1,
+  "statement": 15,
+  "party": 7,
+  "comment": 281
+ },
+ {
+  "id": 282,
+  "answer": 1,
+  "statement": 16,
+  "party": 7,
+  "comment": 282
+ },
+ {
+  "id": 283,
+  "answer": 0,
+  "statement": 17,
+  "party": 7,
+  "comment": 283
+ },
+ {
+  "id": 284,
+  "answer": 0,
+  "statement": 18,
+  "party": 7,
+  "comment": 284
+ },
+ {
+  "id": 285,
+  "answer": 0,
+  "statement": 19,
+  "party": 7,
+  "comment": 285
+ },
+ {
+  "id": 286,
+  "answer": 1,
+  "statement": 20,
+  "party": 7,
+  "comment": 286
+ },
+ {
+  "id": 287,
+  "answer": 0,
+  "statement": 21,
+  "party": 7,
+  "comment": 287
+ },
+ {
+  "id": 288,
+  "answer": 0,
+  "statement": 22,
+  "party": 7,
+  "comment": 288
+ },
+ {
+  "id": 289,
+  "answer": 1,
+  "statement": 23,
+  "party": 7,
+  "comment": 289
+ },
+ {
+  "id": 290,
+  "answer": 0,
+  "statement": 24,
+  "party": 7,
+  "comment": 290
+ },
+ {
+  "id": 291,
+  "answer": 0,
+  "statement": 25,
+  "party": 7,
+  "comment": 291
+ },
+ {
+  "id": 292,
+  "answer": 2,
+  "statement": 26,
+  "party": 7,
+  "comment": 292
+ },
+ {
+  "id": 293,
+  "answer": 1,
+  "statement": 27,
+  "party": 7,
+  "comment": 293
+ },
+ {
+  "id": 294,
+  "answer": 1,
+  "statement": 28,
+  "party": 7,
+  "comment": 294
+ },
+ {
+  "id": 295,
+  "answer": 0,
+  "statement": 29,
+  "party": 7,
+  "comment": 295
+ },
+ {
+  "id": 296,
+  "answer": 1,
+  "statement": 30,
+  "party": 7,
+  "comment": 296
+ },
+ {
+  "id": 297,
+  "answer": 0,
+  "statement": 31,
+  "party": 7,
+  "comment": 297
+ },
+ {
+  "id": 298,
+  "answer": 0,
+  "statement": 32,
+  "party": 7,
+  "comment": 298
+ },
+ {
+  "id": 299,
+  "answer": 1,
+  "statement": 33,
+  "party": 7,
+  "comment": 299
+ },
+ {
+  "id": 300,
+  "answer": 0,
+  "statement": 34,
+  "party": 7,
+  "comment": 300
+ },
+ {
+  "id": 301,
+  "answer": 0,
+  "statement": 35,
+  "party": 7,
+  "comment": 301
+ },
+ {
+  "id": 302,
+  "answer": 0,
+  "statement": 36,
+  "party": 7,
+  "comment": 302
+ },
+ {
+  "id": 303,
+  "answer": 0,
+  "statement": 37,
+  "party": 7,
+  "comment": 303
+ },
+ {
+  "id": 304,
+  "answer": 0,
+  "statement": 0,
+  "party": 8,
+  "comment": 304
+ },
+ {
+  "id": 305,
+  "answer": 1,
+  "statement": 1,
+  "party": 8,
+  "comment": 305
+ },
+ {
+  "id": 306,
+  "answer": 0,
+  "statement": 2,
+  "party": 8,
+  "comment": 306
+ },
+ {
+  "id": 307,
+  "answer": 0,
+  "statement": 3,
+  "party": 8,
+  "comment": 307
+ },
+ {
+  "id": 308,
+  "answer": 0,
+  "statement": 4,
+  "party": 8,
+  "comment": 308
+ },
+ {
+  "id": 309,
+  "answer": 1,
+  "statement": 5,
+  "party": 8,
+  "comment": 309
+ },
+ {
+  "id": 310,
+  "answer": 0,
+  "statement": 6,
+  "party": 8,
+  "comment": 310
+ },
+ {
+  "id": 311,
+  "answer": 1,
+  "statement": 7,
+  "party": 8,
+  "comment": 311
+ },
+ {
+  "id": 312,
+  "answer": 0,
+  "statement": 8,
+  "party": 8,
+  "comment": 312
+ },
+ {
+  "id": 313,
+  "answer": 0,
+  "statement": 9,
+  "party": 8,
+  "comment": 313
+ },
+ {
+  "id": 314,
+  "answer": 1,
+  "statement": 10,
+  "party": 8,
+  "comment": 314
+ },
+ {
+  "id": 315,
+  "answer": 2,
+  "statement": 11,
+  "party": 8,
+  "comment": 315
+ },
+ {
+  "id": 316,
+  "answer": 0,
+  "statement": 12,
+  "party": 8,
+  "comment": 316
+ },
+ {
+  "id": 317,
+  "answer": 1,
+  "statement": 13,
+  "party": 8,
+  "comment": 317
+ },
+ {
+  "id": 318,
+  "answer": 1,
+  "statement": 14,
+  "party": 8,
+  "comment": 318
+ },
+ {
+  "id": 319,
+  "answer": 0,
+  "statement": 15,
+  "party": 8,
+  "comment": 319
+ },
+ {
+  "id": 320,
+  "answer": 1,
+  "statement": 16,
+  "party": 8,
+  "comment": 320
+ },
+ {
+  "id": 321,
+  "answer": 0,
+  "statement": 17,
+  "party": 8,
+  "comment": 321
+ },
+ {
+  "id": 322,
+  "answer": 0,
+  "statement": 18,
+  "party": 8,
+  "comment": 322
+ },
+ {
+  "id": 323,
+  "answer": 2,
+  "statement": 19,
+  "party": 8,
+  "comment": 323
+ },
+ {
+  "id": 324,
+  "answer": 0,
+  "statement": 20,
+  "party": 8,
+  "comment": 324
+ },
+ {
+  "id": 325,
+  "answer": 0,
+  "statement": 21,
+  "party": 8,
+  "comment": 325
+ },
+ {
+  "id": 326,
+  "answer": 0,
+  "statement": 22,
+  "party": 8,
+  "comment": 326
+ },
+ {
+  "id": 327,
+  "answer": 1,
+  "statement": 23,
+  "party": 8,
+  "comment": 327
+ },
+ {
+  "id": 328,
+  "answer": 1,
+  "statement": 24,
+  "party": 8,
+  "comment": 328
+ },
+ {
+  "id": 329,
+  "answer": 1,
+  "statement": 25,
+  "party": 8,
+  "comment": 329
+ },
+ {
+  "id": 330,
+  "answer": 0,
+  "statement": 26,
+  "party": 8,
+  "comment": 330
+ },
+ {
+  "id": 331,
+  "answer": 0,
+  "statement": 27,
+  "party": 8,
+  "comment": 331
+ },
+ {
+  "id": 332,
+  "answer": 1,
+  "statement": 28,
+  "party": 8,
+  "comment": 332
+ },
+ {
+  "id": 333,
+  "answer": 0,
+  "statement": 29,
+  "party": 8,
+  "comment": 333
+ },
+ {
+  "id": 334,
+  "answer": 1,
+  "statement": 30,
+  "party": 8,
+  "comment": 334
+ },
+ {
+  "id": 335,
+  "answer": 0,
+  "statement": 31,
+  "party": 8,
+  "comment": 335
+ },
+ {
+  "id": 336,
+  "answer": 0,
+  "statement": 32,
+  "party": 8,
+  "comment": 336
+ },
+ {
+  "id": 337,
+  "answer": 0,
+  "statement": 33,
+  "party": 8,
+  "comment": 337
+ },
+ {
+  "id": 338,
+  "answer": 0,
+  "statement": 34,
+  "party": 8,
+  "comment": 338
+ },
+ {
+  "id": 339,
+  "answer": 1,
+  "statement": 35,
+  "party": 8,
+  "comment": 339
+ },
+ {
+  "id": 340,
+  "answer": 0,
+  "statement": 36,
+  "party": 8,
+  "comment": 340
+ },
+ {
+  "id": 341,
+  "answer": 0,
+  "statement": 37,
+  "party": 8,
+  "comment": 341
+ },
+ {
+  "id": 342,
+  "answer": 0,
+  "statement": 0,
+  "party": 9,
+  "comment": 342
+ },
+ {
+  "id": 343,
+  "answer": 1,
+  "statement": 1,
+  "party": 9,
+  "comment": 343
+ },
+ {
+  "id": 344,
+  "answer": 0,
+  "statement": 2,
+  "party": 9,
+  "comment": 344
+ },
+ {
+  "id": 345,
+  "answer": 2,
+  "statement": 3,
+  "party": 9,
+  "comment": 345
+ },
+ {
+  "id": 346,
+  "answer": 0,
+  "statement": 4,
+  "party": 9,
+  "comment": 346
+ },
+ {
+  "id": 347,
+  "answer": 1,
+  "statement": 5,
+  "party": 9,
+  "comment": 347
+ },
+ {
+  "id": 348,
+  "answer": 0,
+  "statement": 6,
+  "party": 9,
+  "comment": 348
+ },
+ {
+  "id": 349,
+  "answer": 1,
+  "statement": 7,
+  "party": 9,
+  "comment": 349
+ },
+ {
+  "id": 350,
+  "answer": 0,
+  "statement": 8,
+  "party": 9,
+  "comment": 350
+ },
+ {
+  "id": 351,
+  "answer": 0,
+  "statement": 9,
+  "party": 9,
+  "comment": 351
+ },
+ {
+  "id": 352,
+  "answer": 1,
+  "statement": 10,
+  "party": 9,
+  "comment": 352
+ },
+ {
+  "id": 353,
+  "answer": 0,
+  "statement": 11,
+  "party": 9,
+  "comment": 353
+ },
+ {
+  "id": 354,
+  "answer": 0,
+  "statement": 12,
+  "party": 9,
+  "comment": 354
+ },
+ {
+  "id": 355,
+  "answer": 1,
+  "statement": 13,
+  "party": 9,
+  "comment": 355
+ },
+ {
+  "id": 356,
+  "answer": 0,
+  "statement": 14,
+  "party": 9,
+  "comment": 356
+ },
+ {
+  "id": 357,
+  "answer": 0,
+  "statement": 15,
+  "party": 9,
+  "comment": 357
+ },
+ {
+  "id": 358,
+  "answer": 1,
+  "statement": 16,
+  "party": 9,
+  "comment": 358
+ },
+ {
+  "id": 359,
+  "answer": 0,
+  "statement": 17,
+  "party": 9,
+  "comment": 359
+ },
+ {
+  "id": 360,
+  "answer": 0,
+  "statement": 18,
+  "party": 9,
+  "comment": 360
+ },
+ {
+  "id": 361,
+  "answer": 0,
+  "statement": 19,
+  "party": 9,
+  "comment": 361
+ },
+ {
+  "id": 362,
+  "answer": 0,
+  "statement": 20,
+  "party": 9,
+  "comment": 362
+ },
+ {
+  "id": 363,
+  "answer": 0,
+  "statement": 21,
+  "party": 9,
+  "comment": 363
+ },
+ {
+  "id": 364,
+  "answer": 2,
+  "statement": 22,
+  "party": 9,
+  "comment": 364
+ },
+ {
+  "id": 365,
+  "answer": 1,
+  "statement": 23,
+  "party": 9,
+  "comment": 365
+ },
+ {
+  "id": 366,
+  "answer": 0,
+  "statement": 24,
+  "party": 9,
+  "comment": 366
+ },
+ {
+  "id": 367,
+  "answer": 1,
+  "statement": 25,
+  "party": 9,
+  "comment": 367
+ },
+ {
+  "id": 368,
+  "answer": 0,
+  "statement": 26,
+  "party": 9,
+  "comment": 368
+ },
+ {
+  "id": 369,
+  "answer": 0,
+  "statement": 27,
+  "party": 9,
+  "comment": 369
+ },
+ {
+  "id": 370,
+  "answer": 1,
+  "statement": 28,
+  "party": 9,
+  "comment": 370
+ },
+ {
+  "id": 371,
+  "answer": 0,
+  "statement": 29,
+  "party": 9,
+  "comment": 371
+ },
+ {
+  "id": 372,
+  "answer": 1,
+  "statement": 30,
+  "party": 9,
+  "comment": 372
+ },
+ {
+  "id": 373,
+  "answer": 2,
+  "statement": 31,
+  "party": 9,
+  "comment": 373
+ },
+ {
+  "id": 374,
+  "answer": 0,
+  "statement": 32,
+  "party": 9,
+  "comment": 374
+ },
+ {
+  "id": 375,
+  "answer": 0,
+  "statement": 33,
+  "party": 9,
+  "comment": 375
+ },
+ {
+  "id": 376,
+  "answer": 0,
+  "statement": 34,
+  "party": 9,
+  "comment": 376
+ },
+ {
+  "id": 377,
+  "answer": 2,
+  "statement": 35,
+  "party": 9,
+  "comment": 377
+ },
+ {
+  "id": 378,
+  "answer": 0,
+  "statement": 36,
+  "party": 9,
+  "comment": 378
+ },
+ {
+  "id": 379,
+  "answer": 0,
+  "statement": 37,
+  "party": 9,
+  "comment": 379
+ },
+ {
+  "id": 380,
+  "answer": 0,
+  "statement": 0,
+  "party": 10,
+  "comment": 380
+ },
+ {
+  "id": 381,
+  "answer": 0,
+  "statement": 1,
+  "party": 10,
+  "comment": 381
+ },
+ {
+  "id": 382,
+  "answer": 0,
+  "statement": 2,
+  "party": 10,
+  "comment": 382
+ },
+ {
+  "id": 383,
+  "answer": 0,
+  "statement": 3,
+  "party": 10,
+  "comment": 383
+ },
+ {
+  "id": 384,
+  "answer": 1,
+  "statement": 4,
+  "party": 10,
+  "comment": 384
+ },
+ {
+  "id": 385,
+  "answer": 1,
+  "statement": 5,
+  "party": 10,
+  "comment": 385
+ },
+ {
+  "id": 386,
+  "answer": 2,
+  "statement": 6,
+  "party": 10,
+  "comment": 386
+ },
+ {
+  "id": 387,
+  "answer": 0,
+  "statement": 7,
+  "party": 10,
+  "comment": 387
+ },
+ {
+  "id": 388,
+  "answer": 1,
+  "statement": 8,
+  "party": 10,
+  "comment": 388
+ },
+ {
+  "id": 389,
+  "answer": 0,
+  "statement": 9,
+  "party": 10,
+  "comment": 389
+ },
+ {
+  "id": 390,
+  "answer": 2,
+  "statement": 10,
+  "party": 10,
+  "comment": 390
+ },
+ {
+  "id": 391,
+  "answer": 0,
+  "statement": 11,
+  "party": 10,
+  "comment": 391
+ },
+ {
+  "id": 392,
+  "answer": 1,
+  "statement": 12,
+  "party": 10,
+  "comment": 392
+ },
+ {
+  "id": 393,
+  "answer": 2,
+  "statement": 13,
+  "party": 10,
+  "comment": 393
+ },
+ {
+  "id": 394,
+  "answer": 0,
+  "statement": 14,
+  "party": 10,
+  "comment": 394
+ },
+ {
+  "id": 395,
+  "answer": 0,
+  "statement": 15,
+  "party": 10,
+  "comment": 395
+ },
+ {
+  "id": 396,
+  "answer": 1,
+  "statement": 16,
+  "party": 10,
+  "comment": 396
+ },
+ {
+  "id": 397,
+  "answer": 2,
+  "statement": 17,
+  "party": 10,
+  "comment": 397
+ },
+ {
+  "id": 398,
+  "answer": 0,
+  "statement": 18,
+  "party": 10,
+  "comment": 398
+ },
+ {
+  "id": 399,
+  "answer": 2,
+  "statement": 19,
+  "party": 10,
+  "comment": 399
+ },
+ {
+  "id": 400,
+  "answer": 0,
+  "statement": 20,
+  "party": 10,
+  "comment": 400
+ },
+ {
+  "id": 401,
+  "answer": 2,
+  "statement": 21,
+  "party": 10,
+  "comment": 401
+ },
+ {
+  "id": 402,
+  "answer": 2,
+  "statement": 22,
+  "party": 10,
+  "comment": 402
+ },
+ {
+  "id": 403,
+  "answer": 1,
+  "statement": 23,
+  "party": 10,
+  "comment": 403
+ },
+ {
+  "id": 404,
+  "answer": 1,
+  "statement": 24,
+  "party": 10,
+  "comment": 404
+ },
+ {
+  "id": 405,
+  "answer": 2,
+  "statement": 25,
+  "party": 10,
+  "comment": 405
+ },
+ {
+  "id": 406,
+  "answer": 2,
+  "statement": 26,
+  "party": 10,
+  "comment": 406
+ },
+ {
+  "id": 407,
+  "answer": 1,
+  "statement": 27,
+  "party": 10,
+  "comment": 407
+ },
+ {
+  "id": 408,
+  "answer": 2,
+  "statement": 28,
+  "party": 10,
+  "comment": 408
+ },
+ {
+  "id": 409,
+  "answer": 0,
+  "statement": 29,
+  "party": 10,
+  "comment": 409
+ },
+ {
+  "id": 410,
+  "answer": 2,
+  "statement": 30,
+  "party": 10,
+  "comment": 410
+ },
+ {
+  "id": 411,
+  "answer": 2,
+  "statement": 31,
+  "party": 10,
+  "comment": 411
+ },
+ {
+  "id": 412,
+  "answer": 0,
+  "statement": 32,
+  "party": 10,
+  "comment": 412
+ },
+ {
+  "id": 413,
+  "answer": 0,
+  "statement": 33,
+  "party": 10,
+  "comment": 413
+ },
+ {
+  "id": 414,
+  "answer": 1,
+  "statement": 34,
+  "party": 10,
+  "comment": 414
+ },
+ {
+  "id": 415,
+  "answer": 0,
+  "statement": 35,
+  "party": 10,
+  "comment": 415
+ },
+ {
+  "id": 416,
+  "answer": 0,
+  "statement": 36,
+  "party": 10,
+  "comment": 416
+ },
+ {
+  "id": 417,
+  "answer": 0,
+  "statement": 37,
+  "party": 10,
+  "comment": 417
+ },
+ {
+  "id": 418,
+  "answer": 0,
+  "statement": 0,
+  "party": 11,
+  "comment": 418
+ },
+ {
+  "id": 419,
+  "answer": 1,
+  "statement": 1,
+  "party": 11,
+  "comment": 419
+ },
+ {
+  "id": 420,
+  "answer": 0,
+  "statement": 2,
+  "party": 11,
+  "comment": 420
+ },
+ {
+  "id": 421,
+  "answer": 0,
+  "statement": 3,
+  "party": 11,
+  "comment": 421
+ },
+ {
+  "id": 422,
+  "answer": 0,
+  "statement": 4,
+  "party": 11,
+  "comment": 422
+ },
+ {
+  "id": 423,
+  "answer": 1,
+  "statement": 5,
+  "party": 11,
+  "comment": 423
+ },
+ {
+  "id": 424,
+  "answer": 0,
+  "statement": 6,
+  "party": 11,
+  "comment": 424
+ },
+ {
+  "id": 425,
+  "answer": 1,
+  "statement": 7,
+  "party": 11,
+  "comment": 425
+ },
+ {
+  "id": 426,
+  "answer": 0,
+  "statement": 8,
+  "party": 11,
+  "comment": 426
+ },
+ {
+  "id": 427,
+  "answer": 0,
+  "statement": 9,
+  "party": 11,
+  "comment": 427
+ },
+ {
+  "id": 428,
+  "answer": 1,
+  "statement": 10,
+  "party": 11,
+  "comment": 428
+ },
+ {
+  "id": 429,
+  "answer": 0,
+  "statement": 11,
+  "party": 11,
+  "comment": 429
+ },
+ {
+  "id": 430,
+  "answer": 0,
+  "statement": 12,
+  "party": 11,
+  "comment": 430
+ },
+ {
+  "id": 431,
+  "answer": 1,
+  "statement": 13,
+  "party": 11,
+  "comment": 431
+ },
+ {
+  "id": 432,
+  "answer": 1,
+  "statement": 14,
+  "party": 11,
+  "comment": 432
+ },
+ {
+  "id": 433,
+  "answer": 0,
+  "statement": 15,
+  "party": 11,
+  "comment": 433
+ },
+ {
+  "id": 434,
+  "answer": 1,
+  "statement": 16,
+  "party": 11,
+  "comment": 434
+ },
+ {
+  "id": 435,
+  "answer": 0,
+  "statement": 17,
+  "party": 11,
+  "comment": 435
+ },
+ {
+  "id": 436,
+  "answer": 0,
+  "statement": 18,
+  "party": 11,
+  "comment": 436
+ },
+ {
+  "id": 437,
+  "answer": 0,
+  "statement": 19,
+  "party": 11,
+  "comment": 437
+ },
+ {
+  "id": 438,
+  "answer": 0,
+  "statement": 20,
+  "party": 11,
+  "comment": 438
+ },
+ {
+  "id": 439,
+  "answer": 0,
+  "statement": 21,
+  "party": 11,
+  "comment": 439
+ },
+ {
+  "id": 440,
+  "answer": 0,
+  "statement": 22,
+  "party": 11,
+  "comment": 440
+ },
+ {
+  "id": 441,
+  "answer": 1,
+  "statement": 23,
+  "party": 11,
+  "comment": 441
+ },
+ {
+  "id": 442,
+  "answer": 1,
+  "statement": 24,
+  "party": 11,
+  "comment": 442
+ },
+ {
+  "id": 443,
+  "answer": 0,
+  "statement": 25,
+  "party": 11,
+  "comment": 443
+ },
+ {
+  "id": 444,
+  "answer": 0,
+  "statement": 26,
+  "party": 11,
+  "comment": 444
+ },
+ {
+  "id": 445,
+  "answer": 0,
+  "statement": 27,
+  "party": 11,
+  "comment": 445
+ },
+ {
+  "id": 446,
+  "answer": 1,
+  "statement": 28,
+  "party": 11,
+  "comment": 446
+ },
+ {
+  "id": 447,
+  "answer": 0,
+  "statement": 29,
+  "party": 11,
+  "comment": 447
+ },
+ {
+  "id": 448,
+  "answer": 1,
+  "statement": 30,
+  "party": 11,
+  "comment": 448
+ },
+ {
+  "id": 449,
+  "answer": 0,
+  "statement": 31,
+  "party": 11,
+  "comment": 449
+ },
+ {
+  "id": 450,
+  "answer": 0,
+  "statement": 32,
+  "party": 11,
+  "comment": 450
+ },
+ {
+  "id": 451,
+  "answer": 0,
+  "statement": 33,
+  "party": 11,
+  "comment": 451
+ },
+ {
+  "id": 452,
+  "answer": 0,
+  "statement": 34,
+  "party": 11,
+  "comment": 452
+ },
+ {
+  "id": 453,
+  "answer": 1,
+  "statement": 35,
+  "party": 11,
+  "comment": 453
+ },
+ {
+  "id": 454,
+  "answer": 0,
+  "statement": 36,
+  "party": 11,
+  "comment": 454
+ },
+ {
+  "id": 455,
+  "answer": 0,
+  "statement": 37,
+  "party": 11,
+  "comment": 455
+ },
+ {
+  "id": 456,
+  "answer": 1,
+  "statement": 0,
+  "party": 12,
+  "comment": 456
+ },
+ {
+  "id": 457,
+  "answer": 1,
+  "statement": 1,
+  "party": 12,
+  "comment": 457
+ },
+ {
+  "id": 458,
+  "answer": 1,
+  "statement": 2,
+  "party": 12,
+  "comment": 458
+ },
+ {
+  "id": 459,
+  "answer": 0,
+  "statement": 3,
+  "party": 12,
+  "comment": 459
+ },
+ {
+  "id": 460,
+  "answer": 0,
+  "statement": 4,
+  "party": 12,
+  "comment": 460
+ },
+ {
+  "id": 461,
+  "answer": 1,
+  "statement": 5,
+  "party": 12,
+  "comment": 461
+ },
+ {
+  "id": 462,
+  "answer": 0,
+  "statement": 6,
+  "party": 12,
+  "comment": 462
+ },
+ {
+  "id": 463,
+  "answer": 1,
+  "statement": 7,
+  "party": 12,
+  "comment": 463
+ },
+ {
+  "id": 464,
+  "answer": 0,
+  "statement": 8,
+  "party": 12,
+  "comment": 464
+ },
+ {
+  "id": 465,
+  "answer": 0,
+  "statement": 9,
+  "party": 12,
+  "comment": 465
+ },
+ {
+  "id": 466,
+  "answer": 1,
+  "statement": 10,
+  "party": 12,
+  "comment": 466
+ },
+ {
+  "id": 467,
+  "answer": 1,
+  "statement": 11,
+  "party": 12,
+  "comment": 467
+ },
+ {
+  "id": 468,
+  "answer": 0,
+  "statement": 12,
+  "party": 12,
+  "comment": 468
+ },
+ {
+  "id": 469,
+  "answer": 1,
+  "statement": 13,
+  "party": 12,
+  "comment": 469
+ },
+ {
+  "id": 470,
+  "answer": 0,
+  "statement": 14,
+  "party": 12,
+  "comment": 470
+ },
+ {
+  "id": 471,
+  "answer": 0,
+  "statement": 15,
+  "party": 12,
+  "comment": 471
+ },
+ {
+  "id": 472,
+  "answer": 1,
+  "statement": 16,
+  "party": 12,
+  "comment": 472
+ },
+ {
+  "id": 473,
+  "answer": 0,
+  "statement": 17,
+  "party": 12,
+  "comment": 473
+ },
+ {
+  "id": 474,
+  "answer": 0,
+  "statement": 18,
+  "party": 12,
+  "comment": 474
+ },
+ {
+  "id": 475,
+  "answer": 0,
+  "statement": 19,
+  "party": 12,
+  "comment": 475
+ },
+ {
+  "id": 476,
+  "answer": 0,
+  "statement": 20,
+  "party": 12,
+  "comment": 476
+ },
+ {
+  "id": 477,
+  "answer": 0,
+  "statement": 21,
+  "party": 12,
+  "comment": 477
+ },
+ {
+  "id": 478,
+  "answer": 0,
+  "statement": 22,
+  "party": 12,
+  "comment": 478
+ },
+ {
+  "id": 479,
+  "answer": 1,
+  "statement": 23,
+  "party": 12,
+  "comment": 479
+ },
+ {
+  "id": 480,
+  "answer": 1,
+  "statement": 24,
+  "party": 12,
+  "comment": 480
+ },
+ {
+  "id": 481,
+  "answer": 1,
+  "statement": 25,
+  "party": 12,
+  "comment": 481
+ },
+ {
+  "id": 482,
+  "answer": 0,
+  "statement": 26,
+  "party": 12,
+  "comment": 482
+ },
+ {
+  "id": 483,
+  "answer": 0,
+  "statement": 27,
+  "party": 12,
+  "comment": 483
+ },
+ {
+  "id": 484,
+  "answer": 1,
+  "statement": 28,
+  "party": 12,
+  "comment": 484
+ },
+ {
+  "id": 485,
+  "answer": 0,
+  "statement": 29,
+  "party": 12,
+  "comment": 485
+ },
+ {
+  "id": 486,
+  "answer": 1,
+  "statement": 30,
+  "party": 12,
+  "comment": 486
+ },
+ {
+  "id": 487,
+  "answer": 0,
+  "statement": 31,
+  "party": 12,
+  "comment": 487
+ },
+ {
+  "id": 488,
+  "answer": 0,
+  "statement": 32,
+  "party": 12,
+  "comment": 488
+ },
+ {
+  "id": 489,
+  "answer": 0,
+  "statement": 33,
+  "party": 12,
+  "comment": 489
+ },
+ {
+  "id": 490,
+  "answer": 0,
+  "statement": 34,
+  "party": 12,
+  "comment": 490
+ },
+ {
+  "id": 491,
+  "answer": 1,
+  "statement": 35,
+  "party": 12,
+  "comment": 491
+ },
+ {
+  "id": 492,
+  "answer": 0,
+  "statement": 36,
+  "party": 12,
+  "comment": 492
+ },
+ {
+  "id": 493,
+  "answer": 0,
+  "statement": 37,
+  "party": 12,
+  "comment": 493
+ },
+ {
+  "id": 494,
+  "answer": 0,
+  "statement": 0,
+  "party": 13,
+  "comment": 494
+ },
+ {
+  "id": 495,
+  "answer": 1,
+  "statement": 1,
+  "party": 13,
+  "comment": 495
+ },
+ {
+  "id": 496,
+  "answer": 0,
+  "statement": 2,
+  "party": 13,
+  "comment": 496
+ },
+ {
+  "id": 497,
+  "answer": 2,
+  "statement": 3,
+  "party": 13,
+  "comment": 497
+ },
+ {
+  "id": 498,
+  "answer": 0,
+  "statement": 4,
+  "party": 13,
+  "comment": 498
+ },
+ {
+  "id": 499,
+  "answer": 1,
+  "statement": 5,
+  "party": 13,
+  "comment": 499
+ },
+ {
+  "id": 500,
+  "answer": 0,
+  "statement": 6,
+  "party": 13,
+  "comment": 500
+ },
+ {
+  "id": 501,
+  "answer": 1,
+  "statement": 7,
+  "party": 13,
+  "comment": 501
+ },
+ {
+  "id": 502,
+  "answer": 0,
+  "statement": 8,
+  "party": 13,
+  "comment": 502
+ },
+ {
+  "id": 503,
+  "answer": 2,
+  "statement": 9,
+  "party": 13,
+  "comment": 503
+ },
+ {
+  "id": 504,
+  "answer": 1,
+  "statement": 10,
+  "party": 13,
+  "comment": 504
+ },
+ {
+  "id": 505,
+  "answer": 1,
+  "statement": 11,
+  "party": 13,
+  "comment": 505
+ },
+ {
+  "id": 506,
+  "answer": 0,
+  "statement": 12,
+  "party": 13,
+  "comment": 506
+ },
+ {
+  "id": 507,
+  "answer": 1,
+  "statement": 13,
+  "party": 13,
+  "comment": 507
+ },
+ {
+  "id": 508,
+  "answer": 1,
+  "statement": 14,
+  "party": 13,
+  "comment": 508
+ },
+ {
+  "id": 509,
+  "answer": 0,
+  "statement": 15,
+  "party": 13,
+  "comment": 509
+ },
+ {
+  "id": 510,
+  "answer": 1,
+  "statement": 16,
+  "party": 13,
+  "comment": 510
+ },
+ {
+  "id": 511,
+  "answer": 0,
+  "statement": 17,
+  "party": 13,
+  "comment": 511
+ },
+ {
+  "id": 512,
+  "answer": 0,
+  "statement": 18,
+  "party": 13,
+  "comment": 512
+ },
+ {
+  "id": 513,
+  "answer": 1,
+  "statement": 19,
+  "party": 13,
+  "comment": 513
+ },
+ {
+  "id": 514,
+  "answer": 0,
+  "statement": 20,
+  "party": 13,
+  "comment": 514
+ },
+ {
+  "id": 515,
+  "answer": 1,
+  "statement": 21,
+  "party": 13,
+  "comment": 515
+ },
+ {
+  "id": 516,
+  "answer": 0,
+  "statement": 22,
+  "party": 13,
+  "comment": 516
+ },
+ {
+  "id": 517,
+  "answer": 1,
+  "statement": 23,
+  "party": 13,
+  "comment": 517
+ },
+ {
+  "id": 518,
+  "answer": 1,
+  "statement": 24,
+  "party": 13,
+  "comment": 518
+ },
+ {
+  "id": 519,
+  "answer": 1,
+  "statement": 25,
+  "party": 13,
+  "comment": 519
+ },
+ {
+  "id": 520,
+  "answer": 0,
+  "statement": 26,
+  "party": 13,
+  "comment": 520
+ },
+ {
+  "id": 521,
+  "answer": 0,
+  "statement": 27,
+  "party": 13,
+  "comment": 521
+ },
+ {
+  "id": 522,
+  "answer": 2,
+  "statement": 28,
+  "party": 13,
+  "comment": 522
+ },
+ {
+  "id": 523,
+  "answer": 0,
+  "statement": 29,
+  "party": 13,
+  "comment": 523
+ },
+ {
+  "id": 524,
+  "answer": 1,
+  "statement": 30,
+  "party": 13,
+  "comment": 524
+ },
+ {
+  "id": 525,
+  "answer": 0,
+  "statement": 31,
+  "party": 13,
+  "comment": 525
+ },
+ {
+  "id": 526,
+  "answer": 0,
+  "statement": 32,
+  "party": 13,
+  "comment": 526
+ },
+ {
+  "id": 527,
+  "answer": 0,
+  "statement": 33,
+  "party": 13,
+  "comment": 527
+ },
+ {
+  "id": 528,
+  "answer": 0,
+  "statement": 34,
+  "party": 13,
+  "comment": 528
+ },
+ {
+  "id": 529,
+  "answer": 1,
+  "statement": 35,
+  "party": 13,
+  "comment": 529
+ },
+ {
+  "id": 530,
+  "answer": 1,
+  "statement": 36,
+  "party": 13,
+  "comment": 530
+ },
+ {
+  "id": 531,
+  "answer": 0,
+  "statement": 37,
+  "party": 13,
+  "comment": 531
+ },
+ {
+  "id": 532,
+  "answer": 1,
+  "statement": 0,
+  "party": 14,
+  "comment": 532
+ },
+ {
+  "id": 533,
+  "answer": 0,
+  "statement": 1,
+  "party": 14,
+  "comment": 533
+ },
+ {
+  "id": 534,
+  "answer": 1,
+  "statement": 2,
+  "party": 14,
+  "comment": 534
+ },
+ {
+  "id": 535,
+  "answer": 1,
+  "statement": 3,
+  "party": 14,
+  "comment": 535
+ },
+ {
+  "id": 536,
+  "answer": 0,
+  "statement": 4,
+  "party": 14,
+  "comment": 536
+ },
+ {
+  "id": 537,
+  "answer": 0,
+  "statement": 5,
+  "party": 14,
+  "comment": 537
+ },
+ {
+  "id": 538,
+  "answer": 1,
+  "statement": 6,
+  "party": 14,
+  "comment": 538
+ },
+ {
+  "id": 539,
+  "answer": 0,
+  "statement": 7,
+  "party": 14,
+  "comment": 539
+ },
+ {
+  "id": 540,
+  "answer": 1,
+  "statement": 8,
+  "party": 14,
+  "comment": 540
+ },
+ {
+  "id": 541,
+  "answer": 1,
+  "statement": 9,
+  "party": 14,
+  "comment": 541
+ },
+ {
+  "id": 542,
+  "answer": 1,
+  "statement": 10,
+  "party": 14,
+  "comment": 542
+ },
+ {
+  "id": 543,
+  "answer": 1,
+  "statement": 11,
+  "party": 14,
+  "comment": 543
+ },
+ {
+  "id": 544,
+  "answer": 1,
+  "statement": 12,
+  "party": 14,
+  "comment": 544
+ },
+ {
+  "id": 545,
+  "answer": 0,
+  "statement": 13,
+  "party": 14,
+  "comment": 545
+ },
+ {
+  "id": 546,
+  "answer": 0,
+  "statement": 14,
+  "party": 14,
+  "comment": 546
+ },
+ {
+  "id": 547,
+  "answer": 1,
+  "statement": 15,
+  "party": 14,
+  "comment": 547
+ },
+ {
+  "id": 548,
+  "answer": 0,
+  "statement": 16,
+  "party": 14,
+  "comment": 548
+ },
+ {
+  "id": 549,
+  "answer": 0,
+  "statement": 17,
+  "party": 14,
+  "comment": 549
+ },
+ {
+  "id": 550,
+  "answer": 1,
+  "statement": 18,
+  "party": 14,
+  "comment": 550
+ },
+ {
+  "id": 551,
+  "answer": 1,
+  "statement": 19,
+  "party": 14,
+  "comment": 551
+ },
+ {
+  "id": 552,
+  "answer": 2,
+  "statement": 20,
+  "party": 14,
+  "comment": 552
+ },
+ {
+  "id": 553,
+  "answer": 0,
+  "statement": 21,
+  "party": 14,
+  "comment": 553
+ },
+ {
+  "id": 554,
+  "answer": 1,
+  "statement": 22,
+  "party": 14,
+  "comment": 554
+ },
+ {
+  "id": 555,
+  "answer": 0,
+  "statement": 23,
+  "party": 14,
+  "comment": 555
+ },
+ {
+  "id": 556,
+  "answer": 0,
+  "statement": 24,
+  "party": 14,
+  "comment": 556
+ },
+ {
+  "id": 557,
+  "answer": 1,
+  "statement": 25,
+  "party": 14,
+  "comment": 557
+ },
+ {
+  "id": 558,
+  "answer": 1,
+  "statement": 26,
+  "party": 14,
+  "comment": 558
+ },
+ {
+  "id": 559,
+  "answer": 1,
+  "statement": 27,
+  "party": 14,
+  "comment": 559
+ },
+ {
+  "id": 560,
+  "answer": 0,
+  "statement": 28,
+  "party": 14,
+  "comment": 560
+ },
+ {
+  "id": 561,
+  "answer": 2,
+  "statement": 29,
+  "party": 14,
+  "comment": 561
+ },
+ {
+  "id": 562,
+  "answer": 0,
+  "statement": 30,
+  "party": 14,
+  "comment": 562
+ },
+ {
+  "id": 563,
+  "answer": 1,
+  "statement": 31,
+  "party": 14,
+  "comment": 563
+ },
+ {
+  "id": 564,
+  "answer": 0,
+  "statement": 32,
+  "party": 14,
+  "comment": 564
+ },
+ {
+  "id": 565,
+  "answer": 0,
+  "statement": 33,
+  "party": 14,
+  "comment": 565
+ },
+ {
+  "id": 566,
+  "answer": 1,
+  "statement": 34,
+  "party": 14,
+  "comment": 566
+ },
+ {
+  "id": 567,
+  "answer": 0,
+  "statement": 35,
+  "party": 14,
+  "comment": 567
+ },
+ {
+  "id": 568,
+  "answer": 0,
+  "statement": 36,
+  "party": 14,
+  "comment": 568
+ },
+ {
+  "id": 569,
+  "answer": 0,
+  "statement": 37,
+  "party": 14,
+  "comment": 569
+ },
+ {
+  "id": 570,
+  "answer": 1,
+  "statement": 0,
+  "party": 15,
+  "comment": 570
+ },
+ {
+  "id": 571,
+  "answer": 0,
+  "statement": 1,
+  "party": 15,
+  "comment": 571
+ },
+ {
+  "id": 572,
+  "answer": 0,
+  "statement": 2,
+  "party": 15,
+  "comment": 572
+ },
+ {
+  "id": 573,
+  "answer": 1,
+  "statement": 3,
+  "party": 15,
+  "comment": 573
+ },
+ {
+  "id": 574,
+  "answer": 0,
+  "statement": 4,
+  "party": 15,
+  "comment": 574
+ },
+ {
+  "id": 575,
+  "answer": 1,
+  "statement": 5,
+  "party": 15,
+  "comment": 575
+ },
+ {
+  "id": 576,
+  "answer": 1,
+  "statement": 6,
+  "party": 15,
+  "comment": 576
+ },
+ {
+  "id": 577,
+  "answer": 1,
+  "statement": 7,
+  "party": 15,
+  "comment": 577
+ },
+ {
+  "id": 578,
+  "answer": 1,
+  "statement": 8,
+  "party": 15,
+  "comment": 578
+ },
+ {
+  "id": 579,
+  "answer": 1,
+  "statement": 9,
+  "party": 15,
+  "comment": 579
+ },
+ {
+  "id": 580,
+  "answer": 2,
+  "statement": 10,
+  "party": 15,
+  "comment": 580
+ },
+ {
+  "id": 581,
+  "answer": 1,
+  "statement": 11,
+  "party": 15,
+  "comment": 581
+ },
+ {
+  "id": 582,
+  "answer": 1,
+  "statement": 12,
+  "party": 15,
+  "comment": 582
+ },
+ {
+  "id": 583,
+  "answer": 0,
+  "statement": 13,
+  "party": 15,
+  "comment": 583
+ },
+ {
+  "id": 584,
+  "answer": 0,
+  "statement": 14,
+  "party": 15,
+  "comment": 584
+ },
+ {
+  "id": 585,
+  "answer": 1,
+  "statement": 15,
+  "party": 15,
+  "comment": 585
+ },
+ {
+  "id": 586,
+  "answer": 2,
+  "statement": 16,
+  "party": 15,
+  "comment": 586
+ },
+ {
+  "id": 587,
+  "answer": 0,
+  "statement": 17,
+  "party": 15,
+  "comment": 587
+ },
+ {
+  "id": 588,
+  "answer": 1,
+  "statement": 18,
+  "party": 15,
+  "comment": 588
+ },
+ {
+  "id": 589,
+  "answer": 1,
+  "statement": 19,
+  "party": 15,
+  "comment": 589
+ },
+ {
+  "id": 590,
+  "answer": 0,
+  "statement": 20,
+  "party": 15,
+  "comment": 590
+ },
+ {
+  "id": 591,
+  "answer": 0,
+  "statement": 21,
+  "party": 15,
+  "comment": 591
+ },
+ {
+  "id": 592,
+  "answer": 1,
+  "statement": 22,
+  "party": 15,
+  "comment": 592
+ },
+ {
+  "id": 593,
+  "answer": 2,
+  "statement": 23,
+  "party": 15,
+  "comment": 593
+ },
+ {
+  "id": 594,
+  "answer": 1,
+  "statement": 24,
+  "party": 15,
+  "comment": 594
+ },
+ {
+  "id": 595,
+  "answer": 0,
+  "statement": 25,
+  "party": 15,
+  "comment": 595
+ },
+ {
+  "id": 596,
+  "answer": 2,
+  "statement": 26,
+  "party": 15,
+  "comment": 596
+ },
+ {
+  "id": 597,
+  "answer": 0,
+  "statement": 27,
+  "party": 15,
+  "comment": 597
+ },
+ {
+  "id": 598,
+  "answer": 0,
+  "statement": 28,
+  "party": 15,
+  "comment": 598
+ },
+ {
+  "id": 599,
+  "answer": 1,
+  "statement": 29,
+  "party": 15,
+  "comment": 599
+ },
+ {
+  "id": 600,
+  "answer": 0,
+  "statement": 30,
+  "party": 15,
+  "comment": 600
+ },
+ {
+  "id": 601,
+  "answer": 0,
+  "statement": 31,
+  "party": 15,
+  "comment": 601
+ },
+ {
+  "id": 602,
+  "answer": 0,
+  "statement": 32,
+  "party": 15,
+  "comment": 602
+ },
+ {
+  "id": 603,
+  "answer": 0,
+  "statement": 33,
+  "party": 15,
+  "comment": 603
+ },
+ {
+  "id": 604,
+  "answer": 1,
+  "statement": 34,
+  "party": 15,
+  "comment": 604
+ },
+ {
+  "id": 605,
+  "answer": 0,
+  "statement": 35,
+  "party": 15,
+  "comment": 605
+ },
+ {
+  "id": 606,
+  "answer": 1,
+  "statement": 36,
+  "party": 15,
+  "comment": 606
+ },
+ {
+  "id": 607,
+  "answer": 2,
+  "statement": 37,
+  "party": 15,
+  "comment": 607
+ },
+ {
+  "id": 608,
+  "answer": 2,
+  "statement": 0,
+  "party": 16,
+  "comment": 608
+ },
+ {
+  "id": 609,
+  "answer": 2,
+  "statement": 1,
+  "party": 16,
+  "comment": 609
+ },
+ {
+  "id": 610,
+  "answer": 2,
+  "statement": 2,
+  "party": 16,
+  "comment": 610
+ },
+ {
+  "id": 611,
+  "answer": 2,
+  "statement": 3,
+  "party": 16,
+  "comment": 611
+ },
+ {
+  "id": 612,
+  "answer": 2,
+  "statement": 4,
+  "party": 16,
+  "comment": 612
+ },
+ {
+  "id": 613,
+  "answer": 2,
+  "statement": 5,
+  "party": 16,
+  "comment": 613
+ },
+ {
+  "id": 614,
+  "answer": 2,
+  "statement": 6,
+  "party": 16,
+  "comment": 614
+ },
+ {
+  "id": 615,
+  "answer": 2,
+  "statement": 7,
+  "party": 16,
+  "comment": 615
+ },
+ {
+  "id": 616,
+  "answer": 2,
+  "statement": 8,
+  "party": 16,
+  "comment": 616
+ },
+ {
+  "id": 617,
+  "answer": 2,
+  "statement": 9,
+  "party": 16,
+  "comment": 617
+ },
+ {
+  "id": 618,
+  "answer": 2,
+  "statement": 10,
+  "party": 16,
+  "comment": 618
+ },
+ {
+  "id": 619,
+  "answer": 2,
+  "statement": 11,
+  "party": 16,
+  "comment": 619
+ },
+ {
+  "id": 620,
+  "answer": 2,
+  "statement": 12,
+  "party": 16,
+  "comment": 620
+ },
+ {
+  "id": 621,
+  "answer": 2,
+  "statement": 13,
+  "party": 16,
+  "comment": 621
+ },
+ {
+  "id": 622,
+  "answer": 2,
+  "statement": 14,
+  "party": 16,
+  "comment": 622
+ },
+ {
+  "id": 623,
+  "answer": 2,
+  "statement": 15,
+  "party": 16,
+  "comment": 623
+ },
+ {
+  "id": 624,
+  "answer": 2,
+  "statement": 16,
+  "party": 16,
+  "comment": 624
+ },
+ {
+  "id": 625,
+  "answer": 2,
+  "statement": 17,
+  "party": 16,
+  "comment": 625
+ },
+ {
+  "id": 626,
+  "answer": 2,
+  "statement": 18,
+  "party": 16,
+  "comment": 626
+ },
+ {
+  "id": 627,
+  "answer": 2,
+  "statement": 19,
+  "party": 16,
+  "comment": 627
+ },
+ {
+  "id": 628,
+  "answer": 2,
+  "statement": 20,
+  "party": 16,
+  "comment": 628
+ },
+ {
+  "id": 629,
+  "answer": 2,
+  "statement": 21,
+  "party": 16,
+  "comment": 629
+ },
+ {
+  "id": 630,
+  "answer": 2,
+  "statement": 22,
+  "party": 16,
+  "comment": 630
+ },
+ {
+  "id": 631,
+  "answer": 2,
+  "statement": 23,
+  "party": 16,
+  "comment": 631
+ },
+ {
+  "id": 632,
+  "answer": 2,
+  "statement": 24,
+  "party": 16,
+  "comment": 632
+ },
+ {
+  "id": 633,
+  "answer": 2,
+  "statement": 25,
+  "party": 16,
+  "comment": 633
+ },
+ {
+  "id": 634,
+  "answer": 2,
+  "statement": 26,
+  "party": 16,
+  "comment": 634
+ },
+ {
+  "id": 635,
+  "answer": 2,
+  "statement": 27,
+  "party": 16,
+  "comment": 635
+ },
+ {
+  "id": 636,
+  "answer": 2,
+  "statement": 28,
+  "party": 16,
+  "comment": 636
+ },
+ {
+  "id": 637,
+  "answer": 2,
+  "statement": 29,
+  "party": 16,
+  "comment": 637
+ },
+ {
+  "id": 638,
+  "answer": 2,
+  "statement": 30,
+  "party": 16,
+  "comment": 638
+ },
+ {
+  "id": 639,
+  "answer": 2,
+  "statement": 31,
+  "party": 16,
+  "comment": 639
+ },
+ {
+  "id": 640,
+  "answer": 2,
+  "statement": 32,
+  "party": 16,
+  "comment": 640
+ },
+ {
+  "id": 641,
+  "answer": 2,
+  "statement": 33,
+  "party": 16,
+  "comment": 641
+ },
+ {
+  "id": 642,
+  "answer": 2,
+  "statement": 34,
+  "party": 16,
+  "comment": 642
+ },
+ {
+  "id": 643,
+  "answer": 2,
+  "statement": 35,
+  "party": 16,
+  "comment": 643
+ },
+ {
+  "id": 644,
+  "answer": 2,
+  "statement": 36,
+  "party": 16,
+  "comment": 644
+ },
+ {
+  "id": 645,
+  "answer": 2,
+  "statement": 37,
+  "party": 16,
+  "comment": 645
+ },
+ {
+  "id": 646,
+  "answer": 1,
+  "statement": 0,
+  "party": 17,
+  "comment": 646
+ },
+ {
+  "id": 647,
+  "answer": 1,
+  "statement": 1,
+  "party": 17,
+  "comment": 647
+ },
+ {
+  "id": 648,
+  "answer": 0,
+  "statement": 2,
+  "party": 17,
+  "comment": 648
+ },
+ {
+  "id": 649,
+  "answer": 1,
+  "statement": 3,
+  "party": 17,
+  "comment": 649
+ },
+ {
+  "id": 650,
+  "answer": 0,
+  "statement": 4,
+  "party": 17,
+  "comment": 650
+ },
+ {
+  "id": 651,
+  "answer": 1,
+  "statement": 5,
+  "party": 17,
+  "comment": 651
+ },
+ {
+  "id": 652,
+  "answer": 1,
+  "statement": 6,
+  "party": 17,
+  "comment": 652
+ },
+ {
+  "id": 653,
+  "answer": 0,
+  "statement": 7,
+  "party": 17,
+  "comment": 653
+ },
+ {
+  "id": 654,
+  "answer": 0,
+  "statement": 8,
+  "party": 17,
+  "comment": 654
+ },
+ {
+  "id": 655,
+  "answer": 0,
+  "statement": 9,
+  "party": 17,
+  "comment": 655
+ },
+ {
+  "id": 656,
+  "answer": 2,
+  "statement": 10,
+  "party": 17,
+  "comment": 656
+ },
+ {
+  "id": 657,
+  "answer": 0,
+  "statement": 11,
+  "party": 17,
+  "comment": 657
+ },
+ {
+  "id": 658,
+  "answer": 0,
+  "statement": 12,
+  "party": 17,
+  "comment": 658
+ },
+ {
+  "id": 659,
+  "answer": 1,
+  "statement": 13,
+  "party": 17,
+  "comment": 659
+ },
+ {
+  "id": 660,
+  "answer": 0,
+  "statement": 14,
+  "party": 17,
+  "comment": 660
+ },
+ {
+  "id": 661,
+  "answer": 0,
+  "statement": 15,
+  "party": 17,
+  "comment": 661
+ },
+ {
+  "id": 662,
+  "answer": 1,
+  "statement": 16,
+  "party": 17,
+  "comment": 662
+ },
+ {
+  "id": 663,
+  "answer": 0,
+  "statement": 17,
+  "party": 17,
+  "comment": 663
+ },
+ {
+  "id": 664,
+  "answer": 0,
+  "statement": 18,
+  "party": 17,
+  "comment": 664
+ },
+ {
+  "id": 665,
+  "answer": 1,
+  "statement": 19,
+  "party": 17,
+  "comment": 665
+ },
+ {
+  "id": 666,
+  "answer": 0,
+  "statement": 20,
+  "party": 17,
+  "comment": 666
+ },
+ {
+  "id": 667,
+  "answer": 0,
+  "statement": 21,
+  "party": 17,
+  "comment": 667
+ },
+ {
+  "id": 668,
+  "answer": 2,
+  "statement": 22,
+  "party": 17,
+  "comment": 668
+ },
+ {
+  "id": 669,
+  "answer": 1,
+  "statement": 23,
+  "party": 17,
+  "comment": 669
+ },
+ {
+  "id": 670,
+  "answer": 1,
+  "statement": 24,
+  "party": 17,
+  "comment": 670
+ },
+ {
+  "id": 671,
+  "answer": 1,
+  "statement": 25,
+  "party": 17,
+  "comment": 671
+ },
+ {
+  "id": 672,
+  "answer": 0,
+  "statement": 26,
+  "party": 17,
+  "comment": 672
+ },
+ {
+  "id": 673,
+  "answer": 0,
+  "statement": 27,
+  "party": 17,
+  "comment": 673
+ },
+ {
+  "id": 674,
+  "answer": 0,
+  "statement": 28,
+  "party": 17,
+  "comment": 674
+ },
+ {
+  "id": 675,
+  "answer": 0,
+  "statement": 29,
+  "party": 17,
+  "comment": 675
+ },
+ {
+  "id": 676,
+  "answer": 1,
+  "statement": 30,
+  "party": 17,
+  "comment": 676
+ },
+ {
+  "id": 677,
+  "answer": 0,
+  "statement": 31,
+  "party": 17,
+  "comment": 677
+ },
+ {
+  "id": 678,
+  "answer": 0,
+  "statement": 32,
+  "party": 17,
+  "comment": 678
+ },
+ {
+  "id": 679,
+  "answer": 0,
+  "statement": 33,
+  "party": 17,
+  "comment": 679
+ },
+ {
+  "id": 680,
+  "answer": 0,
+  "statement": 34,
+  "party": 17,
+  "comment": 680
+ },
+ {
+  "id": 681,
+  "answer": 1,
+  "statement": 35,
+  "party": 17,
+  "comment": 681
+ },
+ {
+  "id": 682,
+  "answer": 1,
+  "statement": 36,
+  "party": 17,
+  "comment": 682
+ },
+ {
+  "id": 683,
+  "answer": 0,
+  "statement": 37,
+  "party": 17,
+  "comment": 683
+ },
+ {
+  "id": 684,
+  "answer": 1,
+  "statement": 0,
+  "party": 18,
+  "comment": 684
+ },
+ {
+  "id": 685,
+  "answer": 0,
+  "statement": 1,
+  "party": 18,
+  "comment": 685
+ },
+ {
+  "id": 686,
+  "answer": 1,
+  "statement": 2,
+  "party": 18,
+  "comment": 686
+ },
+ {
+  "id": 687,
+  "answer": 0,
+  "statement": 3,
+  "party": 18,
+  "comment": 687
+ },
+ {
+  "id": 688,
+  "answer": 1,
+  "statement": 4,
+  "party": 18,
+  "comment": 688
+ },
+ {
+  "id": 689,
+  "answer": 0,
+  "statement": 5,
+  "party": 18,
+  "comment": 689
+ },
+ {
+  "id": 690,
+  "answer": 1,
+  "statement": 6,
+  "party": 18,
+  "comment": 690
+ },
+ {
+  "id": 691,
+  "answer": 0,
+  "statement": 7,
+  "party": 18,
+  "comment": 691
+ },
+ {
+  "id": 692,
+  "answer": 1,
+  "statement": 8,
+  "party": 18,
+  "comment": 692
+ },
+ {
+  "id": 693,
+  "answer": 1,
+  "statement": 9,
+  "party": 18,
+  "comment": 693
+ },
+ {
+  "id": 694,
+  "answer": 1,
+  "statement": 10,
+  "party": 18,
+  "comment": 694
+ },
+ {
+  "id": 695,
+  "answer": 1,
+  "statement": 11,
+  "party": 18,
+  "comment": 695
+ },
+ {
+  "id": 696,
+  "answer": 1,
+  "statement": 12,
+  "party": 18,
+  "comment": 696
+ },
+ {
+  "id": 697,
+  "answer": 0,
+  "statement": 13,
+  "party": 18,
+  "comment": 697
+ },
+ {
+  "id": 698,
+  "answer": 0,
+  "statement": 14,
+  "party": 18,
+  "comment": 698
+ },
+ {
+  "id": 699,
+  "answer": 1,
+  "statement": 15,
+  "party": 18,
+  "comment": 699
+ },
+ {
+  "id": 700,
+  "answer": 0,
+  "statement": 16,
+  "party": 18,
+  "comment": 700
+ },
+ {
+  "id": 701,
+  "answer": 1,
+  "statement": 17,
+  "party": 18,
+  "comment": 701
+ },
+ {
+  "id": 702,
+  "answer": 1,
+  "statement": 18,
+  "party": 18,
+  "comment": 702
+ },
+ {
+  "id": 703,
+  "answer": 2,
+  "statement": 19,
+  "party": 18,
+  "comment": 703
+ },
+ {
+  "id": 704,
+  "answer": 1,
+  "statement": 20,
+  "party": 18,
+  "comment": 704
+ },
+ {
+  "id": 705,
+  "answer": 0,
+  "statement": 21,
+  "party": 18,
+  "comment": 705
+ },
+ {
+  "id": 706,
+  "answer": 1,
+  "statement": 22,
+  "party": 18,
+  "comment": 706
+ },
+ {
+  "id": 707,
+  "answer": 1,
+  "statement": 23,
+  "party": 18,
+  "comment": 707
+ },
+ {
+  "id": 708,
+  "answer": 1,
+  "statement": 24,
+  "party": 18,
+  "comment": 708
+ },
+ {
+  "id": 709,
+  "answer": 1,
+  "statement": 25,
+  "party": 18,
+  "comment": 709
+ },
+ {
+  "id": 710,
+  "answer": 2,
+  "statement": 26,
+  "party": 18,
+  "comment": 710
+ },
+ {
+  "id": 711,
+  "answer": 1,
+  "statement": 27,
+  "party": 18,
+  "comment": 711
+ },
+ {
+  "id": 712,
+  "answer": 1,
+  "statement": 28,
+  "party": 18,
+  "comment": 712
+ },
+ {
+  "id": 713,
+  "answer": 1,
+  "statement": 29,
+  "party": 18,
+  "comment": 713
+ },
+ {
+  "id": 714,
+  "answer": 0,
+  "statement": 30,
+  "party": 18,
+  "comment": 714
+ },
+ {
+  "id": 715,
+  "answer": 1,
+  "statement": 31,
+  "party": 18,
+  "comment": 715
+ },
+ {
+  "id": 716,
+  "answer": 0,
+  "statement": 32,
+  "party": 18,
+  "comment": 716
+ },
+ {
+  "id": 717,
+  "answer": 1,
+  "statement": 33,
+  "party": 18,
+  "comment": 717
+ },
+ {
+  "id": 718,
+  "answer": 1,
+  "statement": 34,
+  "party": 18,
+  "comment": 718
+ },
+ {
+  "id": 719,
+  "answer": 0,
+  "statement": 35,
+  "party": 18,
+  "comment": 719
+ },
+ {
+  "id": 720,
+  "answer": 0,
+  "statement": 36,
+  "party": 18,
+  "comment": 720
+ },
+ {
+  "id": 721,
+  "answer": 0,
+  "statement": 37,
+  "party": 18,
+  "comment": 721
+ },
+ {
+  "id": 722,
+  "answer": 0,
+  "statement": 0,
+  "party": 19,
+  "comment": 722
+ },
+ {
+  "id": 723,
+  "answer": 0,
+  "statement": 1,
+  "party": 19,
+  "comment": 723
+ },
+ {
+  "id": 724,
+  "answer": 0,
+  "statement": 2,
+  "party": 19,
+  "comment": 724
+ },
+ {
+  "id": 725,
+  "answer": 2,
+  "statement": 3,
+  "party": 19,
+  "comment": 725
+ },
+ {
+  "id": 726,
+  "answer": 1,
+  "statement": 4,
+  "party": 19,
+  "comment": 726
+ },
+ {
+  "id": 727,
+  "answer": 1,
+  "statement": 5,
+  "party": 19,
+  "comment": 727
+ },
+ {
+  "id": 728,
+  "answer": 0,
+  "statement": 6,
+  "party": 19,
+  "comment": 728
+ },
+ {
+  "id": 729,
+  "answer": 2,
+  "statement": 7,
+  "party": 19,
+  "comment": 729
+ },
+ {
+  "id": 730,
+  "answer": 1,
+  "statement": 8,
+  "party": 19,
+  "comment": 730
+ },
+ {
+  "id": 731,
+  "answer": 0,
+  "statement": 9,
+  "party": 19,
+  "comment": 731
+ },
+ {
+  "id": 732,
+  "answer": 1,
+  "statement": 10,
+  "party": 19,
+  "comment": 732
+ },
+ {
+  "id": 733,
+  "answer": 0,
+  "statement": 11,
+  "party": 19,
+  "comment": 733
+ },
+ {
+  "id": 734,
+  "answer": 0,
+  "statement": 12,
+  "party": 19,
+  "comment": 734
+ },
+ {
+  "id": 735,
+  "answer": 1,
+  "statement": 13,
+  "party": 19,
+  "comment": 735
+ },
+ {
+  "id": 736,
+  "answer": 0,
+  "statement": 14,
+  "party": 19,
+  "comment": 736
+ },
+ {
+  "id": 737,
+  "answer": 0,
+  "statement": 15,
+  "party": 19,
+  "comment": 737
+ },
+ {
+  "id": 738,
+  "answer": 1,
+  "statement": 16,
+  "party": 19,
+  "comment": 738
+ },
+ {
+  "id": 739,
+  "answer": 0,
+  "statement": 17,
+  "party": 19,
+  "comment": 739
+ },
+ {
+  "id": 740,
+  "answer": 0,
+  "statement": 18,
+  "party": 19,
+  "comment": 740
+ },
+ {
+  "id": 741,
+  "answer": 0,
+  "statement": 19,
+  "party": 19,
+  "comment": 741
+ },
+ {
+  "id": 742,
+  "answer": 0,
+  "statement": 20,
+  "party": 19,
+  "comment": 742
+ },
+ {
+  "id": 743,
+  "answer": 2,
+  "statement": 21,
+  "party": 19,
+  "comment": 743
+ },
+ {
+  "id": 744,
+  "answer": 0,
+  "statement": 22,
+  "party": 19,
+  "comment": 744
+ },
+ {
+  "id": 745,
+  "answer": 1,
+  "statement": 23,
+  "party": 19,
+  "comment": 745
+ },
+ {
+  "id": 746,
+  "answer": 1,
+  "statement": 24,
+  "party": 19,
+  "comment": 746
+ },
+ {
+  "id": 747,
+  "answer": 0,
+  "statement": 25,
+  "party": 19,
+  "comment": 747
+ },
+ {
+  "id": 748,
+  "answer": 0,
+  "statement": 26,
+  "party": 19,
+  "comment": 748
+ },
+ {
+  "id": 749,
+  "answer": 2,
+  "statement": 27,
+  "party": 19,
+  "comment": 749
+ },
+ {
+  "id": 750,
+  "answer": 1,
+  "statement": 28,
+  "party": 19,
+  "comment": 750
+ },
+ {
+  "id": 751,
+  "answer": 0,
+  "statement": 29,
+  "party": 19,
+  "comment": 751
+ },
+ {
+  "id": 752,
+  "answer": 0,
+  "statement": 30,
+  "party": 19,
+  "comment": 752
+ },
+ {
+  "id": 753,
+  "answer": 0,
+  "statement": 31,
+  "party": 19,
+  "comment": 753
+ },
+ {
+  "id": 754,
+  "answer": 0,
+  "statement": 32,
+  "party": 19,
+  "comment": 754
+ },
+ {
+  "id": 755,
+  "answer": 2,
+  "statement": 33,
+  "party": 19,
+  "comment": 755
+ },
+ {
+  "id": 756,
+  "answer": 0,
+  "statement": 34,
+  "party": 19,
+  "comment": 756
+ },
+ {
+  "id": 757,
+  "answer": 1,
+  "statement": 35,
+  "party": 19,
+  "comment": 757
+ },
+ {
+  "id": 758,
+  "answer": 0,
+  "statement": 36,
+  "party": 19,
+  "comment": 758
+ },
+ {
+  "id": 759,
+  "answer": 0,
+  "statement": 37,
+  "party": 19,
+  "comment": 759
+ },
+ {
+  "id": 760,
+  "answer": 1,
+  "statement": 0,
+  "party": 20,
+  "comment": 760
+ },
+ {
+  "id": 761,
+  "answer": 0,
+  "statement": 1,
+  "party": 20,
+  "comment": 761
+ },
+ {
+  "id": 762,
+  "answer": 0,
+  "statement": 2,
+  "party": 20,
+  "comment": 762
+ },
+ {
+  "id": 763,
+  "answer": 1,
+  "statement": 3,
+  "party": 20,
+  "comment": 763
+ },
+ {
+  "id": 764,
+  "answer": 0,
+  "statement": 4,
+  "party": 20,
+  "comment": 764
+ },
+ {
+  "id": 765,
+  "answer": 1,
+  "statement": 5,
+  "party": 20,
+  "comment": 765
+ },
+ {
+  "id": 766,
+  "answer": 1,
+  "statement": 6,
+  "party": 20,
+  "comment": 766
+ },
+ {
+  "id": 767,
+  "answer": 1,
+  "statement": 7,
+  "party": 20,
+  "comment": 767
+ },
+ {
+  "id": 768,
+  "answer": 1,
+  "statement": 8,
+  "party": 20,
+  "comment": 768
+ },
+ {
+  "id": 769,
+  "answer": 2,
+  "statement": 9,
+  "party": 20,
+  "comment": 769
+ },
+ {
+  "id": 770,
+  "answer": 0,
+  "statement": 10,
+  "party": 20,
+  "comment": 770
+ },
+ {
+  "id": 771,
+  "answer": 1,
+  "statement": 11,
+  "party": 20,
+  "comment": 771
+ },
+ {
+  "id": 772,
+  "answer": 2,
+  "statement": 12,
+  "party": 20,
+  "comment": 772
+ },
+ {
+  "id": 773,
+  "answer": 0,
+  "statement": 13,
+  "party": 20,
+  "comment": 773
+ },
+ {
+  "id": 774,
+  "answer": 0,
+  "statement": 14,
+  "party": 20,
+  "comment": 774
+ },
+ {
+  "id": 775,
+  "answer": 0,
+  "statement": 15,
+  "party": 20,
+  "comment": 775
+ },
+ {
+  "id": 776,
+  "answer": 0,
+  "statement": 16,
+  "party": 20,
+  "comment": 776
+ },
+ {
+  "id": 777,
+  "answer": 0,
+  "statement": 17,
+  "party": 20,
+  "comment": 777
+ },
+ {
+  "id": 778,
+  "answer": 0,
+  "statement": 18,
+  "party": 20,
+  "comment": 778
+ },
+ {
+  "id": 779,
+  "answer": 1,
+  "statement": 19,
+  "party": 20,
+  "comment": 779
+ },
+ {
+  "id": 780,
+  "answer": 0,
+  "statement": 20,
+  "party": 20,
+  "comment": 780
+ },
+ {
+  "id": 781,
+  "answer": 1,
+  "statement": 21,
+  "party": 20,
+  "comment": 781
+ },
+ {
+  "id": 782,
+  "answer": 2,
+  "statement": 22,
+  "party": 20,
+  "comment": 782
+ },
+ {
+  "id": 783,
+  "answer": 1,
+  "statement": 23,
+  "party": 20,
+  "comment": 783
+ },
+ {
+  "id": 784,
+  "answer": 2,
+  "statement": 24,
+  "party": 20,
+  "comment": 784
+ },
+ {
+  "id": 785,
+  "answer": 2,
+  "statement": 25,
+  "party": 20,
+  "comment": 785
+ },
+ {
+  "id": 786,
+  "answer": 2,
+  "statement": 26,
+  "party": 20,
+  "comment": 786
+ },
+ {
+  "id": 787,
+  "answer": 1,
+  "statement": 27,
+  "party": 20,
+  "comment": 787
+ },
+ {
+  "id": 788,
+  "answer": 0,
+  "statement": 28,
+  "party": 20,
+  "comment": 788
+ },
+ {
+  "id": 789,
+  "answer": 0,
+  "statement": 29,
+  "party": 20,
+  "comment": 789
+ },
+ {
+  "id": 790,
+  "answer": 2,
+  "statement": 30,
+  "party": 20,
+  "comment": 790
+ },
+ {
+  "id": 791,
+  "answer": 2,
+  "statement": 31,
+  "party": 20,
+  "comment": 791
+ },
+ {
+  "id": 792,
+  "answer": 0,
+  "statement": 32,
+  "party": 20,
+  "comment": 792
+ },
+ {
+  "id": 793,
+  "answer": 0,
+  "statement": 33,
+  "party": 20,
+  "comment": 793
+ },
+ {
+  "id": 794,
+  "answer": 1,
+  "statement": 34,
+  "party": 20,
+  "comment": 794
+ },
+ {
+  "id": 795,
+  "answer": 0,
+  "statement": 35,
+  "party": 20,
+  "comment": 795
+ },
+ {
+  "id": 796,
+  "answer": 1,
+  "statement": 36,
+  "party": 20,
+  "comment": 796
+ },
+ {
+  "id": 797,
+  "answer": 2,
+  "statement": 37,
+  "party": 20,
+  "comment": 797
+ },
+ {
+  "id": 798,
+  "answer": 1,
+  "statement": 0,
+  "party": 21,
+  "comment": 798
+ },
+ {
+  "id": 799,
+  "answer": 1,
+  "statement": 1,
+  "party": 21,
+  "comment": 799
+ },
+ {
+  "id": 800,
+  "answer": 0,
+  "statement": 2,
+  "party": 21,
+  "comment": 800
+ },
+ {
+  "id": 801,
+  "answer": 1,
+  "statement": 3,
+  "party": 21,
+  "comment": 801
+ },
+ {
+  "id": 802,
+  "answer": 0,
+  "statement": 4,
+  "party": 21,
+  "comment": 802
+ },
+ {
+  "id": 803,
+  "answer": 2,
+  "statement": 5,
+  "party": 21,
+  "comment": 803
+ },
+ {
+  "id": 804,
+  "answer": 0,
+  "statement": 6,
+  "party": 21,
+  "comment": 804
+ },
+ {
+  "id": 805,
+  "answer": 1,
+  "statement": 7,
+  "party": 21,
+  "comment": 805
+ },
+ {
+  "id": 806,
+  "answer": 0,
+  "statement": 8,
+  "party": 21,
+  "comment": 806
+ },
+ {
+  "id": 807,
+  "answer": 1,
+  "statement": 9,
+  "party": 21,
+  "comment": 807
+ },
+ {
+  "id": 808,
+  "answer": 1,
+  "statement": 10,
+  "party": 21,
+  "comment": 808
+ },
+ {
+  "id": 809,
+  "answer": 1,
+  "statement": 11,
+  "party": 21,
+  "comment": 809
+ },
+ {
+  "id": 810,
+  "answer": 0,
+  "statement": 12,
+  "party": 21,
+  "comment": 810
+ },
+ {
+  "id": 811,
+  "answer": 1,
+  "statement": 13,
+  "party": 21,
+  "comment": 811
+ },
+ {
+  "id": 812,
+  "answer": 0,
+  "statement": 14,
+  "party": 21,
+  "comment": 812
+ },
+ {
+  "id": 813,
+  "answer": 1,
+  "statement": 15,
+  "party": 21,
+  "comment": 813
+ },
+ {
+  "id": 814,
+  "answer": 1,
+  "statement": 16,
+  "party": 21,
+  "comment": 814
+ },
+ {
+  "id": 815,
+  "answer": 0,
+  "statement": 17,
+  "party": 21,
+  "comment": 815
+ },
+ {
+  "id": 816,
+  "answer": 1,
+  "statement": 18,
+  "party": 21,
+  "comment": 816
+ },
+ {
+  "id": 817,
+  "answer": 1,
+  "statement": 19,
+  "party": 21,
+  "comment": 817
+ },
+ {
+  "id": 818,
+  "answer": 0,
+  "statement": 20,
+  "party": 21,
+  "comment": 818
+ },
+ {
+  "id": 819,
+  "answer": 1,
+  "statement": 21,
+  "party": 21,
+  "comment": 819
+ },
+ {
+  "id": 820,
+  "answer": 0,
+  "statement": 22,
+  "party": 21,
+  "comment": 820
+ },
+ {
+  "id": 821,
+  "answer": 1,
+  "statement": 23,
+  "party": 21,
+  "comment": 821
+ },
+ {
+  "id": 822,
+  "answer": 1,
+  "statement": 24,
+  "party": 21,
+  "comment": 822
+ },
+ {
+  "id": 823,
+  "answer": 1,
+  "statement": 25,
+  "party": 21,
+  "comment": 823
+ },
+ {
+  "id": 824,
+  "answer": 0,
+  "statement": 26,
+  "party": 21,
+  "comment": 824
+ },
+ {
+  "id": 825,
+  "answer": 0,
+  "statement": 27,
+  "party": 21,
+  "comment": 825
+ },
+ {
+  "id": 826,
+  "answer": 0,
+  "statement": 28,
+  "party": 21,
+  "comment": 826
+ },
+ {
+  "id": 827,
+  "answer": 0,
+  "statement": 29,
+  "party": 21,
+  "comment": 827
+ },
+ {
+  "id": 828,
+  "answer": 1,
+  "statement": 30,
+  "party": 21,
+  "comment": 828
+ },
+ {
+  "id": 829,
+  "answer": 0,
+  "statement": 31,
+  "party": 21,
+  "comment": 829
+ },
+ {
+  "id": 830,
+  "answer": 1,
+  "statement": 32,
+  "party": 21,
+  "comment": 830
+ },
+ {
+  "id": 831,
+  "answer": 1,
+  "statement": 33,
+  "party": 21,
+  "comment": 831
+ },
+ {
+  "id": 832,
+  "answer": 0,
+  "statement": 34,
+  "party": 21,
+  "comment": 832
+ },
+ {
+  "id": 833,
+  "answer": 1,
+  "statement": 35,
+  "party": 21,
+  "comment": 833
+ },
+ {
+  "id": 834,
+  "answer": 1,
+  "statement": 36,
+  "party": 21,
+  "comment": 834
+ },
+ {
+  "id": 835,
+  "answer": 2,
+  "statement": 37,
+  "party": 21,
+  "comment": 835
+ },
+ {
+  "id": 836,
+  "answer": 1,
+  "statement": 0,
+  "party": 22,
+  "comment": 836
+ },
+ {
+  "id": 837,
+  "answer": 1,
+  "statement": 1,
+  "party": 22,
+  "comment": 837
+ },
+ {
+  "id": 838,
+  "answer": 0,
+  "statement": 2,
+  "party": 22,
+  "comment": 838
+ },
+ {
+  "id": 839,
+  "answer": 1,
+  "statement": 3,
+  "party": 22,
+  "comment": 839
+ },
+ {
+  "id": 840,
+  "answer": 0,
+  "statement": 4,
+  "party": 22,
+  "comment": 840
+ },
+ {
+  "id": 841,
+  "answer": 2,
+  "statement": 5,
+  "party": 22,
+  "comment": 841
+ },
+ {
+  "id": 842,
+  "answer": 0,
+  "statement": 6,
+  "party": 22,
+  "comment": 842
+ },
+ {
+  "id": 843,
+  "answer": 1,
+  "statement": 7,
+  "party": 22,
+  "comment": 843
+ },
+ {
+  "id": 844,
+  "answer": 0,
+  "statement": 8,
+  "party": 22,
+  "comment": 844
+ },
+ {
+  "id": 845,
+  "answer": 1,
+  "statement": 9,
+  "party": 22,
+  "comment": 845
+ },
+ {
+  "id": 846,
+  "answer": 1,
+  "statement": 10,
+  "party": 22,
+  "comment": 846
+ },
+ {
+  "id": 847,
+  "answer": 1,
+  "statement": 11,
+  "party": 22,
+  "comment": 847
+ },
+ {
+  "id": 848,
+  "answer": 0,
+  "statement": 12,
+  "party": 22,
+  "comment": 848
+ },
+ {
+  "id": 849,
+  "answer": 1,
+  "statement": 13,
+  "party": 22,
+  "comment": 849
+ },
+ {
+  "id": 850,
+  "answer": 2,
+  "statement": 14,
+  "party": 22,
+  "comment": 850
+ },
+ {
+  "id": 851,
+  "answer": 0,
+  "statement": 15,
+  "party": 22,
+  "comment": 851
+ },
+ {
+  "id": 852,
+  "answer": 1,
+  "statement": 16,
+  "party": 22,
+  "comment": 852
+ },
+ {
+  "id": 853,
+  "answer": 0,
+  "statement": 17,
+  "party": 22,
+  "comment": 853
+ },
+ {
+  "id": 854,
+  "answer": 2,
+  "statement": 18,
+  "party": 22,
+  "comment": 854
+ },
+ {
+  "id": 855,
+  "answer": 1,
+  "statement": 19,
+  "party": 22,
+  "comment": 855
+ },
+ {
+  "id": 856,
+  "answer": 0,
+  "statement": 20,
+  "party": 22,
+  "comment": 856
+ },
+ {
+  "id": 857,
+  "answer": 1,
+  "statement": 21,
+  "party": 22,
+  "comment": 857
+ },
+ {
+  "id": 858,
+  "answer": 0,
+  "statement": 22,
+  "party": 22,
+  "comment": 858
+ },
+ {
+  "id": 859,
+  "answer": 1,
+  "statement": 23,
+  "party": 22,
+  "comment": 859
+ },
+ {
+  "id": 860,
+  "answer": 0,
+  "statement": 24,
+  "party": 22,
+  "comment": 860
+ },
+ {
+  "id": 861,
+  "answer": 1,
+  "statement": 25,
+  "party": 22,
+  "comment": 861
+ },
+ {
+  "id": 862,
+  "answer": 0,
+  "statement": 26,
+  "party": 22,
+  "comment": 862
+ },
+ {
+  "id": 863,
+  "answer": 2,
+  "statement": 27,
+  "party": 22,
+  "comment": 863
+ },
+ {
+  "id": 864,
+  "answer": 0,
+  "statement": 28,
+  "party": 22,
+  "comment": 864
+ },
+ {
+  "id": 865,
+  "answer": 0,
+  "statement": 29,
+  "party": 22,
+  "comment": 865
+ },
+ {
+  "id": 866,
+  "answer": 1,
+  "statement": 30,
+  "party": 22,
+  "comment": 866
+ },
+ {
+  "id": 867,
+  "answer": 0,
+  "statement": 31,
+  "party": 22,
+  "comment": 867
+ },
+ {
+  "id": 868,
+  "answer": 1,
+  "statement": 32,
+  "party": 22,
+  "comment": 868
+ },
+ {
+  "id": 869,
+  "answer": 2,
+  "statement": 33,
+  "party": 22,
+  "comment": 869
+ },
+ {
+  "id": 870,
+  "answer": 0,
+  "statement": 34,
+  "party": 22,
+  "comment": 870
+ },
+ {
+  "id": 871,
+  "answer": 1,
+  "statement": 35,
+  "party": 22,
+  "comment": 871
+ },
+ {
+  "id": 872,
+  "answer": 1,
+  "statement": 36,
+  "party": 22,
+  "comment": 872
+ },
+ {
+  "id": 873,
+  "answer": 2,
+  "statement": 37,
+  "party": 22,
+  "comment": 873
+ },
+ {
+  "id": 874,
+  "answer": 1,
+  "statement": 0,
+  "party": 23,
+  "comment": 874
+ },
+ {
+  "id": 875,
+  "answer": 0,
+  "statement": 1,
+  "party": 23,
+  "comment": 875
+ },
+ {
+  "id": 876,
+  "answer": 0,
+  "statement": 2,
+  "party": 23,
+  "comment": 876
+ },
+ {
+  "id": 877,
+  "answer": 1,
+  "statement": 3,
+  "party": 23,
+  "comment": 877
+ },
+ {
+  "id": 878,
+  "answer": 0,
+  "statement": 4,
+  "party": 23,
+  "comment": 878
+ },
+ {
+  "id": 879,
+  "answer": 1,
+  "statement": 5,
+  "party": 23,
+  "comment": 879
+ },
+ {
+  "id": 880,
+  "answer": 0,
+  "statement": 6,
+  "party": 23,
+  "comment": 880
+ },
+ {
+  "id": 881,
+  "answer": 1,
+  "statement": 7,
+  "party": 23,
+  "comment": 881
+ },
+ {
+  "id": 882,
+  "answer": 1,
+  "statement": 8,
+  "party": 23,
+  "comment": 882
+ },
+ {
+  "id": 883,
+  "answer": 1,
+  "statement": 9,
+  "party": 23,
+  "comment": 883
+ },
+ {
+  "id": 884,
+  "answer": 1,
+  "statement": 10,
+  "party": 23,
+  "comment": 884
+ },
+ {
+  "id": 885,
+  "answer": 1,
+  "statement": 11,
+  "party": 23,
+  "comment": 885
+ },
+ {
+  "id": 886,
+  "answer": 0,
+  "statement": 12,
+  "party": 23,
+  "comment": 886
+ },
+ {
+  "id": 887,
+  "answer": 1,
+  "statement": 13,
+  "party": 23,
+  "comment": 887
+ },
+ {
+  "id": 888,
+  "answer": 0,
+  "statement": 14,
+  "party": 23,
+  "comment": 888
+ },
+ {
+  "id": 889,
+  "answer": 0,
+  "statement": 15,
+  "party": 23,
+  "comment": 889
+ },
+ {
+  "id": 890,
+  "answer": 1,
+  "statement": 16,
+  "party": 23,
+  "comment": 890
+ },
+ {
+  "id": 891,
+  "answer": 0,
+  "statement": 17,
+  "party": 23,
+  "comment": 891
+ },
+ {
+  "id": 892,
+  "answer": 1,
+  "statement": 18,
+  "party": 23,
+  "comment": 892
+ },
+ {
+  "id": 893,
+  "answer": 1,
+  "statement": 19,
+  "party": 23,
+  "comment": 893
+ },
+ {
+  "id": 894,
+  "answer": 0,
+  "statement": 20,
+  "party": 23,
+  "comment": 894
+ },
+ {
+  "id": 895,
+  "answer": 1,
+  "statement": 21,
+  "party": 23,
+  "comment": 895
+ },
+ {
+  "id": 896,
+  "answer": 0,
+  "statement": 22,
+  "party": 23,
+  "comment": 896
+ },
+ {
+  "id": 897,
+  "answer": 1,
+  "statement": 23,
+  "party": 23,
+  "comment": 897
+ },
+ {
+  "id": 898,
+  "answer": 0,
+  "statement": 24,
+  "party": 23,
+  "comment": 898
+ },
+ {
+  "id": 899,
+  "answer": 0,
+  "statement": 25,
+  "party": 23,
+  "comment": 899
+ },
+ {
+  "id": 900,
+  "answer": 0,
+  "statement": 26,
+  "party": 23,
+  "comment": 900
+ },
+ {
+  "id": 901,
+  "answer": 0,
+  "statement": 27,
+  "party": 23,
+  "comment": 901
+ },
+ {
+  "id": 902,
+  "answer": 0,
+  "statement": 28,
+  "party": 23,
+  "comment": 902
+ },
+ {
+  "id": 903,
+  "answer": 0,
+  "statement": 29,
+  "party": 23,
+  "comment": 903
+ },
+ {
+  "id": 904,
+  "answer": 1,
+  "statement": 30,
+  "party": 23,
+  "comment": 904
+ },
+ {
+  "id": 905,
+  "answer": 1,
+  "statement": 31,
+  "party": 23,
+  "comment": 905
+ },
+ {
+  "id": 906,
+  "answer": 1,
+  "statement": 32,
+  "party": 23,
+  "comment": 906
+ },
+ {
+  "id": 907,
+  "answer": 0,
+  "statement": 33,
+  "party": 23,
+  "comment": 907
+ },
+ {
+  "id": 908,
+  "answer": 0,
+  "statement": 34,
+  "party": 23,
+  "comment": 908
+ },
+ {
+  "id": 909,
+  "answer": 1,
+  "statement": 35,
+  "party": 23,
+  "comment": 909
+ },
+ {
+  "id": 910,
+  "answer": 1,
+  "statement": 36,
+  "party": 23,
+  "comment": 910
+ },
+ {
+  "id": 911,
+  "answer": 0,
+  "statement": 37,
+  "party": 23,
+  "comment": 911
+ },
+ {
+  "id": 912,
+  "answer": 1,
+  "statement": 0,
+  "party": 24,
+  "comment": 912
+ },
+ {
+  "id": 913,
+  "answer": 0,
+  "statement": 1,
+  "party": 24,
+  "comment": 913
+ },
+ {
+  "id": 914,
+  "answer": 1,
+  "statement": 2,
+  "party": 24,
+  "comment": 914
+ },
+ {
+  "id": 915,
+  "answer": 1,
+  "statement": 3,
+  "party": 24,
+  "comment": 915
+ },
+ {
+  "id": 916,
+  "answer": 0,
+  "statement": 4,
+  "party": 24,
+  "comment": 916
+ },
+ {
+  "id": 917,
+  "answer": 0,
+  "statement": 5,
+  "party": 24,
+  "comment": 917
+ },
+ {
+  "id": 918,
+  "answer": 1,
+  "statement": 6,
+  "party": 24,
+  "comment": 918
+ },
+ {
+  "id": 919,
+  "answer": 1,
+  "statement": 7,
+  "party": 24,
+  "comment": 919
+ },
+ {
+  "id": 920,
+  "answer": 1,
+  "statement": 8,
+  "party": 24,
+  "comment": 920
+ },
+ {
+  "id": 921,
+  "answer": 1,
+  "statement": 9,
+  "party": 24,
+  "comment": 921
+ },
+ {
+  "id": 922,
+  "answer": 1,
+  "statement": 10,
+  "party": 24,
+  "comment": 922
+ },
+ {
+  "id": 923,
+  "answer": 1,
+  "statement": 11,
+  "party": 24,
+  "comment": 923
+ },
+ {
+  "id": 924,
+  "answer": 1,
+  "statement": 12,
+  "party": 24,
+  "comment": 924
+ },
+ {
+  "id": 925,
+  "answer": 0,
+  "statement": 13,
+  "party": 24,
+  "comment": 925
+ },
+ {
+  "id": 926,
+  "answer": 0,
+  "statement": 14,
+  "party": 24,
+  "comment": 926
+ },
+ {
+  "id": 927,
+  "answer": 1,
+  "statement": 15,
+  "party": 24,
+  "comment": 927
+ },
+ {
+  "id": 928,
+  "answer": 1,
+  "statement": 16,
+  "party": 24,
+  "comment": 928
+ },
+ {
+  "id": 929,
+  "answer": 1,
+  "statement": 17,
+  "party": 24,
+  "comment": 929
+ },
+ {
+  "id": 930,
+  "answer": 0,
+  "statement": 18,
+  "party": 24,
+  "comment": 930
+ },
+ {
+  "id": 931,
+  "answer": 1,
+  "statement": 19,
+  "party": 24,
+  "comment": 931
+ },
+ {
+  "id": 932,
+  "answer": 0,
+  "statement": 20,
+  "party": 24,
+  "comment": 932
+ },
+ {
+  "id": 933,
+  "answer": 0,
+  "statement": 21,
+  "party": 24,
+  "comment": 933
+ },
+ {
+  "id": 934,
+  "answer": 1,
+  "statement": 22,
+  "party": 24,
+  "comment": 934
+ },
+ {
+  "id": 935,
+  "answer": 0,
+  "statement": 23,
+  "party": 24,
+  "comment": 935
+ },
+ {
+  "id": 936,
+  "answer": 0,
+  "statement": 24,
+  "party": 24,
+  "comment": 936
+ },
+ {
+  "id": 937,
+  "answer": 1,
+  "statement": 25,
+  "party": 24,
+  "comment": 937
+ },
+ {
+  "id": 938,
+  "answer": 1,
+  "statement": 26,
+  "party": 24,
+  "comment": 938
+ },
+ {
+  "id": 939,
+  "answer": 1,
+  "statement": 27,
+  "party": 24,
+  "comment": 939
+ },
+ {
+  "id": 940,
+  "answer": 0,
+  "statement": 28,
+  "party": 24,
+  "comment": 940
+ },
+ {
+  "id": 941,
+  "answer": 0,
+  "statement": 29,
+  "party": 24,
+  "comment": 941
+ },
+ {
+  "id": 942,
+  "answer": 0,
+  "statement": 30,
+  "party": 24,
+  "comment": 942
+ },
+ {
+  "id": 943,
+  "answer": 1,
+  "statement": 31,
+  "party": 24,
+  "comment": 943
+ },
+ {
+  "id": 944,
+  "answer": 0,
+  "statement": 32,
+  "party": 24,
+  "comment": 944
+ },
+ {
+  "id": 945,
+  "answer": 0,
+  "statement": 33,
+  "party": 24,
+  "comment": 945
+ },
+ {
+  "id": 946,
+  "answer": 1,
+  "statement": 34,
+  "party": 24,
+  "comment": 946
+ },
+ {
+  "id": 947,
+  "answer": 0,
+  "statement": 35,
+  "party": 24,
+  "comment": 947
+ },
+ {
+  "id": 948,
+  "answer": 1,
+  "statement": 36,
+  "party": 24,
+  "comment": 948
+ },
+ {
+  "id": 949,
+  "answer": 0,
+  "statement": 37,
+  "party": 24,
+  "comment": 949
+ },
+ {
+  "id": 950,
+  "answer": 1,
+  "statement": 0,
+  "party": 25,
+  "comment": 950
+ },
+ {
+  "id": 951,
+  "answer": 0,
+  "statement": 1,
+  "party": 25,
+  "comment": 951
+ },
+ {
+  "id": 952,
+  "answer": 1,
+  "statement": 2,
+  "party": 25,
+  "comment": 952
+ },
+ {
+  "id": 953,
+  "answer": 1,
+  "statement": 3,
+  "party": 25,
+  "comment": 953
+ },
+ {
+  "id": 954,
+  "answer": 0,
+  "statement": 4,
+  "party": 25,
+  "comment": 954
+ },
+ {
+  "id": 955,
+  "answer": 0,
+  "statement": 5,
+  "party": 25,
+  "comment": 955
+ },
+ {
+  "id": 956,
+  "answer": 1,
+  "statement": 6,
+  "party": 25,
+  "comment": 956
+ },
+ {
+  "id": 957,
+  "answer": 0,
+  "statement": 7,
+  "party": 25,
+  "comment": 957
+ },
+ {
+  "id": 958,
+  "answer": 1,
+  "statement": 8,
+  "party": 25,
+  "comment": 958
+ },
+ {
+  "id": 959,
+  "answer": 1,
+  "statement": 9,
+  "party": 25,
+  "comment": 959
+ },
+ {
+  "id": 960,
+  "answer": 1,
+  "statement": 10,
+  "party": 25,
+  "comment": 960
+ },
+ {
+  "id": 961,
+  "answer": 1,
+  "statement": 11,
+  "party": 25,
+  "comment": 961
+ },
+ {
+  "id": 962,
+  "answer": 1,
+  "statement": 12,
+  "party": 25,
+  "comment": 962
+ },
+ {
+  "id": 963,
+  "answer": 0,
+  "statement": 13,
+  "party": 25,
+  "comment": 963
+ },
+ {
+  "id": 964,
+  "answer": 0,
+  "statement": 14,
+  "party": 25,
+  "comment": 964
+ },
+ {
+  "id": 965,
+  "answer": 1,
+  "statement": 15,
+  "party": 25,
+  "comment": 965
+ },
+ {
+  "id": 966,
+  "answer": 0,
+  "statement": 16,
+  "party": 25,
+  "comment": 966
+ },
+ {
+  "id": 967,
+  "answer": 0,
+  "statement": 17,
+  "party": 25,
+  "comment": 967
+ },
+ {
+  "id": 968,
+  "answer": 0,
+  "statement": 18,
+  "party": 25,
+  "comment": 968
+ },
+ {
+  "id": 969,
+  "answer": 1,
+  "statement": 19,
+  "party": 25,
+  "comment": 969
+ },
+ {
+  "id": 970,
+  "answer": 0,
+  "statement": 20,
+  "party": 25,
+  "comment": 970
+ },
+ {
+  "id": 971,
+  "answer": 0,
+  "statement": 21,
+  "party": 25,
+  "comment": 971
+ },
+ {
+  "id": 972,
+  "answer": 0,
+  "statement": 22,
+  "party": 25,
+  "comment": 972
+ },
+ {
+  "id": 973,
+  "answer": 1,
+  "statement": 23,
+  "party": 25,
+  "comment": 973
+ },
+ {
+  "id": 974,
+  "answer": 0,
+  "statement": 24,
+  "party": 25,
+  "comment": 974
+ },
+ {
+  "id": 975,
+  "answer": 1,
+  "statement": 25,
+  "party": 25,
+  "comment": 975
+ },
+ {
+  "id": 976,
+  "answer": 0,
+  "statement": 26,
+  "party": 25,
+  "comment": 976
+ },
+ {
+  "id": 977,
+  "answer": 0,
+  "statement": 27,
+  "party": 25,
+  "comment": 977
+ },
+ {
+  "id": 978,
+  "answer": 0,
+  "statement": 28,
+  "party": 25,
+  "comment": 978
+ },
+ {
+  "id": 979,
+  "answer": 0,
+  "statement": 29,
+  "party": 25,
+  "comment": 979
+ },
+ {
+  "id": 980,
+  "answer": 0,
+  "statement": 30,
+  "party": 25,
+  "comment": 980
+ },
+ {
+  "id": 981,
+  "answer": 0,
+  "statement": 31,
+  "party": 25,
+  "comment": 981
+ },
+ {
+  "id": 982,
+  "answer": 0,
+  "statement": 32,
+  "party": 25,
+  "comment": 982
+ },
+ {
+  "id": 983,
+  "answer": 0,
+  "statement": 33,
+  "party": 25,
+  "comment": 983
+ },
+ {
+  "id": 984,
+  "answer": 1,
+  "statement": 34,
+  "party": 25,
+  "comment": 984
+ },
+ {
+  "id": 985,
+  "answer": 0,
+  "statement": 35,
+  "party": 25,
+  "comment": 985
+ },
+ {
+  "id": 986,
+  "answer": 1,
+  "statement": 36,
+  "party": 25,
+  "comment": 986
+ },
+ {
+  "id": 987,
+  "answer": 1,
+  "statement": 37,
+  "party": 25,
+  "comment": 987
+ },
+ {
+  "id": 988,
+  "answer": 1,
+  "statement": 0,
+  "party": 26,
+  "comment": 988
+ },
+ {
+  "id": 989,
+  "answer": 0,
+  "statement": 1,
+  "party": 26,
+  "comment": 989
+ },
+ {
+  "id": 990,
+  "answer": 1,
+  "statement": 2,
+  "party": 26,
+  "comment": 990
+ },
+ {
+  "id": 991,
+  "answer": 1,
+  "statement": 3,
+  "party": 26,
+  "comment": 991
+ },
+ {
+  "id": 992,
+  "answer": 1,
+  "statement": 4,
+  "party": 26,
+  "comment": 992
+ },
+ {
+  "id": 993,
+  "answer": 1,
+  "statement": 5,
+  "party": 26,
+  "comment": 993
+ },
+ {
+  "id": 994,
+  "answer": 1,
+  "statement": 6,
+  "party": 26,
+  "comment": 994
+ },
+ {
+  "id": 995,
+  "answer": 0,
+  "statement": 7,
+  "party": 26,
+  "comment": 995
+ },
+ {
+  "id": 996,
+  "answer": 1,
+  "statement": 8,
+  "party": 26,
+  "comment": 996
+ },
+ {
+  "id": 997,
+  "answer": 1,
+  "statement": 9,
+  "party": 26,
+  "comment": 997
+ },
+ {
+  "id": 998,
+  "answer": 0,
+  "statement": 10,
+  "party": 26,
+  "comment": 998
+ },
+ {
+  "id": 999,
+  "answer": 0,
+  "statement": 11,
+  "party": 26,
+  "comment": 999
+ },
+ {
+  "id": 1000,
+  "answer": 1,
+  "statement": 12,
+  "party": 26,
+  "comment": 1000
+ },
+ {
+  "id": 1001,
+  "answer": 2,
+  "statement": 13,
+  "party": 26,
+  "comment": 1001
+ },
+ {
+  "id": 1002,
+  "answer": 0,
+  "statement": 14,
+  "party": 26,
+  "comment": 1002
+ },
+ {
+  "id": 1003,
+  "answer": 1,
+  "statement": 15,
+  "party": 26,
+  "comment": 1003
+ },
+ {
+  "id": 1004,
+  "answer": 0,
+  "statement": 16,
+  "party": 26,
+  "comment": 1004
+ },
+ {
+  "id": 1005,
+  "answer": 0,
+  "statement": 17,
+  "party": 26,
+  "comment": 1005
+ },
+ {
+  "id": 1006,
+  "answer": 0,
+  "statement": 18,
+  "party": 26,
+  "comment": 1006
+ },
+ {
+  "id": 1007,
+  "answer": 2,
+  "statement": 19,
+  "party": 26,
+  "comment": 1007
+ },
+ {
+  "id": 1008,
+  "answer": 0,
+  "statement": 20,
+  "party": 26,
+  "comment": 1008
+ },
+ {
+  "id": 1009,
+  "answer": 0,
+  "statement": 21,
+  "party": 26,
+  "comment": 1009
+ },
+ {
+  "id": 1010,
+  "answer": 1,
+  "statement": 22,
+  "party": 26,
+  "comment": 1010
+ },
+ {
+  "id": 1011,
+  "answer": 1,
+  "statement": 23,
+  "party": 26,
+  "comment": 1011
+ },
+ {
+  "id": 1012,
+  "answer": 0,
+  "statement": 24,
+  "party": 26,
+  "comment": 1012
+ },
+ {
+  "id": 1013,
+  "answer": 2,
+  "statement": 25,
+  "party": 26,
+  "comment": 1013
+ },
+ {
+  "id": 1014,
+  "answer": 1,
+  "statement": 26,
+  "party": 26,
+  "comment": 1014
+ },
+ {
+  "id": 1015,
+  "answer": 2,
+  "statement": 27,
+  "party": 26,
+  "comment": 1015
+ },
+ {
+  "id": 1016,
+  "answer": 2,
+  "statement": 28,
+  "party": 26,
+  "comment": 1016
+ },
+ {
+  "id": 1017,
+  "answer": 0,
+  "statement": 29,
+  "party": 26,
+  "comment": 1017
+ },
+ {
+  "id": 1018,
+  "answer": 0,
+  "statement": 30,
+  "party": 26,
+  "comment": 1018
+ },
+ {
+  "id": 1019,
+  "answer": 0,
+  "statement": 31,
+  "party": 26,
+  "comment": 1019
+ },
+ {
+  "id": 1020,
+  "answer": 0,
+  "statement": 32,
+  "party": 26,
+  "comment": 1020
+ },
+ {
+  "id": 1021,
+  "answer": 0,
+  "statement": 33,
+  "party": 26,
+  "comment": 1021
+ },
+ {
+  "id": 1022,
+  "answer": 1,
+  "statement": 34,
+  "party": 26,
+  "comment": 1022
+ },
+ {
+  "id": 1023,
+  "answer": 0,
+  "statement": 35,
+  "party": 26,
+  "comment": 1023
+ },
+ {
+  "id": 1024,
+  "answer": 0,
+  "statement": 36,
+  "party": 26,
+  "comment": 1024
+ },
+ {
+  "id": 1025,
+  "answer": 0,
+  "statement": 37,
+  "party": 26,
+  "comment": 1025
+ },
+ {
+  "id": 1026,
+  "answer": 1,
+  "statement": 0,
+  "party": 27,
+  "comment": 1026
+ },
+ {
+  "id": 1027,
+  "answer": 0,
+  "statement": 1,
+  "party": 27,
+  "comment": 1027
+ },
+ {
+  "id": 1028,
+  "answer": 1,
+  "statement": 2,
+  "party": 27,
+  "comment": 1028
+ },
+ {
+  "id": 1029,
+  "answer": 1,
+  "statement": 3,
+  "party": 27,
+  "comment": 1029
+ },
+ {
+  "id": 1030,
+  "answer": 1,
+  "statement": 4,
+  "party": 27,
+  "comment": 1030
+ },
+ {
+  "id": 1031,
+  "answer": 1,
+  "statement": 5,
+  "party": 27,
+  "comment": 1031
+ },
+ {
+  "id": 1032,
+  "answer": 1,
+  "statement": 6,
+  "party": 27,
+  "comment": 1032
+ },
+ {
+  "id": 1033,
+  "answer": 0,
+  "statement": 7,
+  "party": 27,
+  "comment": 1033
+ },
+ {
+  "id": 1034,
+  "answer": 1,
+  "statement": 8,
+  "party": 27,
+  "comment": 1034
+ },
+ {
+  "id": 1035,
+  "answer": 1,
+  "statement": 9,
+  "party": 27,
+  "comment": 1035
+ },
+ {
+  "id": 1036,
+  "answer": 1,
+  "statement": 10,
+  "party": 27,
+  "comment": 1036
+ },
+ {
+  "id": 1037,
+  "answer": 2,
+  "statement": 11,
+  "party": 27,
+  "comment": 1037
+ },
+ {
+  "id": 1038,
+  "answer": 0,
+  "statement": 12,
+  "party": 27,
+  "comment": 1038
+ },
+ {
+  "id": 1039,
+  "answer": 1,
+  "statement": 13,
+  "party": 27,
+  "comment": 1039
+ },
+ {
+  "id": 1040,
+  "answer": 0,
+  "statement": 14,
+  "party": 27,
+  "comment": 1040
+ },
+ {
+  "id": 1041,
+  "answer": 0,
+  "statement": 15,
+  "party": 27,
+  "comment": 1041
+ },
+ {
+  "id": 1042,
+  "answer": 0,
+  "statement": 16,
+  "party": 27,
+  "comment": 1042
+ },
+ {
+  "id": 1043,
+  "answer": 2,
+  "statement": 17,
+  "party": 27,
+  "comment": 1043
+ },
+ {
+  "id": 1044,
+  "answer": 0,
+  "statement": 18,
+  "party": 27,
+  "comment": 1044
+ },
+ {
+  "id": 1045,
+  "answer": 1,
+  "statement": 19,
+  "party": 27,
+  "comment": 1045
+ },
+ {
+  "id": 1046,
+  "answer": 2,
+  "statement": 20,
+  "party": 27,
+  "comment": 1046
+ },
+ {
+  "id": 1047,
+  "answer": 2,
+  "statement": 21,
+  "party": 27,
+  "comment": 1047
+ },
+ {
+  "id": 1048,
+  "answer": 0,
+  "statement": 22,
+  "party": 27,
+  "comment": 1048
+ },
+ {
+  "id": 1049,
+  "answer": 1,
+  "statement": 23,
+  "party": 27,
+  "comment": 1049
+ },
+ {
+  "id": 1050,
+  "answer": 0,
+  "statement": 24,
+  "party": 27,
+  "comment": 1050
+ },
+ {
+  "id": 1051,
+  "answer": 1,
+  "statement": 25,
+  "party": 27,
+  "comment": 1051
+ },
+ {
+  "id": 1052,
+  "answer": 0,
+  "statement": 26,
+  "party": 27,
+  "comment": 1052
+ },
+ {
+  "id": 1053,
+  "answer": 2,
+  "statement": 27,
+  "party": 27,
+  "comment": 1053
+ },
+ {
+  "id": 1054,
+  "answer": 0,
+  "statement": 28,
+  "party": 27,
+  "comment": 1054
+ },
+ {
+  "id": 1055,
+  "answer": 0,
+  "statement": 29,
+  "party": 27,
+  "comment": 1055
+ },
+ {
+  "id": 1056,
+  "answer": 2,
+  "statement": 30,
+  "party": 27,
+  "comment": 1056
+ },
+ {
+  "id": 1057,
+  "answer": 2,
+  "statement": 31,
+  "party": 27,
+  "comment": 1057
+ },
+ {
+  "id": 1058,
+  "answer": 0,
+  "statement": 32,
+  "party": 27,
+  "comment": 1058
+ },
+ {
+  "id": 1059,
+  "answer": 2,
+  "statement": 33,
+  "party": 27,
+  "comment": 1059
+ },
+ {
+  "id": 1060,
+  "answer": 1,
+  "statement": 34,
+  "party": 27,
+  "comment": 1060
+ },
+ {
+  "id": 1061,
+  "answer": 0,
+  "statement": 35,
+  "party": 27,
+  "comment": 1061
+ },
+ {
+  "id": 1062,
+  "answer": 1,
+  "statement": 36,
+  "party": 27,
+  "comment": 1062
+ },
+ {
+  "id": 1063,
+  "answer": 0,
+  "statement": 37,
+  "party": 27,
+  "comment": 1063
+ },
+ {
+  "id": 1064,
+  "answer": 1,
+  "statement": 0,
+  "party": 28,
+  "comment": 1064
+ },
+ {
+  "id": 1065,
+  "answer": 0,
+  "statement": 1,
+  "party": 28,
+  "comment": 1065
+ },
+ {
+  "id": 1066,
+  "answer": 0,
+  "statement": 2,
+  "party": 28,
+  "comment": 1066
+ },
+ {
+  "id": 1067,
+  "answer": 1,
+  "statement": 3,
+  "party": 28,
+  "comment": 1067
+ },
+ {
+  "id": 1068,
+  "answer": 0,
+  "statement": 4,
+  "party": 28,
+  "comment": 1068
+ },
+ {
+  "id": 1069,
+  "answer": 1,
+  "statement": 5,
+  "party": 28,
+  "comment": 1069
+ },
+ {
+  "id": 1070,
+  "answer": 1,
+  "statement": 6,
+  "party": 28,
+  "comment": 1070
+ },
+ {
+  "id": 1071,
+  "answer": 0,
+  "statement": 7,
+  "party": 28,
+  "comment": 1071
+ },
+ {
+  "id": 1072,
+  "answer": 1,
+  "statement": 8,
+  "party": 28,
+  "comment": 1072
+ },
+ {
+  "id": 1073,
+  "answer": 0,
+  "statement": 9,
+  "party": 28,
+  "comment": 1073
+ },
+ {
+  "id": 1074,
+  "answer": 1,
+  "statement": 10,
+  "party": 28,
+  "comment": 1074
+ },
+ {
+  "id": 1075,
+  "answer": 0,
+  "statement": 11,
+  "party": 28,
+  "comment": 1075
+ },
+ {
+  "id": 1076,
+  "answer": 2,
+  "statement": 12,
+  "party": 28,
+  "comment": 1076
+ },
+ {
+  "id": 1077,
+  "answer": 1,
+  "statement": 13,
+  "party": 28,
+  "comment": 1077
+ },
+ {
+  "id": 1078,
+  "answer": 0,
+  "statement": 14,
+  "party": 28,
+  "comment": 1078
+ },
+ {
+  "id": 1079,
+  "answer": 1,
+  "statement": 15,
+  "party": 28,
+  "comment": 1079
+ },
+ {
+  "id": 1080,
+  "answer": 1,
+  "statement": 16,
+  "party": 28,
+  "comment": 1080
+ },
+ {
+  "id": 1081,
+  "answer": 2,
+  "statement": 17,
+  "party": 28,
+  "comment": 1081
+ },
+ {
+  "id": 1082,
+  "answer": 0,
+  "statement": 18,
+  "party": 28,
+  "comment": 1082
+ },
+ {
+  "id": 1083,
+  "answer": 1,
+  "statement": 19,
+  "party": 28,
+  "comment": 1083
+ },
+ {
+  "id": 1084,
+  "answer": 0,
+  "statement": 20,
+  "party": 28,
+  "comment": 1084
+ },
+ {
+  "id": 1085,
+  "answer": 0,
+  "statement": 21,
+  "party": 28,
+  "comment": 1085
+ },
+ {
+  "id": 1086,
+  "answer": 0,
+  "statement": 22,
+  "party": 28,
+  "comment": 1086
+ },
+ {
+  "id": 1087,
+  "answer": 1,
+  "statement": 23,
+  "party": 28,
+  "comment": 1087
+ },
+ {
+  "id": 1088,
+  "answer": 1,
+  "statement": 24,
+  "party": 28,
+  "comment": 1088
+ },
+ {
+  "id": 1089,
+  "answer": 2,
+  "statement": 25,
+  "party": 28,
+  "comment": 1089
+ },
+ {
+  "id": 1090,
+  "answer": 0,
+  "statement": 26,
+  "party": 28,
+  "comment": 1090
+ },
+ {
+  "id": 1091,
+  "answer": 1,
+  "statement": 27,
+  "party": 28,
+  "comment": 1091
+ },
+ {
+  "id": 1092,
+  "answer": 0,
+  "statement": 28,
+  "party": 28,
+  "comment": 1092
+ },
+ {
+  "id": 1093,
+  "answer": 0,
+  "statement": 29,
+  "party": 28,
+  "comment": 1093
+ },
+ {
+  "id": 1094,
+  "answer": 0,
+  "statement": 30,
+  "party": 28,
+  "comment": 1094
+ },
+ {
+  "id": 1095,
+  "answer": 0,
+  "statement": 31,
+  "party": 28,
+  "comment": 1095
+ },
+ {
+  "id": 1096,
+  "answer": 0,
+  "statement": 32,
+  "party": 28,
+  "comment": 1096
+ },
+ {
+  "id": 1097,
+  "answer": 1,
+  "statement": 33,
+  "party": 28,
+  "comment": 1097
+ },
+ {
+  "id": 1098,
+  "answer": 1,
+  "statement": 34,
+  "party": 28,
+  "comment": 1098
+ },
+ {
+  "id": 1099,
+  "answer": 1,
+  "statement": 35,
+  "party": 28,
+  "comment": 1099
+ },
+ {
+  "id": 1100,
+  "answer": 0,
+  "statement": 36,
+  "party": 28,
+  "comment": 1100
+ },
+ {
+  "id": 1101,
+  "answer": 0,
+  "statement": 37,
+  "party": 28,
+  "comment": 1101
+ },
+ {
+  "id": 1102,
+  "answer": 0,
+  "statement": 0,
+  "party": 29,
+  "comment": 1102
+ },
+ {
+  "id": 1103,
+  "answer": 1,
+  "statement": 1,
+  "party": 29,
+  "comment": 1103
+ },
+ {
+  "id": 1104,
+  "answer": 0,
+  "statement": 2,
+  "party": 29,
+  "comment": 1104
+ },
+ {
+  "id": 1105,
+  "answer": 2,
+  "statement": 3,
+  "party": 29,
+  "comment": 1105
+ },
+ {
+  "id": 1106,
+  "answer": 0,
+  "statement": 4,
+  "party": 29,
+  "comment": 1106
+ },
+ {
+  "id": 1107,
+  "answer": 1,
+  "statement": 5,
+  "party": 29,
+  "comment": 1107
+ },
+ {
+  "id": 1108,
+  "answer": 0,
+  "statement": 6,
+  "party": 29,
+  "comment": 1108
+ },
+ {
+  "id": 1109,
+  "answer": 1,
+  "statement": 7,
+  "party": 29,
+  "comment": 1109
+ },
+ {
+  "id": 1110,
+  "answer": 0,
+  "statement": 8,
+  "party": 29,
+  "comment": 1110
+ },
+ {
+  "id": 1111,
+  "answer": 0,
+  "statement": 9,
+  "party": 29,
+  "comment": 1111
+ },
+ {
+  "id": 1112,
+  "answer": 1,
+  "statement": 10,
+  "party": 29,
+  "comment": 1112
+ },
+ {
+  "id": 1113,
+  "answer": 0,
+  "statement": 11,
+  "party": 29,
+  "comment": 1113
+ },
+ {
+  "id": 1114,
+  "answer": 0,
+  "statement": 12,
+  "party": 29,
+  "comment": 1114
+ },
+ {
+  "id": 1115,
+  "answer": 1,
+  "statement": 13,
+  "party": 29,
+  "comment": 1115
+ },
+ {
+  "id": 1116,
+  "answer": 0,
+  "statement": 14,
+  "party": 29,
+  "comment": 1116
+ },
+ {
+  "id": 1117,
+  "answer": 0,
+  "statement": 15,
+  "party": 29,
+  "comment": 1117
+ },
+ {
+  "id": 1118,
+  "answer": 1,
+  "statement": 16,
+  "party": 29,
+  "comment": 1118
+ },
+ {
+  "id": 1119,
+  "answer": 0,
+  "statement": 17,
+  "party": 29,
+  "comment": 1119
+ },
+ {
+  "id": 1120,
+  "answer": 0,
+  "statement": 18,
+  "party": 29,
+  "comment": 1120
+ },
+ {
+  "id": 1121,
+  "answer": 2,
+  "statement": 19,
+  "party": 29,
+  "comment": 1121
+ },
+ {
+  "id": 1122,
+  "answer": 0,
+  "statement": 20,
+  "party": 29,
+  "comment": 1122
+ },
+ {
+  "id": 1123,
+  "answer": 1,
+  "statement": 21,
+  "party": 29,
+  "comment": 1123
+ },
+ {
+  "id": 1124,
+  "answer": 0,
+  "statement": 22,
+  "party": 29,
+  "comment": 1124
+ },
+ {
+  "id": 1125,
+  "answer": 1,
+  "statement": 23,
+  "party": 29,
+  "comment": 1125
+ },
+ {
+  "id": 1126,
+  "answer": 1,
+  "statement": 24,
+  "party": 29,
+  "comment": 1126
+ },
+ {
+  "id": 1127,
+  "answer": 1,
+  "statement": 25,
+  "party": 29,
+  "comment": 1127
+ },
+ {
+  "id": 1128,
+  "answer": 0,
+  "statement": 26,
+  "party": 29,
+  "comment": 1128
+ },
+ {
+  "id": 1129,
+  "answer": 2,
+  "statement": 27,
+  "party": 29,
+  "comment": 1129
+ },
+ {
+  "id": 1130,
+  "answer": 1,
+  "statement": 28,
+  "party": 29,
+  "comment": 1130
+ },
+ {
+  "id": 1131,
+  "answer": 0,
+  "statement": 29,
+  "party": 29,
+  "comment": 1131
+ },
+ {
+  "id": 1132,
+  "answer": 1,
+  "statement": 30,
+  "party": 29,
+  "comment": 1132
+ },
+ {
+  "id": 1133,
+  "answer": 0,
+  "statement": 31,
+  "party": 29,
+  "comment": 1133
+ },
+ {
+  "id": 1134,
+  "answer": 0,
+  "statement": 32,
+  "party": 29,
+  "comment": 1134
+ },
+ {
+  "id": 1135,
+  "answer": 1,
+  "statement": 33,
+  "party": 29,
+  "comment": 1135
+ },
+ {
+  "id": 1136,
+  "answer": 0,
+  "statement": 34,
+  "party": 29,
+  "comment": 1136
+ },
+ {
+  "id": 1137,
+  "answer": 1,
+  "statement": 35,
+  "party": 29,
+  "comment": 1137
+ },
+ {
+  "id": 1138,
+  "answer": 1,
+  "statement": 36,
+  "party": 29,
+  "comment": 1138
+ },
+ {
+  "id": 1139,
+  "answer": 0,
+  "statement": 37,
+  "party": 29,
+  "comment": 1139
+ },
+ {
+  "id": 1140,
+  "answer": 2,
+  "statement": 0,
+  "party": 30,
+  "comment": 1140
+ },
+ {
+  "id": 1141,
+  "answer": 1,
+  "statement": 1,
+  "party": 30,
+  "comment": 1141
+ },
+ {
+  "id": 1142,
+  "answer": 0,
+  "statement": 2,
+  "party": 30,
+  "comment": 1142
+ },
+ {
+  "id": 1143,
+  "answer": 2,
+  "statement": 3,
+  "party": 30,
+  "comment": 1143
+ },
+ {
+  "id": 1144,
+  "answer": 0,
+  "statement": 4,
+  "party": 30,
+  "comment": 1144
+ },
+ {
+  "id": 1145,
+  "answer": 1,
+  "statement": 5,
+  "party": 30,
+  "comment": 1145
+ },
+ {
+  "id": 1146,
+  "answer": 0,
+  "statement": 6,
+  "party": 30,
+  "comment": 1146
+ },
+ {
+  "id": 1147,
+  "answer": 2,
+  "statement": 7,
+  "party": 30,
+  "comment": 1147
+ },
+ {
+  "id": 1148,
+  "answer": 0,
+  "statement": 8,
+  "party": 30,
+  "comment": 1148
+ },
+ {
+  "id": 1149,
+  "answer": 0,
+  "statement": 9,
+  "party": 30,
+  "comment": 1149
+ },
+ {
+  "id": 1150,
+  "answer": 1,
+  "statement": 10,
+  "party": 30,
+  "comment": 1150
+ },
+ {
+  "id": 1151,
+  "answer": 1,
+  "statement": 11,
+  "party": 30,
+  "comment": 1151
+ },
+ {
+  "id": 1152,
+  "answer": 0,
+  "statement": 12,
+  "party": 30,
+  "comment": 1152
+ },
+ {
+  "id": 1153,
+  "answer": 1,
+  "statement": 13,
+  "party": 30,
+  "comment": 1153
+ },
+ {
+  "id": 1154,
+  "answer": 1,
+  "statement": 14,
+  "party": 30,
+  "comment": 1154
+ },
+ {
+  "id": 1155,
+  "answer": 0,
+  "statement": 15,
+  "party": 30,
+  "comment": 1155
+ },
+ {
+  "id": 1156,
+  "answer": 1,
+  "statement": 16,
+  "party": 30,
+  "comment": 1156
+ },
+ {
+  "id": 1157,
+  "answer": 0,
+  "statement": 17,
+  "party": 30,
+  "comment": 1157
+ },
+ {
+  "id": 1158,
+  "answer": 2,
+  "statement": 18,
+  "party": 30,
+  "comment": 1158
+ },
+ {
+  "id": 1159,
+  "answer": 2,
+  "statement": 19,
+  "party": 30,
+  "comment": 1159
+ },
+ {
+  "id": 1160,
+  "answer": 0,
+  "statement": 20,
+  "party": 30,
+  "comment": 1160
+ },
+ {
+  "id": 1161,
+  "answer": 2,
+  "statement": 21,
+  "party": 30,
+  "comment": 1161
+ },
+ {
+  "id": 1162,
+  "answer": 0,
+  "statement": 22,
+  "party": 30,
+  "comment": 1162
+ },
+ {
+  "id": 1163,
+  "answer": 1,
+  "statement": 23,
+  "party": 30,
+  "comment": 1163
+ },
+ {
+  "id": 1164,
+  "answer": 2,
+  "statement": 24,
+  "party": 30,
+  "comment": 1164
+ },
+ {
+  "id": 1165,
+  "answer": 2,
+  "statement": 25,
+  "party": 30,
+  "comment": 1165
+ },
+ {
+  "id": 1166,
+  "answer": 0,
+  "statement": 26,
+  "party": 30,
+  "comment": 1166
+ },
+ {
+  "id": 1167,
+  "answer": 2,
+  "statement": 27,
+  "party": 30,
+  "comment": 1167
+ },
+ {
+  "id": 1168,
+  "answer": 1,
+  "statement": 28,
+  "party": 30,
+  "comment": 1168
+ },
+ {
+  "id": 1169,
+  "answer": 0,
+  "statement": 29,
+  "party": 30,
+  "comment": 1169
+ },
+ {
+  "id": 1170,
+  "answer": 1,
+  "statement": 30,
+  "party": 30,
+  "comment": 1170
+ },
+ {
+  "id": 1171,
+  "answer": 0,
+  "statement": 31,
+  "party": 30,
+  "comment": 1171
+ },
+ {
+  "id": 1172,
+  "answer": 0,
+  "statement": 32,
+  "party": 30,
+  "comment": 1172
+ },
+ {
+  "id": 1173,
+  "answer": 2,
+  "statement": 33,
+  "party": 30,
+  "comment": 1173
+ },
+ {
+  "id": 1174,
+  "answer": 0,
+  "statement": 34,
+  "party": 30,
+  "comment": 1174
+ },
+ {
+  "id": 1175,
+  "answer": 1,
+  "statement": 35,
+  "party": 30,
+  "comment": 1175
+ },
+ {
+  "id": 1176,
+  "answer": 2,
+  "statement": 36,
+  "party": 30,
+  "comment": 1176
+ },
+ {
+  "id": 1177,
+  "answer": 0,
+  "statement": 37,
+  "party": 30,
+  "comment": 1177
+ },
+ {
+  "id": 1178,
+  "answer": 1,
+  "statement": 0,
+  "party": 31,
+  "comment": 1178
+ },
+ {
+  "id": 1179,
+  "answer": 0,
+  "statement": 1,
+  "party": 31,
+  "comment": 1179
+ },
+ {
+  "id": 1180,
+  "answer": 1,
+  "statement": 2,
+  "party": 31,
+  "comment": 1180
+ },
+ {
+  "id": 1181,
+  "answer": 1,
+  "statement": 3,
+  "party": 31,
+  "comment": 1181
+ },
+ {
+  "id": 1182,
+  "answer": 1,
+  "statement": 4,
+  "party": 31,
+  "comment": 1182
+ },
+ {
+  "id": 1183,
+  "answer": 0,
+  "statement": 5,
+  "party": 31,
+  "comment": 1183
+ },
+ {
+  "id": 1184,
+  "answer": 2,
+  "statement": 6,
+  "party": 31,
+  "comment": 1184
+ },
+ {
+  "id": 1185,
+  "answer": 0,
+  "statement": 7,
+  "party": 31,
+  "comment": 1185
+ },
+ {
+  "id": 1186,
+  "answer": 1,
+  "statement": 8,
+  "party": 31,
+  "comment": 1186
+ },
+ {
+  "id": 1187,
+  "answer": 1,
+  "statement": 9,
+  "party": 31,
+  "comment": 1187
+ },
+ {
+  "id": 1188,
+  "answer": 0,
+  "statement": 10,
+  "party": 31,
+  "comment": 1188
+ },
+ {
+  "id": 1189,
+  "answer": 1,
+  "statement": 11,
+  "party": 31,
+  "comment": 1189
+ },
+ {
+  "id": 1190,
+  "answer": 1,
+  "statement": 12,
+  "party": 31,
+  "comment": 1190
+ },
+ {
+  "id": 1191,
+  "answer": 0,
+  "statement": 13,
+  "party": 31,
+  "comment": 1191
+ },
+ {
+  "id": 1192,
+  "answer": 0,
+  "statement": 14,
+  "party": 31,
+  "comment": 1192
+ },
+ {
+  "id": 1193,
+  "answer": 1,
+  "statement": 15,
+  "party": 31,
+  "comment": 1193
+ },
+ {
+  "id": 1194,
+  "answer": 0,
+  "statement": 16,
+  "party": 31,
+  "comment": 1194
+ },
+ {
+  "id": 1195,
+  "answer": 1,
+  "statement": 17,
+  "party": 31,
+  "comment": 1195
+ },
+ {
+  "id": 1196,
+  "answer": 2,
+  "statement": 18,
+  "party": 31,
+  "comment": 1196
+ },
+ {
+  "id": 1197,
+  "answer": 1,
+  "statement": 19,
+  "party": 31,
+  "comment": 1197
+ },
+ {
+  "id": 1198,
+  "answer": 1,
+  "statement": 20,
+  "party": 31,
+  "comment": 1198
+ },
+ {
+  "id": 1199,
+  "answer": 1,
+  "statement": 21,
+  "party": 31,
+  "comment": 1199
+ },
+ {
+  "id": 1200,
+  "answer": 2,
+  "statement": 22,
+  "party": 31,
+  "comment": 1200
+ },
+ {
+  "id": 1201,
+  "answer": 1,
+  "statement": 23,
+  "party": 31,
+  "comment": 1201
+ },
+ {
+  "id": 1202,
+  "answer": 0,
+  "statement": 24,
+  "party": 31,
+  "comment": 1202
+ },
+ {
+  "id": 1203,
+  "answer": 0,
+  "statement": 25,
+  "party": 31,
+  "comment": 1203
+ },
+ {
+  "id": 1204,
+  "answer": 1,
+  "statement": 26,
+  "party": 31,
+  "comment": 1204
+ },
+ {
+  "id": 1205,
+  "answer": 1,
+  "statement": 27,
+  "party": 31,
+  "comment": 1205
+ },
+ {
+  "id": 1206,
+  "answer": 0,
+  "statement": 28,
+  "party": 31,
+  "comment": 1206
+ },
+ {
+  "id": 1207,
+  "answer": 1,
+  "statement": 29,
+  "party": 31,
+  "comment": 1207
+ },
+ {
+  "id": 1208,
+  "answer": 0,
+  "statement": 30,
+  "party": 31,
+  "comment": 1208
+ },
+ {
+  "id": 1209,
+  "answer": 0,
+  "statement": 31,
+  "party": 31,
+  "comment": 1209
+ },
+ {
+  "id": 1210,
+  "answer": 1,
+  "statement": 32,
+  "party": 31,
+  "comment": 1210
+ },
+ {
+  "id": 1211,
+  "answer": 0,
+  "statement": 33,
+  "party": 31,
+  "comment": 1211
+ },
+ {
+  "id": 1212,
+  "answer": 1,
+  "statement": 34,
+  "party": 31,
+  "comment": 1212
+ },
+ {
+  "id": 1213,
+  "answer": 2,
+  "statement": 35,
+  "party": 31,
+  "comment": 1213
+ },
+ {
+  "id": 1214,
+  "answer": 1,
+  "statement": 36,
+  "party": 31,
+  "comment": 1214
+ },
+ {
+  "id": 1215,
+  "answer": 0,
+  "statement": 37,
+  "party": 31,
+  "comment": 1215
+ },
+ {
+  "id": 1216,
+  "answer": 1,
+  "statement": 0,
+  "party": 32,
+  "comment": 1216
+ },
+ {
+  "id": 1217,
+  "answer": 0,
+  "statement": 1,
+  "party": 32,
+  "comment": 1217
+ },
+ {
+  "id": 1218,
+  "answer": 0,
+  "statement": 2,
+  "party": 32,
+  "comment": 1218
+ },
+ {
+  "id": 1219,
+  "answer": 0,
+  "statement": 3,
+  "party": 32,
+  "comment": 1219
+ },
+ {
+  "id": 1220,
+  "answer": 0,
+  "statement": 4,
+  "party": 32,
+  "comment": 1220
+ },
+ {
+  "id": 1221,
+  "answer": 1,
+  "statement": 5,
+  "party": 32,
+  "comment": 1221
+ },
+ {
+  "id": 1222,
+  "answer": 0,
+  "statement": 6,
+  "party": 32,
+  "comment": 1222
+ },
+ {
+  "id": 1223,
+  "answer": 2,
+  "statement": 7,
+  "party": 32,
+  "comment": 1223
+ },
+ {
+  "id": 1224,
+  "answer": 1,
+  "statement": 8,
+  "party": 32,
+  "comment": 1224
+ },
+ {
+  "id": 1225,
+  "answer": 0,
+  "statement": 9,
+  "party": 32,
+  "comment": 1225
+ },
+ {
+  "id": 1226,
+  "answer": 1,
+  "statement": 10,
+  "party": 32,
+  "comment": 1226
+ },
+ {
+  "id": 1227,
+  "answer": 0,
+  "statement": 11,
+  "party": 32,
+  "comment": 1227
+ },
+ {
+  "id": 1228,
+  "answer": 2,
+  "statement": 12,
+  "party": 32,
+  "comment": 1228
+ },
+ {
+  "id": 1229,
+  "answer": 1,
+  "statement": 13,
+  "party": 32,
+  "comment": 1229
+ },
+ {
+  "id": 1230,
+  "answer": 0,
+  "statement": 14,
+  "party": 32,
+  "comment": 1230
+ },
+ {
+  "id": 1231,
+  "answer": 0,
+  "statement": 15,
+  "party": 32,
+  "comment": 1231
+ },
+ {
+  "id": 1232,
+  "answer": 1,
+  "statement": 16,
+  "party": 32,
+  "comment": 1232
+ },
+ {
+  "id": 1233,
+  "answer": 0,
+  "statement": 17,
+  "party": 32,
+  "comment": 1233
+ },
+ {
+  "id": 1234,
+  "answer": 0,
+  "statement": 18,
+  "party": 32,
+  "comment": 1234
+ },
+ {
+  "id": 1235,
+  "answer": 0,
+  "statement": 19,
+  "party": 32,
+  "comment": 1235
+ },
+ {
+  "id": 1236,
+  "answer": 0,
+  "statement": 20,
+  "party": 32,
+  "comment": 1236
+ },
+ {
+  "id": 1237,
+  "answer": 0,
+  "statement": 21,
+  "party": 32,
+  "comment": 1237
+ },
+ {
+  "id": 1238,
+  "answer": 0,
+  "statement": 22,
+  "party": 32,
+  "comment": 1238
+ },
+ {
+  "id": 1239,
+  "answer": 1,
+  "statement": 23,
+  "party": 32,
+  "comment": 1239
+ },
+ {
+  "id": 1240,
+  "answer": 0,
+  "statement": 24,
+  "party": 32,
+  "comment": 1240
+ },
+ {
+  "id": 1241,
+  "answer": 1,
+  "statement": 25,
+  "party": 32,
+  "comment": 1241
+ },
+ {
+  "id": 1242,
+  "answer": 0,
+  "statement": 26,
+  "party": 32,
+  "comment": 1242
+ },
+ {
+  "id": 1243,
+  "answer": 2,
+  "statement": 27,
+  "party": 32,
+  "comment": 1243
+ },
+ {
+  "id": 1244,
+  "answer": 1,
+  "statement": 28,
+  "party": 32,
+  "comment": 1244
+ },
+ {
+  "id": 1245,
+  "answer": 0,
+  "statement": 29,
+  "party": 32,
+  "comment": 1245
+ },
+ {
+  "id": 1246,
+  "answer": 1,
+  "statement": 30,
+  "party": 32,
+  "comment": 1246
+ },
+ {
+  "id": 1247,
+  "answer": 0,
+  "statement": 31,
+  "party": 32,
+  "comment": 1247
+ },
+ {
+  "id": 1248,
+  "answer": 0,
+  "statement": 32,
+  "party": 32,
+  "comment": 1248
+ },
+ {
+  "id": 1249,
+  "answer": 0,
+  "statement": 33,
+  "party": 32,
+  "comment": 1249
+ },
+ {
+  "id": 1250,
+  "answer": 0,
+  "statement": 34,
+  "party": 32,
+  "comment": 1250
+ },
+ {
+  "id": 1251,
+  "answer": 0,
+  "statement": 35,
+  "party": 32,
+  "comment": 1251
+ },
+ {
+  "id": 1252,
+  "answer": 0,
+  "statement": 36,
+  "party": 32,
+  "comment": 1252
+ },
+ {
+  "id": 1253,
+  "answer": 0,
+  "statement": 37,
+  "party": 32,
+  "comment": 1253
+ },
+ {
+  "id": 1254,
+  "answer": 1,
+  "statement": 0,
+  "party": 33,
+  "comment": 1254
+ },
+ {
+  "id": 1255,
+  "answer": 1,
+  "statement": 1,
+  "party": 33,
+  "comment": 1255
+ },
+ {
+  "id": 1256,
+  "answer": 0,
+  "statement": 2,
+  "party": 33,
+  "comment": 1256
+ },
+ {
+  "id": 1257,
+  "answer": 2,
+  "statement": 3,
+  "party": 33,
+  "comment": 1257
+ },
+ {
+  "id": 1258,
+  "answer": 0,
+  "statement": 4,
+  "party": 33,
+  "comment": 1258
+ },
+ {
+  "id": 1259,
+  "answer": 1,
+  "statement": 5,
+  "party": 33,
+  "comment": 1259
+ },
+ {
+  "id": 1260,
+  "answer": 0,
+  "statement": 6,
+  "party": 33,
+  "comment": 1260
+ },
+ {
+  "id": 1261,
+  "answer": 1,
+  "statement": 7,
+  "party": 33,
+  "comment": 1261
+ },
+ {
+  "id": 1262,
+  "answer": 0,
+  "statement": 8,
+  "party": 33,
+  "comment": 1262
+ },
+ {
+  "id": 1263,
+  "answer": 0,
+  "statement": 9,
+  "party": 33,
+  "comment": 1263
+ },
+ {
+  "id": 1264,
+  "answer": 1,
+  "statement": 10,
+  "party": 33,
+  "comment": 1264
+ },
+ {
+  "id": 1265,
+  "answer": 0,
+  "statement": 11,
+  "party": 33,
+  "comment": 1265
+ },
+ {
+  "id": 1266,
+  "answer": 0,
+  "statement": 12,
+  "party": 33,
+  "comment": 1266
+ },
+ {
+  "id": 1267,
+  "answer": 1,
+  "statement": 13,
+  "party": 33,
+  "comment": 1267
+ },
+ {
+  "id": 1268,
+  "answer": 0,
+  "statement": 14,
+  "party": 33,
+  "comment": 1268
+ },
+ {
+  "id": 1269,
+  "answer": 0,
+  "statement": 15,
+  "party": 33,
+  "comment": 1269
+ },
+ {
+  "id": 1270,
+  "answer": 1,
+  "statement": 16,
+  "party": 33,
+  "comment": 1270
+ },
+ {
+  "id": 1271,
+  "answer": 0,
+  "statement": 17,
+  "party": 33,
+  "comment": 1271
+ },
+ {
+  "id": 1272,
+  "answer": 0,
+  "statement": 18,
+  "party": 33,
+  "comment": 1272
+ },
+ {
+  "id": 1273,
+  "answer": 1,
+  "statement": 19,
+  "party": 33,
+  "comment": 1273
+ },
+ {
+  "id": 1274,
+  "answer": 0,
+  "statement": 20,
+  "party": 33,
+  "comment": 1274
+ },
+ {
+  "id": 1275,
+  "answer": 0,
+  "statement": 21,
+  "party": 33,
+  "comment": 1275
+ },
+ {
+  "id": 1276,
+  "answer": 0,
+  "statement": 22,
+  "party": 33,
+  "comment": 1276
+ },
+ {
+  "id": 1277,
+  "answer": 1,
+  "statement": 23,
+  "party": 33,
+  "comment": 1277
+ },
+ {
+  "id": 1278,
+  "answer": 1,
+  "statement": 24,
+  "party": 33,
+  "comment": 1278
+ },
+ {
+  "id": 1279,
+  "answer": 1,
+  "statement": 25,
+  "party": 33,
+  "comment": 1279
+ },
+ {
+  "id": 1280,
+  "answer": 0,
+  "statement": 26,
+  "party": 33,
+  "comment": 1280
+ },
+ {
+  "id": 1281,
+  "answer": 1,
+  "statement": 27,
+  "party": 33,
+  "comment": 1281
+ },
+ {
+  "id": 1282,
+  "answer": 1,
+  "statement": 28,
+  "party": 33,
+  "comment": 1282
+ },
+ {
+  "id": 1283,
+  "answer": 0,
+  "statement": 29,
+  "party": 33,
+  "comment": 1283
+ },
+ {
+  "id": 1284,
+  "answer": 1,
+  "statement": 30,
+  "party": 33,
+  "comment": 1284
+ },
+ {
+  "id": 1285,
+  "answer": 0,
+  "statement": 31,
+  "party": 33,
+  "comment": 1285
+ },
+ {
+  "id": 1286,
+  "answer": 0,
+  "statement": 32,
+  "party": 33,
+  "comment": 1286
+ },
+ {
+  "id": 1287,
+  "answer": 1,
+  "statement": 33,
+  "party": 33,
+  "comment": 1287
+ },
+ {
+  "id": 1288,
+  "answer": 0,
+  "statement": 34,
+  "party": 33,
+  "comment": 1288
+ },
+ {
+  "id": 1289,
+  "answer": 1,
+  "statement": 35,
+  "party": 33,
+  "comment": 1289
+ },
+ {
+  "id": 1290,
+  "answer": 0,
+  "statement": 36,
+  "party": 33,
+  "comment": 1290
+ },
+ {
+  "id": 1291,
+  "answer": 0,
+  "statement": 37,
+  "party": 33,
+  "comment": 1291
+ }
+]
