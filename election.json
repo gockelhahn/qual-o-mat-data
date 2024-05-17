@@ -63,5 +63,6 @@
   {"id": 61, "name":"Abgeordnetenhauswahl Berlin", "date":"2023-02-12", "path":"data/2023/berlin"},
   {"id": 62, "name":"Bürgerschaftswahl Bremen", "date":"2023-05-14", "path":"data/2023/bremen"},
   {"id": 63, "name":"Landtagswahl Hessen", "date":"2023-10-08", "path":"data/2023/hessen"},
-  {"id": 64, "name":"Landtagswahl Bayern", "date":"2023-10-08", "path":"data/2023/bayern"}
+  {"id": 64, "name":"Landtagswahl Bayern", "date":"2023-10-08", "path":"data/2023/bayern"},
+  {"id": 65, "name":"Europawahl", "date":"2024-06-09", "path":"data/2024/europa"}
 ]
