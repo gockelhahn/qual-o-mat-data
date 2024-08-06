@@ -1,0 +1,17 @@
+[
+  {"id":0, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":1, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":2, "name":"CDU", "longname":" Christlich Demokratische Union Deutschlands "},
+  {"id":3, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":6, "name":"TIERSCHUTZ hier!", "longname":"Aktion Partei für Tierschutz"},
+  {"id":7, "name":"ÖDP / Familie ..", "longname":"Ökologisch-Demokratische Partei / Familie, Gerechtigkeit, Umwelt"},
+  {"id":8, "name":"PIRATEN", "longname":"Piratenpartei Deutschland "},
+  {"id":9, "name":"MLPD", "longname":"Marxistisch-Leninistische Partei Deutschlands"},
+  {"id":10, "name":"BÜNDNIS DEUTSCHLAND", "longname":"BÜNDNIS DEUTSCHLAND"},
+  {"id":11, "name":"BSW", "longname":"Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit"},
+  {"id":12, "name":"FAMILIE", "longname":"Familien-Partei Deutschlands "},
+  {"id":13, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":14, "name":"WU", "longname":"WerteUnion"}
+]
