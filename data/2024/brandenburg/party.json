@@ -1,0 +1,15 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":2, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":3, "name":"GRÜNE/B 90", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":4, "name":"DIE LINKE", "longname":"DIE LINKE"},
+  {"id":5, "name":"BVB / FREIE WÄHLER", "longname":"Brandenburger Vereinigte Bürgerbewegungen / Freie Wähler"},
+  {"id":6, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":7, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":8, "name":"Plus", "longname":"Plus Brandenburg"},
+  {"id":9, "name":"BSW", "longname":"Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit"},
+  {"id":10, "name":"III. Weg", "longname":"DER DRITTE WEG"},
+  {"id":11, "name":"DLW", "longname":"Deutsch Land Wirtschaft"},
+  {"id":12, "name":"WU", "longname":"WerteUnion"}
+]
