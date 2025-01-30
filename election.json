@@ -67,5 +67,6 @@
   {"id": 65, "name":"Europawahl", "date":"2024-06-09", "path":"data/2024/europa"},
   {"id": 66, "name":"Landtagswahl Sachsen", "date":"2024-09-01", "path":"data/2024/sachsen"},
   {"id": 67, "name":"Landtagswahl Thüringen", "date":"2024-09-01", "path":"data/2024/thueringen"},
-  {"id": 68, "name":"Landtagswahl Brandenburg", "date":"2024-09-22", "path":"data/2024/brandenburg"}
+  {"id": 68, "name":"Landtagswahl Brandenburg", "date":"2024-09-22", "path":"data/2024/brandenburg"},
+  {"id": 69, "name":"Bürgerschaftswahl Hamburg", "date":"2025-03-02", "path":"data/2025/hamburg"}
 ]
